@@ -1,0 +1,1178 @@
+,Unnamed: 0,Tipi,Net Metrekare,Oda Sayısı,Binanın Yaşı,Bulunduğu Kat,Binanın Kat Sayısı,Isıtma Tipi,Eşya Durumu,Tapu Durumu,Site İçerisinde,Banyo Sayısı,Price,Balkon Sayısı,Balkon Tipi,WC Sayısı,İlandan sonra Geçen Gün,İlçe,Mahalle
+0,0,Daire,110,3,16,Bahçe Katı,2,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,13000,0,Yok,1,0, Merkezefendi,Bereketler Mahallesi
+1,1,Daire,50,1,5,2.Kat,3,Yerden Isıtma,Eşyalı,Kat İrtifakı,Hayır,1,10000,0,Yok,1,0, Pamukkale,İncilipınar Mahallesi
+2,2,Daire,85,3,5,3.Kat,4,Merkezi Doğalgaz,Boş,Kat Mülkiyeti,Evet,1,15500,1,Kapalı Balkon,1,0, Merkezefendi,Kayalar Mahallesi
+3,3,Daire,120,6,11,4.Kat,7,Doğalgaz Sobalı,Boş,Kat Mülkiyeti,Evet,1,16000,1,Açık Balkon,1,0, Pamukkale,15 Mayıs Mahallesi
+4,4,Daire,40,1,0,3.Kat,3,Yerden Isıtma,Eşyalı,Kat Mülkiyeti,Hayır,1,15000,1,Açık Balkon,1,0, Pamukkale,Zeytinköy Mahallesi
+5,5,Daire,45,1,5,Bahçe Katı,4,Yerden Isıtma,Boş,Kat Mülkiyeti,Hayır,1,8000,0,Yok,1,0, Pamukkale,Yunusemre Mahallesi
+6,6,Daire,60,3,11,2.Kat,6,Kombi Doğalgaz,Eşyalı,Kat Mülkiyeti,Hayır,1,14000,1,Kapalı Balkon,1,0, Merkezefendi,Saraylar Mahallesi
+7,7,Daire,100,3,21,3.Kat,4,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,9000,0,Yok,1,0, Merkezefendi,Akkonak Mahallesi
+8,8,Daire,150,6,2,3.Kat,4,Yerden Isıtma,Boş,Kat İrtifakı,Hayır,2,28000,0,Yok,1,0, Merkezefendi,Şemikler Mahallesi
+9,9,Daire,127,3,21,Yüksek Giriş,4,Merkezi (Pay Ölçer),Boş,Kat Mülkiyeti,Evet,1,17000,0,Yok,1,0, Pamukkale,Yunusemre Mahallesi
+10,10,Daire,25,0,5,4.Kat,4,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,7000,0,Yok,1,0, Pamukkale,Kınıklı Mahallesi
+11,11,Daire,120,6,11,4.Kat,4,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,15000,0,Yok,1,1, Pamukkale,Kınıklı Mahallesi
+12,12,Daire,65,3,5,1.Kat,6,Kombi Doğalgaz,Boş,Kat İrtifakı,Hayır,1,14000,0,Yok,1,0, Merkezefendi,Saraylar Mahallesi
+13,13,Daire,45,1,5,Düz Giriş (Zemin),3,Yerden Isıtma,Eşyalı,Kat Mülkiyeti,Hayır,1,13000,0,Yok,1,1, Pamukkale,Mehmetçik Mahallesi
+14,14,Daire,60,3,4,2.Kat,5,Kombi Doğalgaz,Eşyalı,Kat Mülkiyeti,Evet,1,20000,1,Açık Balkon,1,1, Pamukkale,Asmalıevler Mahallesi
+15,15,Daire,40,1,4,2.Kat,3,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,10000,0,Yok,1,2, Pamukkale,Kınıklı Mahallesi
+16,16,Daire,45,1,5,2.Kat,4,Kombi Doğalgaz,Eşyalı,Kat Mülkiyeti,Hayır,1,10999,2,Kapalı Balkon,1,2, Pamukkale,Zeytinköy Mahallesi
+17,17,Daire,105,3,5,2.Kat,3,Kombi Doğalgaz,Boş,Kat İrtifakı,Hayır,1,17500,1,Açık Balkon,1,4, Merkezefendi,Karaman Mahallesi
+18,18,Daire,120,3,16,2.Kat,4,Kombi Doğalgaz,Boş,Müstakil Tapulu,Hayır,1,15000,0,Yok,1,0, Pamukkale,Mehmetçik Mahallesi
+19,19,Daire,115,6,5,7.Kat,9,Yerden Isıtma,Boş,Kat Mülkiyeti,Evet,1,27500,0,Yok,1,0, Merkezefendi,Şemikler Mahallesi
+20,20,Daire,40,1,21,1.Kat,5,Kombi Doğalgaz,Eşyalı,Bilinmiyor,Hayır,1,10000,0,Yok,1,2, Pamukkale,Mehmetçik Mahallesi
+21,21,Daire,44,1,5,1.Kat,3,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,10000,0,Yok,1,0, Pamukkale,Siteler Mahallesi
+22,22,Daire,135,6,21,4.Kat,7,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,18000,0,Yok,1,1, Merkezefendi,Karaman Mahallesi
+23,23,Daire,95,3,5,Bahçe Katı,3,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,11500,0,Yok,1,1, Pamukkale,Dokuzkavaklar Mahallesi
+24,24,Daire,110,5,5,Bahçe Katı,3,Kombi Doğalgaz,Boş,Kat İrtifakı,Hayır,1,15000,0,Yok,1,2, Merkezefendi,Hallaçlar Mahallesi
+25,25,Daire,165,6,16,1.Kat,4,Kombi Doğalgaz,Boş,Kat İrtifakı,Hayır,1,19000,0,Yok,1,2, Merkezefendi,Karaman Mahallesi
+26,26,Daire,40,1,4,Düz Giriş (Zemin),2,Yerden Isıtma,Eşyalı,Kat Mülkiyeti,Hayır,1,13000,0,Yok,1,1, Pamukkale,Hürriyet Mahallesi
+27,27,Daire,160,8,16,7.Kat,7,Merkezi Doğalgaz,Boş,Tapu Kaydı Yok,Hayır,2,25000,0,Yok,1,6, Pamukkale,Atalar Mahallesi
+28,28,Daire,150,6,21,2.Kat,4,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,15000,0,Yok,1,2, Merkezefendi,Altıntop Mahallesi
+29,29,Daire,50,1,0,2.Kat,2,Kombi Doğalgaz,Eşyalı,Kat Mülkiyeti,Hayır,1,16000,0,Yok,1,2, Pamukkale,Kınıklı Mahallesi
+30,30,Daire,215,8,5,Yüksek Giriş,4,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,2,25000,0,Yok,1,7, Pamukkale,Siteler Mahallesi
+31,31,Daire,65,3,0,2.Kat,3,Yerden Isıtma,Boş,Kat İrtifakı,Hayır,2,15500,0,Yok,1,1, Merkezefendi,Akkonak Mahallesi
+32,32,Daire,90,3,4,4.Kat,4,Yerden Isıtma,Boş,Kat İrtifakı,Hayır,1,20250,0,Yok,1,7, Merkezefendi,Akkonak Mahallesi
+33,33,Daire,40,1,5,1.Kat,3,Merkezi Doğalgaz,Eşyalı,Kat İrtifakı,Hayır,1,11500,0,Yok,1,7, Merkezefendi,Sırakapılar Mahallesi
+34,34,Daire,40,1,5,1.Kat,6,Yerden Isıtma,Eşyalı,Kat İrtifakı,Hayır,1,9000,0,Yok,1,7, Merkezefendi,Saraylar Mahallesi
+35,35,Daire,135,6,5,1.Kat,3,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,20000,0,Yok,1,7, Pamukkale,Siteler Mahallesi
+36,36,Daire,55,3,5,2.Kat,4,Yerden Isıtma,Boş,Kat Mülkiyeti,Hayır,1,16000,0,Yok,1,7, Pamukkale,Yunusemre Mahallesi
+37,37,Daire,125,3,5,2.Kat,2,Kombi Doğalgaz,Eşyalı,Kat İrtifakı,Hayır,1,17000,0,Yok,1,7, Pamukkale,Kınıklı Mahallesi
+38,38,Daire,70,3,4,2.Kat,4,Yerden Isıtma,Eşyalı,Kat Mülkiyeti,Hayır,1,15000,0,Yok,1,1, Pamukkale,Atalar Mahallesi
+39,39,Daire,55,1,0,1.Kat,4,Kombi Doğalgaz,Eşyalı,Kat İrtifakı,Hayır,1,15000,0,Yok,1,7, Pamukkale,Asmalıevler Mahallesi
+40,40,Daire,60,1,2,1.Kat,2,Yerden Isıtma,Eşyalı,Kat Mülkiyeti,Hayır,1,13000,0,Yok,1,7, Merkezefendi,Mehmet Akif Ersoy Mahallesi
+41,41,Daire,40,1,11,Bahçe Katı,4,Merkezi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,7000,0,Yok,1,7, Pamukkale,Yunusemre Mahallesi
+42,42,Daire,180,3,5,3.Kat,3,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,18000,0,Yok,1,0, Merkezefendi,Selçuk Bey Mahallesi
+43,43,Daire,75,3,4,Bahçe Katı,3,Kombi Doğalgaz,Eşyalı,Kat Mülkiyeti,Hayır,1,15000,0,Yok,1,7, Pamukkale,Kınıklı Mahallesi
+44,44,Daire,40,1,5,2.Kat,5,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,15000,0,Yok,1,7, Pamukkale,Kınıklı Mahallesi
+45,45,Daire,40,1,5,Çatı Katı,3,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,6500,0,Yok,1,7, Pamukkale,İncilipınar Mahallesi
+46,46,Daire,50,3,5,3.Kat,3,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,14000,0,Yok,1,8, Pamukkale,Asmalıevler Mahallesi
+47,47,Daire,40,1,4,7.Kat,7,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,9000,0,Yok,1,7, Pamukkale,Pelitlibağ Mahallesi
+48,48,Daire,95,3,16,1.Kat,4,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,12000,2,Açık Balkon,2,8, Merkezefendi,Sırakapılar Mahallesi
+49,49,Daire,105,3,11,2.Kat,2,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,11000,0,Yok,1,7, Pamukkale,Siteler Mahallesi
+50,50,Daire,110,3,11,Bahçe Katı,3,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,14500,1,Açık Balkon,2,3, Merkezefendi,Merkez Efendi Mahallesi
+51,51,Daire,130,6,21,4.Kat,4,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,13500,0,Yok,1,8, Pamukkale,Kuşpınar Mahallesi
+52,52,Daire,50,3,0,1.Kat,3,Kombi Doğalgaz,Boş,Müstakil Tapulu,Hayır,1,13000,0,Yok,1,9, Merkezefendi,Karaman Mahallesi
+53,53,Daire,100,3,5,2.Kat,4,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,14000,1,Açık Balkon,2,9, Merkezefendi,Gümüşçay Mahallesi
+54,54,Daire,85,3,5,Yüksek Giriş,4,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,10750,0,Yok,1,4, Merkezefendi,Karahasanlı Mahallesi
+55,55,Daire,45,1,5,3.Kat,5,Merkezi (Pay Ölçer),Boş,Kat İrtifakı,Hayır,1,15500,1,Kapalı Balkon,1,9, Pamukkale,Zeytinköy Mahallesi
+56,56,Daire,95,2,5,3.Kat,4,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,10000,0,Yok,1,7, Merkezefendi,Karaman Mahallesi
+57,57,Daire,105,3,5,6.Kat,9,Yerden Isıtma,Boş,Kat Mülkiyeti,Evet,1,30000,0,Yok,1,9, Merkezefendi,Şemikler Mahallesi
+58,58,Daire,50,1,0,Kot 1 (-1).Kat,4,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,14000,0,Yok,1,10, Pamukkale,Yunusemre Mahallesi
+59,59,Daire,85,3,16,4.Kat,4,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,13000,0,Yok,1,10, Pamukkale,15 Mayıs Mahallesi
+60,60,Daire,140,6,11,Bahçe Katı,5,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,20000,1,Kapalı Balkon,1,10, Merkezefendi,Çakmak Mahallesi
+61,61,Daire,160,6,11,5.Kat,5,Kombi Doğalgaz,Boş,Müstakil Tapulu,Hayır,1,20000,0,Yok,1,10, Merkezefendi,Çakmak Mahallesi
+62,62,Daire,130,6,0,2.Kat,4,Yerden Isıtma,Boş,Kat Mülkiyeti,Hayır,1,23000,0,Yok,1,10, Merkezefendi,Şemikler Mahallesi
+63,63,Daire,50,1,5,2.Kat,2,Kombi Doğalgaz,Boş,Kat İrtifakı,Hayır,1,11000,0,Yok,1,10, Merkezefendi,Sırakapılar Mahallesi
+64,64,Daire,40,1,5,Düz Giriş (Zemin),3,Kombi Doğalgaz,Eşyalı,Kat Mülkiyeti,Hayır,1,10000,0,Yok,1,10, Pamukkale,Kınıklı Mahallesi
+65,65,Daire,50,1,5,Çatı Katı,3,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,8000,0,Yok,1,7, Pamukkale,Kınıklı Mahallesi
+66,66,Daire,155,6,16,2.Kat,3,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Evet,1,16000,0,Yok,1,10, Merkezefendi,Karaman Mahallesi
+67,67,Daire,90,3,21,3.Kat,4,Kombi Doğalgaz,Boş,Hisseli Tapu,Hayır,1,11000,2,Açık Balkon,1,11, Pamukkale,Kuşpınar Mahallesi
+68,68,Daire,125,6,21,6.Kat,7,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,14000,0,Yok,1,11, Merkezefendi,Değirmenönü Mahallesi
+69,69,Daire,35,1,5,2.Kat,4,Kombi Doğalgaz,Eşyalı,Kat Mülkiyeti,Hayır,1,12000,0,Yok,1,10, Pamukkale,Mehmetçik Mahallesi
+70,70,Daire,130,6,21,1.Kat,3,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Evet,1,15000,2,"Açık Balkon, Kapalı Balkon",2,1, Merkezefendi,Karaman Mahallesi
+71,71,Daire,48,1,11,4.Kat,4,Kombi Doğalgaz,Eşyalı,Kat Mülkiyeti,Hayır,1,8000,0,Yok,1,11, Honaz,Hürriyet Mahallesi
+72,72,Daire,90,3,0,2.Kat,3,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,20000,0,Yok,1,11, Merkezefendi,Şemikler Mahallesi
+73,73,Daire,65,1,5,Bahçe Katı,4,Kombi Doğalgaz,Eşyalı,Kat Mülkiyeti,Hayır,1,15000,0,Yok,1,10, Pamukkale,Yunusemre Mahallesi
+74,74,Daire,160,6,3,1.Kat,5,Yerden Isıtma,Boş,Kat Mülkiyeti,Hayır,1,25000,0,Yok,1,0, Merkezefendi,Yenişafak Mahallesi
+75,75,Daire,85,3,4,1.Kat,4,Yerden Isıtma,Eşyalı,Kat Mülkiyeti,Hayır,1,12500,0,Yok,1,1, Pamukkale,Atalar Mahallesi
+76,76,Daire,45,1,0,3.Kat,4,Elektrikli Radyatör,Eşyalı,Müstakil Tapulu,Hayır,1,7500,0,Yok,1,11, Acıpayam,Aşağı Mahallesi
+77,77,Daire,45,1,4,2.Kat,4,Kombi Doğalgaz,Eşyalı,Kat Mülkiyeti,Hayır,1,13000,1,Açık Balkon,1,2, Merkezefendi,Adalet Mahallesi
+78,78,Daire,40,1,4,Bahçe Katı,4,Kombi Doğalgaz,Boş,Tapu Kaydı Yok,Hayır,1,8000,0,Yok,1,7, Pamukkale,Asmalıevler Mahallesi
+79,79,Daire,55,1,5,2.Kat,3,Kombi Doğalgaz,Eşyalı,Kat Mülkiyeti,Hayır,1,17000,0,Yok,1,11, Pamukkale,Kınıklı Mahallesi
+80,80,Daire,60,2,3,2.Kat,3,Merkezi Doğalgaz,Eşyalı,Kat Mülkiyeti,Evet,1,14500,1,Açık Balkon,1,12, Pamukkale,Zeytinköy Mahallesi
+81,81,Daire,45,1,5,2.Kat,3,Kombi Doğalgaz,Eşyalı,Kat Mülkiyeti,Hayır,1,12500,1,Açık Balkon,1,12, Merkezefendi,Muratdede Mahallesi
+82,82,Daire,100,3,11,1.Kat,4,Yerden Isıtma,Boş,Kat Mülkiyeti,Hayır,2,15000,1,Kapalı Balkon,1,12, Pamukkale,İstiklal Mahallesi
+83,83,Daire,50,1,5,Yüksek Giriş,3,Kombi Doğalgaz,Eşyalı,Kat Mülkiyeti,Hayır,1,10000,1,Açık Balkon,1,13, Pamukkale,Atalar Mahallesi
+85,85,Daire,65,3,4,3.Kat,4,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,20000,0,Yok,1,7, Pamukkale,Kınıklı Mahallesi
+86,86,Daire,45,1,5,1.Kat,4,Merkezi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,7000,0,Yok,1,13, Pamukkale,Asmalıevler Mahallesi
+87,87,Daire,160,6,11,2.Kat,5,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,18000,0,Yok,1,3, Merkezefendi,Adalet Mahallesi
+88,88,Daire,150,6,11,1.Kat,2,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,14000,0,Yok,1,7, Pamukkale,Siteler Mahallesi
+89,89,Daire,100,6,21,5.Kat,5,Merkezi Doğalgaz,Boş,Kat Mülkiyeti,Evet,1,13000,1,Açık Balkon,2,14, Pamukkale,Kınıklı Mahallesi
+90,90,Daire,40,0,5,2.Kat,4,Yerden Isıtma,Boş,Tapu Kaydı Yok,Hayır,1,6500,0,Yok,1,0, Pamukkale,Yunusemre Mahallesi
+91,91,Daire,130,6,11,Bahçe Katı,4,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,9000,0,Yok,1,7, Pamukkale,Yunusemre Mahallesi
+92,92,Daire,180,6,16,3.Kat,4,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,23500,3,Açık Balkon,2,14, Pamukkale,İncilipınar Mahallesi
+93,93,Daire,158,6,11,5.Kat,6,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,20000,2,Açık Balkon,2,14, Merkezefendi,Karaman Mahallesi
+94,94,Daire,134,6,21,2.Kat,3,Merkezi Doğalgaz,Boş,Müstakil Tapulu,Hayır,1,30000,0,Yok,1,14, Pamukkale,Kınıklı Mahallesi
+95,95,Daire,48,1,5,2.Kat,5,Kombi Doğalgaz,Eşyalı,Kat Mülkiyeti,Hayır,1,13000,0,Yok,1,14, Pamukkale,Mehmetçik Mahallesi
+96,96,Daire,45,1,2,Bahçe Katı,3,Kombi Doğalgaz,Eşyalı,Kat Mülkiyeti,Hayır,1,9000,0,Yok,1,7, Pamukkale,Siteler Mahallesi
+97,97,Daire,95,3,5,3.Kat,5,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,19000,0,Yok,1,11, Pamukkale,Kayıhan Mahallesi
+100,100,Daire,135,6,5,3.Kat,4,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,20000,0,Yok,1,7, Pamukkale,Zeytinköy Mahallesi
+101,101,Daire,70,1,4,3.Kat,5,Kombi Doğalgaz,Eşyalı,Kat Mülkiyeti,Hayır,1,16000,0,Yok,1,15, Merkezefendi,Adalet Mahallesi
+102,102,Daire,50,1,4,1.Kat,2,Kombi Doğalgaz,Eşyalı,Kat Mülkiyeti,Hayır,1,13000,0,Yok,1,15, Merkezefendi,Adalet Mahallesi
+103,103,Daire,80,1,0,20.Kat,29,Merkezi (Pay Ölçer),Eşyalı,Kat İrtifakı,Hayır,1,23000,0,Yok,1,16, Merkezefendi,Kayalar Mahallesi
+104,104,Daire,75,1,5,20.Kat,29,Merkezi (Pay Ölçer),Eşyalı,Kat Mülkiyeti,Hayır,1,23000,0,Yok,1,16, Merkezefendi,Kayalar Mahallesi
+105,105,Daire,155,6,0,3.Kat,5,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,2,25000,2,Açık Balkon,2,16, Merkezefendi,Karahasanlı Mahallesi
+106,106,Daire,45,1,4,4.Kat,4,Kombi Doğalgaz,Boş,Tapu Kaydı Yok,Hayır,1,12500,0,Yok,1,16, Pamukkale,Siteler Mahallesi
+107,107,Daire,270,9,11,2.Kat,4,Jeotermal,Boş,Kat İrtifakı,Hayır,2,20000,3,Açık Balkon,4,4, Sarayköy,Atatürk Mahallesi
+108,108,Daire,85,3,5,2.Kat,2,Kombi Doğalgaz,Boş,Kat İrtifakı,Hayır,1,15000,0,Yok,1,16, Pamukkale,Dokuzkavaklar Mahallesi
+109,109,Daire,105,3,11,1.Kat,4,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,15000,0,Yok,1,7, Pamukkale,Siteler Mahallesi
+110,110,Daire,125,6,0,2.Kat,5,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,2,25000,2,Açık Balkon,1,16, Merkezefendi,Karahasanlı Mahallesi
+111,111,Daire,140,6,21,1.Kat,7,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,12500,0,Yok,1,17, Pamukkale,İstiklal Mahallesi
+112,112,Daire,110,6,21,Düz Giriş (Zemin),3,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,12000,0,Yok,1,16, Merkezefendi,Akkonak Mahallesi
+113,113,Daire,45,1,0,2.Kat,5,Yerden Isıtma,Eşyalı,Kat Mülkiyeti,Hayır,1,18000,0,Yok,1,16, Merkezefendi,Karahasanlı Mahallesi
+114,114,Daire,210,8,5,3.Kat,10,Merkezi (Pay Ölçer),Boş,Kat Mülkiyeti,Evet,3,40000,0,Yok,1,16, Merkezefendi,Çakmak Mahallesi
+116,116,Daire,136,6,21,2.Kat,4,Merkezi Doğalgaz,Boş,Kat Mülkiyeti,Evet,1,20000,0,Yok,1,6, Merkezefendi,Mehmet Akif Ersoy Mahallesi
+117,117,Daire,40,1,4,2.Kat,3,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,13000,1,Açık Balkon,1,3, Merkezefendi,Adalet Mahallesi
+118,118,Daire,50,1,5,Yüksek Giriş,3,Kombi Doğalgaz,Eşyalı,Kat Mülkiyeti,Hayır,1,10000,0,Yok,1,11, Pamukkale,Topraklık Mahallesi
+119,119,Daire,90,3,11,4.Kat,4,Kombi Doğalgaz,Boş,Kat İrtifakı,Hayır,1,9000,0,Yok,1,17, Pamukkale,İncilipınar Mahallesi
+120,120,Daire,43,1,5,3.Kat,7,Merkezi (Pay Ölçer),Eşyalı,Kat Mülkiyeti,Evet,1,11000,0,Yok,1,17, Pamukkale,Zeytinköy Mahallesi
+121,121,Daire,125,3,21,3.Kat,3,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,6250,3,Açık Balkon,1,1, Pamukkale,Cumhuriyet Mahallesi
+122,122,Daire,160,6,11,3.Kat,3,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,20000,0,Yok,1,17, Pamukkale,Asmalıevler Mahallesi
+123,123,Daire,40,1,5,7.Kat,7,Merkezi Doğalgaz,Eşyalı,Tapu Kaydı Yok,Hayır,1,14000,0,Yok,1,17, Merkezefendi,Saraylar Mahallesi
+124,124,Daire,45,1,11,Düz Giriş (Zemin),2,Kombi Doğalgaz,Eşyalı,Kat Mülkiyeti,Hayır,1,12500,0,Yok,1,17, Pamukkale,Cumhuriyet Mahallesi
+125,125,Daire,45,3,5,7.Kat,7,Merkezi (Pay Ölçer),Eşyalı,Kat İrtifakı,Hayır,1,13000,0,Yok,1,17, Merkezefendi,Saraylar Mahallesi
+126,126,Daire,145,6,21,1.Kat,6,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,15000,0,Yok,1,17, Pamukkale,Atalar Mahallesi
+127,127,Daire,110,6,16,Bahçe Katı,5,Kombi Doğalgaz,Boş,Kat İrtifakı,Hayır,1,20000,0,Yok,1,17, Pamukkale,Mehmetçik Mahallesi
+128,128,Daire,35,1,3,1.Kat,3,Yerden Isıtma,Eşyalı,Kat Mülkiyeti,Hayır,1,13500,0,Yok,1,17, Pamukkale,İncilipınar Mahallesi
+129,129,Daire,35,1,0,2.Kat,5,Yerden Isıtma,Boş,Kat İrtifakı,Hayır,1,18000,0,Yok,1,17, Merkezefendi,Karahasanlı Mahallesi
+130,130,Daire,90,3,0,Yüksek Giriş,5,Yerden Isıtma,Boş,Kat Mülkiyeti,Hayır,1,18500,1,Kapalı Balkon,1,2, Merkezefendi,Yenişafak Mahallesi
+131,131,Daire,170,7,5,2.Kat,11,Kombi Doğalgaz,Boş,Bilinmiyor,Hayır,2,23500,0,Yok,1,17, Merkezefendi,Şemikler Mahallesi
+132,132,Daire,125,3,5,2.Kat,3,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,17500,2,Kapalı Balkon,1,14, Merkezefendi,Selçuk Bey Mahallesi
+133,133,Daire,130,6,3,Düz Giriş (Zemin),5,Yerden Isıtma,Boş,Kat Mülkiyeti,Evet,2,27000,0,Yok,1,18, Merkezefendi,Kayalar Mahallesi
+134,134,Daire,50,1,5,3.Kat,3,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,6500,0,Yok,1,7, Pamukkale,Zeytinköy Mahallesi
+135,135,Daire,90,3,21,Yüksek Giriş,4,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,13000,0,Yok,1,18, Merkezefendi,Değirmenönü Mahallesi
+136,136,Daire,30,1,5,1.Kat,4,Merkezi Doğalgaz,Boş,Kat İrtifakı,Hayır,1,9500,0,Yok,1,13, Pamukkale,Fesleğen Mahallesi
+137,137,Daire,160,6,11,4.Kat,4,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,22000,0,Yok,1,7, Pamukkale,Yunusemre Mahallesi
+138,138,Daire,45,1,5,3.Kat,4,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,9000,0,Yok,1,7, Pamukkale,Yunusemre Mahallesi
+139,139,Daire,75,3,11,3.Kat,6,Kombi Doğalgaz,Eşyalı,Kat Mülkiyeti,Hayır,1,13000,2,Açık Balkon,1,18, Pamukkale,Yunusemre Mahallesi
+140,140,Daire,43,1,5,1.Kat,4,Yerden Isıtma,Boş,Kat Mülkiyeti,Hayır,1,8500,0,Yok,1,7, Pamukkale,Asmalıevler Mahallesi
+141,141,Daire,50,1,5,2.Kat,3,Kombi Doğalgaz,Eşyalı,Kat Mülkiyeti,Hayır,1,12000,0,Yok,1,18, Pamukkale,Asmalıevler Mahallesi
+142,142,Daire,60,3,5,3.Kat,4,Kombi Doğalgaz,Eşyalı,Kat Mülkiyeti,Hayır,1,10000,0,Yok,1,18, Merkezefendi,Değirmenönü Mahallesi
+144,144,Daire,180,6,21,1.Kat,6,Kombi Doğalgaz,Boş,Hisseli Tapu,Hayır,1,23000,0,Yok,1,19, Pamukkale,Kuşpınar Mahallesi
+145,145,Daire,70,1,4,4.Kat,4,Yerden Isıtma,Eşyalı,Kat Mülkiyeti,Hayır,1,17000,0,Yok,1,19, Pamukkale,Yunusemre Mahallesi
+146,146,Daire,110,6,21,5.Kat,6,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Evet,1,20000,0,Yok,1,19, Merkezefendi,Yenişehir Mahallesi
+148,148,Daire,45,1,3,Bahçe Katı,3,Kombi Doğalgaz,Eşyalı,Kat Mülkiyeti,Hayır,1,10000,0,Yok,1,7, Pamukkale,Yunusemre Mahallesi
+149,149,Daire,120,6,16,2.Kat,2,Kombi Doğalgaz,Boş,Kat İrtifakı,Hayır,1,16000,0,Yok,1,3, Merkezefendi,Selçuk Bey Mahallesi
+150,150,Daire,78,1,5,Kot 4 (-4).Kat,29,Merkezi (Pay Ölçer),Boş,Kat Mülkiyeti,Evet,1,21500,0,Yok,1,20, Merkezefendi,Kayalar Mahallesi
+151,151,Daire,130,6,16,2.Kat,5,Merkezi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,18000,0,Yok,1,7, Pamukkale,Yunusemre Mahallesi
+153,153,Daire,48,3,1,Çatı Katı,3,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,12500,0,Yok,1,7, Merkezefendi,Sırakapılar Mahallesi
+154,154,Daire,80,3,0,4.Kat,5,Kombi Doğalgaz,Eşyalı,Kat Mülkiyeti,Hayır,1,15000,0,Yok,1,0, Merkezefendi,Karahasanlı Mahallesi
+155,155,Daire,120,6,11,Çatı Katı,3,Kombi Doğalgaz,Boş,Kat İrtifakı,Hayır,1,12000,1,Açık Teras,1,20, Pamukkale,Atalar Mahallesi
+156,156,Daire,45,1,3,Bahçe Katı,3,Kombi Doğalgaz,Boş,Kat İrtifakı,Hayır,1,6500,0,Yok,1,20, Pamukkale,İncilipınar Mahallesi
+157,157,Daire,90,3,4,2.Kat,5,Merkezi (Pay Ölçer),Eşyalı,Kooperatiften Tapu,Evet,1,20000,1,Açık Balkon,2,20, Merkezefendi,Hacıeyüplü Mahallesi
+158,158,Daire,80,3,5,2.Kat,4,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,17000,0,Yok,1,20, Merkezefendi,Çakmak Mahallesi
+159,159,Daire,34,1,4,2.Kat,2,Kombi Doğalgaz,Eşyalı,Kat Mülkiyeti,Hayır,1,8950,0,Yok,1,11, Pamukkale,İstiklal Mahallesi
+160,160,Daire,45,1,5,1.Kat,4,Kombi Doğalgaz,Eşyalı,Kat Mülkiyeti,Hayır,1,9000,0,Yok,1,21, Pamukkale,Pelitlibağ Mahallesi
+161,161,Daire,80,3,21,3.Kat,3,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,14500,0,Yok,1,16, Pamukkale,Pelitlibağ Mahallesi
+162,162,Daire,40,1,5,1.Kat,3,Merkezi (Pay Ölçer),Eşyalı,Kat Mülkiyeti,Hayır,1,9000,0,Yok,1,19, Pamukkale,İstiklal Mahallesi
+163,163,Daire,50,3,4,1.Kat,5,Merkezi Doğalgaz,Eşyalı,Kat Mülkiyeti,Hayır,1,13750,0,Yok,1,19, Pamukkale,Zeytinköy Mahallesi
+164,164,Daire,50,1,4,Çatı Katı,2,Yerden Isıtma,Eşyalı,Kat Mülkiyeti,Hayır,1,9500,0,Yok,1,21, Pamukkale,Zeytinköy Mahallesi
+165,165,Daire,90,3,0,3.Kat,4,Yerden Isıtma,Boş,Kat Mülkiyeti,Hayır,1,19000,0,Yok,1,18, Merkezefendi,Çakmak Mahallesi
+166,166,Daire,120,6,4,Yüksek Giriş,4,Kombi Doğalgaz,Boş,Kat İrtifakı,Hayır,1,15500,0,Yok,1,21, Merkezefendi,Değirmenönü Mahallesi
+167,167,Daire,130,6,16,2.Kat,4,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,15000,0,Yok,1,1, Pamukkale,Siteler Mahallesi
+168,168,Daire,125,6,21,2.Kat,2,Merkezi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,15000,0,Yok,1,22, Pamukkale,İstiklal Mahallesi
+169,169,Daire,140,6,21,2.Kat,7,Merkezi Doğalgaz,Boş,Kat Mülkiyeti,Evet,1,15500,3,"Açık Balkon, Kapalı Balkon",2,2, Merkezefendi,Yenişehir Mahallesi
+170,170,Daire,150,6,21,6.Kat,7,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Evet,1,20000,1,Açık Balkon,2,22, Pamukkale,Fesleğen Mahallesi
+171,171,Daire,125,6,21,Yüksek Giriş,2,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,15000,0,Yok,1,22, Pamukkale,Topraklık Mahallesi
+172,172,Daire,125,6,4,3.Kat,4,Kombi Doğalgaz,Boş,Kat İrtifakı,Hayır,1,20000,0,Yok,1,14, Merkezefendi,Karahasanlı Mahallesi
+173,173,Daire,45,1,5,2.Kat,3,Kombi Doğalgaz,Boş,Tapu Kaydı Yok,Hayır,1,10000,0,Yok,1,8, Merkezefendi,Sırakapılar Mahallesi
+174,174,Daire,50,1,5,3.Kat,5,Merkezi Doğalgaz,Boş,Kat Mülkiyeti,Evet,1,9000,0,Yok,1,22, Pamukkale,Zeytinköy Mahallesi
+175,175,Daire,170,6,11,3.Kat,4,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,25000,0,Yok,1,22, Merkezefendi,Adalet Mahallesi
+177,177,Daire,125,6,16,2.Kat,3,Kombi Doğalgaz,Boş,Tapu Kaydı Yok,Hayır,1,13000,2,Açık Balkon,1,23, Merkezefendi,İlbade Mahallesi
+178,178,Daire,50,1,5,3.Kat,8,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,12000,0,Yok,1,7, Pamukkale,Zeytinköy Mahallesi
+179,179,Daire,150,8,21,3.Kat,3,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,10000,0,Yok,1,17, Merkezefendi,Sevindik Mahallesi
+180,180,Daire,100,3,5,2.Kat,3,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,15000,0,Yok,1,23, Pamukkale,İstiklal Mahallesi
+181,181,Daire,65,3,11,3.Kat,4,Kombi Doğalgaz,Eşyalı,Kat Mülkiyeti,Hayır,1,20000,0,Yok,1,23, Pamukkale,Yunusemre Mahallesi
+182,182,Daire,130,6,11,2.Kat,4,Kombi Doğalgaz,Boş,Yabancıdan,Evet,1,15500,2,"Açık Balkon, Kapalı Balkon",2,23, Merkezefendi,Gültepe Mahallesi
+183,183,Daire,90,2,3,3.Kat,3,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,2,12500,0,Yok,1,23, Pamukkale,Bağbaşı Mahallesi
+184,184,Daire,200,6,5,3.Kat,5,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Evet,2,40000,0,Yok,1,23, Merkezefendi,Gerzele Mahallesi
+185,185,Daire,45,1,5,3.Kat,4,Yerden Isıtma,Eşyalı,Kat Mülkiyeti,Hayır,1,10000,0,Yok,1,23, Pamukkale,Asmalıevler Mahallesi
+186,186,Daire,165,6,11,2.Kat,5,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,26000,0,Yok,1,23, Merkezefendi,Yenişafak Mahallesi
+187,187,Daire,110,3,0,2.Kat,4,Yerden Isıtma,Boş,Kat Mülkiyeti,Hayır,1,16000,0,Yok,1,23, Merkezefendi,Şemikler Mahallesi
+188,188,Daire,50,1,4,Kot 4 (-4).Kat,7,Kombi Doğalgaz,Eşyalı,Kat Mülkiyeti,Hayır,1,10000,0,Yok,1,24, Merkezefendi,Muratdede Mahallesi
+189,189,Daire,68,3,2,1.Kat,2,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,12000,0,Yok,1,24, Merkezefendi,Muratdede Mahallesi
+190,190,Daire,170,6,11,4.Kat,4,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,22000,0,Yok,1,11, Merkezefendi,Adalet Mahallesi
+191,191,Daire,65,3,16,2.Kat,3,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,2,14500,1,Kapalı Balkon,1,24, Merkezefendi,Değirmenönü Mahallesi
+192,192,Daire,130,3,4,Kot 2 (-2).Kat,6,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,2,19500,0,Yok,2,24, Merkezefendi,Şemikler Mahallesi
+193,193,Daire,200,6,11,1.Kat,5,Merkezi (Pay Ölçer),Boş,Kat Mülkiyeti,Hayır,2,45000,0,Yok,1,24, Merkezefendi,Çakmak Mahallesi
+194,194,Daire,130,6,16,3.Kat,3,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,17000,0,Yok,1,14, Merkezefendi,Karahasanlı Mahallesi
+195,195,Daire,45,1,5,4.Kat,8,Kombi Doğalgaz,Eşyalı,Kat İrtifakı,Evet,1,12000,0,Yok,1,24, Pamukkale,Zeytinköy Mahallesi
+196,196,Daire,70,3,5,2.Kat,3,Yerden Isıtma,Eşyalı,Kat Mülkiyeti,Hayır,1,14000,0,Yok,1,24, Merkezefendi,Değirmenönü Mahallesi
+197,197,Daire,125,3,5,3.Kat,4,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,21000,0,Yok,1,8, Pamukkale,Yunusemre Mahallesi
+198,198,Daire,50,1,11,2.Kat,4,Kombi Doğalgaz,Eşyalı,Kat Mülkiyeti,Hayır,1,10000,0,Yok,1,25, Pamukkale,Asmalıevler Mahallesi
+199,199,Daire,70,6,5,Çatı Katı,3,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,14000,0,Yok,1,7, Pamukkale,Kınıklı Mahallesi
+200,200,Daire,17,0,5,Çatı Katı,3,Klimalı,Eşyalı,Kat Mülkiyeti,Hayır,1,6500,0,Yok,1,18, Pamukkale,İncilipınar Mahallesi
+201,201,Daire,45,1,2,1.Kat,4,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,9000,0,Yok,1,7, Pamukkale,Yunusemre Mahallesi
+202,202,Daire,45,1,5,6.Kat,7,Merkezi Doğalgaz,Eşyalı,Kat Mülkiyeti,Evet,1,9500,0,Yok,1,25, Pamukkale,Zeytinköy Mahallesi
+203,203,Daire,150,6,11,1.Kat,3,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,2,25000,0,Yok,1,7, Pamukkale,İncilipınar Mahallesi
+204,204,Daire,90,3,11,1.Kat,3,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,14500,0,Yok,1,25, Pamukkale,Bağbaşı Mahallesi
+205,205,Daire,45,1,5,1.Kat,3,Kombi Doğalgaz,Eşyalı,Müstakil Tapulu,Hayır,1,9500,0,Yok,1,25, Merkezefendi,Değirmenönü Mahallesi
+206,206,Daire,75,1,5,Bahçe Katı,4,Kombi Doğalgaz,Eşyalı,Kat Mülkiyeti,Hayır,1,15000,0,Yok,1,25, Pamukkale,Kınıklı Mahallesi
+207,207,Daire,175,6,21,2.Kat,4,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,25000,0,Yok,1,25, Pamukkale,Yunusemre Mahallesi
+208,208,Daire,40,1,1,2.Kat,5,Yerden Isıtma,Eşyalı,Hisseli Tapu,Hayır,1,16000,0,Yok,1,16, Pamukkale,Yunusemre Mahallesi
+209,209,Daire,140,6,21,1.Kat,7,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,19000,0,Yok,1,16, Merkezefendi,Servergazi Mahallesi
+210,210,Daire,220,6,11,5.Kat,5,Merkezi (Pay Ölçer),Boş,Kat Mülkiyeti,Hayır,1,28000,0,Yok,1,25, Merkezefendi,Selçuk Bey Mahallesi
+211,211,Daire,60,3,5,3.Kat,3,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,12000,0,Yok,1,25, Pamukkale,Kervansaray Mahallesi
+212,212,Daire,45,1,11,2.Kat,4,Kombi Doğalgaz,Eşyalı,Kat Mülkiyeti,Hayır,1,10000,0,Yok,1,11, Pamukkale,Atalar Mahallesi
+213,213,Daire,100,3,0,1.Kat,2,Yerden Isıtma,Boş,Kat Mülkiyeti,Hayır,2,22500,0,Yok,1,25, Merkezefendi,Gümüşçay Mahallesi
+214,214,Daire,120,5,16,1.Kat,4,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Evet,1,17000,0,Yok,1,25, Merkezefendi,Gültepe Mahallesi
+215,215,Daire,150,6,5,1.Kat,5,Yerden Isıtma,Boş,Kat Mülkiyeti,Hayır,2,24000,0,Yok,1,25, Merkezefendi,Şemikler Mahallesi
+216,216,Daire,90,3,0,Bahçe Katı,5,Yerden Isıtma,Boş,Kat Mülkiyeti,Hayır,1,15000,0,Yok,1,2, Merkezefendi,Karaman Mahallesi
+217,217,Daire,40,1,11,2.Kat,4,Kombi Doğalgaz,Boş,Kat İrtifakı,Hayır,1,12000,0,Yok,1,1, Merkezefendi,Değirmenönü Mahallesi
+218,218,Daire,90,3,0,Yüksek Giriş,2,Yerden Isıtma,Boş,Kat Mülkiyeti,Hayır,1,13000,1,Kapalı Balkon,1,26, Pamukkale,Dokuzkavaklar Mahallesi
+219,219,Daire,55,1,5,2.Kat,3,Yerden Isıtma,Eşyalı,Kat İrtifakı,Evet,1,15000,0,Yok,1,26, Pamukkale,Zeytinköy Mahallesi
+220,220,Daire,120,3,3,2.Kat,4,Yerden Isıtma,Boş,Kat Mülkiyeti,Hayır,1,21000,0,Yok,1,27, Merkezefendi,Karahasanlı Mahallesi
+221,221,Daire,150,6,11,1.Kat,3,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,17500,0,Yok,1,27, Pamukkale,Siteler Mahallesi
+222,222,Daire,110,3,16,3.Kat,3,Kombi Doğalgaz,Eşyalı,Kat Mülkiyeti,Hayır,1,21000,0,Yok,1,25, Pamukkale,Kınıklı Mahallesi
+223,223,Daire,35,1,11,1.Kat,3,Kombi Doğalgaz,Eşyalı,Müstakil Tapulu,Hayır,1,8500,0,Yok,1,27, Pamukkale,Asmalıevler Mahallesi
+224,224,Daire,40,1,5,1.Kat,4,Kombi Doğalgaz,Eşyalı,Bilinmiyor,Hayır,1,11000,0,Yok,1,27, Merkezefendi,Sırakapılar Mahallesi
+225,225,Daire,135,6,11,2.Kat,5,Merkezi (Pay Ölçer),Boş,Kat Mülkiyeti,Evet,1,19000,0,Yok,1,27, Merkezefendi,Mehmet Akif Ersoy Mahallesi
+226,226,Daire,100,3,11,4.Kat,4,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,13000,1,Açık Balkon,2,2, Merkezefendi,Karaman Mahallesi
+227,227,Daire,40,1,5,1.Kat,3,Kombi Doğalgaz,Eşyalı,Kat Mülkiyeti,Hayır,1,9250,0,Yok,1,27, Pamukkale,Bağbaşı Mahallesi
+228,228,Daire,45,1,5,2.Kat,3,Yerden Isıtma,Eşyalı,Kat Mülkiyeti,Hayır,1,14000,0,Yok,1,25, Pamukkale,Pelitlibağ Mahallesi
+229,229,Daire,40,1,11,1.Kat,4,Yerden Isıtma,Eşyalı,Kat Mülkiyeti,Hayır,1,10000,0,Yok,1,27, Merkezefendi,Sırakapılar Mahallesi
+230,230,Daire,30,0,5,Bahçe Katı,3,Yerden Isıtma,Eşyalı,Kat Mülkiyeti,Hayır,1,7000,0,Yok,1,27, Pamukkale,Siteler Mahallesi
+231,231,Daire,45,4,0,2.Kat,3,Yerden Isıtma,Eşyalı,Kat İrtifakı,Hayır,1,16000,0,Yok,1,27, Pamukkale,Zeytinköy Mahallesi
+232,232,Daire,55,3,0,2.Kat,4,Yerden Isıtma,Eşyalı,Kat İrtifakı,Hayır,1,20000,0,Yok,1,27, Pamukkale,Asmalıevler Mahallesi
+233,233,Daire,50,1,2,Düz Giriş (Zemin),2,Yerden Isıtma,Eşyalı,Kat İrtifakı,Hayır,1,10000,0,Yok,1,27, Pamukkale,Kayıhan Mahallesi
+234,234,Daire,40,1,4,2.Kat,3,Yerden Isıtma,Eşyalı,Kat İrtifakı,Hayır,1,11500,0,Yok,1,27, Merkezefendi,Değirmenönü Mahallesi
+235,235,Daire,110,6,11,1.Kat,3,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,12000,0,Yok,1,27, Pamukkale,Kayıhan Mahallesi
+236,236,Daire,135,6,16,Düz Giriş (Zemin),2,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,18000,0,Yok,1,27, Merkezefendi,Selçuk Bey Mahallesi
+237,237,Daire,100,6,21,1.Kat,2,Kombi Doğalgaz,Boş,Kat İrtifakı,Hayır,1,11000,0,Yok,1,27, Merkezefendi,Değirmenönü Mahallesi
+238,238,Daire,175,6,11,1.Kat,3,Kombi Doğalgaz,Boş,Kat İrtifakı,Hayır,1,19000,0,Yok,1,27, Merkezefendi,Şemikler Mahallesi
+239,239,Daire,160,6,21,4.Kat,7,Merkezi Doğalgaz,Boş,Hisseli Tapu,Hayır,1,25000,0,Yok,1,28, Pamukkale,Atalar Mahallesi
+240,240,Daire,90,3,5,3.Kat,3,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,15000,0,Yok,1,9, Pamukkale,Asmalıevler Mahallesi
+241,241,Daire,70,3,5,Bahçe Katı,3,Kombi Doğalgaz,Eşyalı,Kat Mülkiyeti,Hayır,1,14000,0,Yok,1,28, Merkezefendi,Merkez Efendi Mahallesi
+242,242,Daire,120,3,11,3.Kat,3,Kombi Doğalgaz,Eşyalı,Kat Mülkiyeti,Hayır,1,25000,0,Yok,1,28, Pamukkale,Mehmetçik Mahallesi
+243,243,Daire,135,3,16,Çatı Katı,2,Kombi Doğalgaz,Boş,Kat İrtifakı,Hayır,1,14000,0,Yok,1,28, Pamukkale,Kınıklı Mahallesi
+244,244,Daire,60,3,5,2.Kat,3,Kombi Doğalgaz,Eşyalı,Kat Mülkiyeti,Hayır,1,17000,0,Yok,1,28, Pamukkale,Mehmetçik Mahallesi
+245,245,Residence,41,1,5,4.Kat,4,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,14000,0,Yok,1,2, Pamukkale,Kuşpınar Mahallesi
+246,246,Daire,100,3,11,3.Kat,5,Merkezi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,17000,0,Yok,1,28, Merkezefendi,Yenişafak Mahallesi
+247,247,Daire,170,6,0,7.Kat,8,Yerden Isıtma,Boş,Kat Mülkiyeti,Evet,2,38000,0,Yok,1,28, Merkezefendi,Şemikler Mahallesi
+248,248,Daire,120,3,5,4.Kat,4,Kombi Doğalgaz,Eşyalı,Kat Mülkiyeti,Hayır,1,24999,0,Yok,1,28, Merkezefendi,Çakmak Mahallesi
+249,249,Daire,50,1,5,1.Kat,4,Yerden Isıtma,Boş,Kat Mülkiyeti,Hayır,1,9000,0,Yok,1,25, Pamukkale,Bağbaşı Mahallesi
+250,250,Daire,45,1,5,Yüksek Giriş,5,Yerden Isıtma,Boş,Kat Mülkiyeti,Hayır,1,7500,0,Yok,1,10, Pamukkale,Bağbaşı Mahallesi
+251,251,Daire,50,1,0,5.Kat,5,Kombi Doğalgaz,Eşyalı,Kat Mülkiyeti,Hayır,1,11000,0,Yok,1,28, Merkezefendi,Karaman Mahallesi
+252,252,Daire,60,1,0,2.Kat,3,Yerden Isıtma,Eşyalı,Kat Mülkiyeti,Hayır,1,18500,0,Yok,1,28, Pamukkale,Kınıklı Mahallesi
+253,253,Daire,165,6,16,1.Kat,5,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,21000,0,Yok,1,28, Merkezefendi,Adalet Mahallesi
+254,254,Daire,45,1,0,2.Kat,4,Yerden Isıtma,Eşyalı,Kat Mülkiyeti,Hayır,1,20750,0,Yok,1,28, Merkezefendi,Karahasanlı Mahallesi
+255,255,Daire,140,6,16,3.Kat,4,Merkezi (Pay Ölçer),Boş,Kat Mülkiyeti,Evet,1,15500,0,Yok,1,18, Merkezefendi,Adalet Mahallesi
+256,256,Daire,105,3,16,3.Kat,4,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,11000,0,Yok,1,29, Merkezefendi,Karaman Mahallesi
+257,257,Daire,105,3,21,2.Kat,3,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,13000,0,Yok,1,29, Pamukkale,Atalar Mahallesi
+258,258,Daire,50,1,0,2.Kat,5,Kombi Doğalgaz,Eşyalı,Müstakil Tapulu,Hayır,1,12000,0,Yok,1,29, Pamukkale,Asmalıevler Mahallesi
+259,259,Daire,150,6,11,2.Kat,12,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,21000,0,Yok,1,29, Merkezefendi,Yenişafak Mahallesi
+260,260,Daire,100,3,0,2.Kat,3,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,15000,0,Yok,1,29, Merkezefendi,Sümer Mahallesi
+261,261,Daire,40,1,21,2.Kat,3,Klimalı,Eşyalı,Kat Mülkiyeti,Hayır,1,9000,0,Yok,1,29, Pamukkale,15 Mayıs Mahallesi
+262,262,Daire,50,1,4,4.Kat,6,Kombi Doğalgaz,Eşyalı,Kat Mülkiyeti,Hayır,1,12500,0,Yok,1,27, Merkezefendi,Saraylar Mahallesi
+263,263,Daire,48,1,5,2.Kat,3,Kombi Doğalgaz,Eşyalı,Kat Mülkiyeti,Hayır,Yok,9000,0,Yok,1,29, Pamukkale,15 Mayıs Mahallesi
+264,264,Daire,155,6,11,2.Kat,4,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,2,25000,0,Yok,1,29, Merkezefendi,Adalet Mahallesi
+265,265,Daire,50,1,5,Yüksek Giriş,4,Kombi Doğalgaz,Eşyalı,Kat Mülkiyeti,Hayır,1,10000,0,Yok,1,29, Pamukkale,Pelitlibağ Mahallesi
+266,266,Daire,110,3,21,2.Kat,3,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,14000,0,Yok,1,29, Merkezefendi,Değirmenönü Mahallesi
+267,267,Daire,75,3,21,2.Kat,2,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,10000,0,Yok,1,29, Merkezefendi,Değirmenönü Mahallesi
+268,268,Daire,45,1,4,3.Kat,4,Kombi Doğalgaz,Boş,Kat İrtifakı,Hayır,1,11000,0,Yok,1,2, Pamukkale,Hacıkaplanlar Mahallesi
+269,269,Daire,40,1,5,1.Kat,4,Merkezi (Pay Ölçer),Eşyalı,Kat Mülkiyeti,Hayır,1,12000,0,Yok,1,29, Pamukkale,İncilipınar Mahallesi
+270,270,Daire,130,6,21,3.Kat,4,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,13000,0,Yok,1,29, Merkezefendi,Sırakapılar Mahallesi
+271,271,Daire,55,1,0,Yüksek Giriş,2,Kombi Doğalgaz,Eşyalı,Kat Mülkiyeti,Hayır,1,15000,0,Yok,1,29, Merkezefendi,Değirmenönü Mahallesi
+272,272,Daire,45,1,4,2.Kat,5,Yerden Isıtma,Eşyalı,Kat Mülkiyeti,Hayır,1,11000,0,Yok,1,29, Pamukkale,Pelitlibağ Mahallesi
+273,273,Daire,50,1,5,4.Kat,4,Kombi Doğalgaz,Eşyalı,Kat İrtifakı,Hayır,1,12000,0,Yok,1,29, Pamukkale,Pelitlibağ Mahallesi
+274,274,Daire,75,3,5,2.Kat,4,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,18000,0,Yok,1,7, Pamukkale,Kınıklı Mahallesi
+275,275,Daire,65,3,4,2.Kat,3,Merkezi Doğalgaz,Boş,Tapu Kaydı Yok,Hayır,1,13000,0,Yok,1,28, Pamukkale,15 Mayıs Mahallesi
+276,276,Daire,60,1,0,2.Kat,3,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,17000,0,Yok,1,7, Pamukkale,Kınıklı Mahallesi
+277,277,Daire,162,6,21,3.Kat,3,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,24000,0,Yok,1,30, Pamukkale,Mehmetçik Mahallesi
+278,278,Daire,55,1,5,2.Kat,4,Yerden Isıtma,Eşyalı,Kat Mülkiyeti,Hayır,1,12500,0,Yok,1,29, Pamukkale,Mehmetçik Mahallesi
+279,279,Daire,55,3,5,3.Kat,4,Kombi Doğalgaz,Eşyalı,Kat Mülkiyeti,Hayır,1,15000,1,Açık Balkon,1,31, Merkezefendi,Değirmenönü Mahallesi
+280,280,Daire,100,3,3,4.Kat,4,Yerden Isıtma,Boş,Kat İrtifakı,Hayır,1,15000,1,Açık Balkon,1,8, Merkezefendi,Muratdede Mahallesi
+281,281,Daire,105,3,5,2.Kat,4,Kombi Doğalgaz,Boş,Kat İrtifakı,Hayır,1,11000,1,Açık Balkon,2,2, Pamukkale,Topraklık Mahallesi
+282,282,Daire,40,1,5,2.Kat,3,Yerden Isıtma,Eşyalı,Kat Mülkiyeti,Hayır,1,15000,0,Yok,1,31, Pamukkale,Zeytinköy Mahallesi
+283,283,Daire,85,3,0,1.Kat,3,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,19000,0,Yok,1,32, Merkezefendi,Şemikler Mahallesi
+284,284,Daire,170,6,5,3.Kat,5,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,30000,0,Yok,1,18, Merkezefendi,Yenişafak Mahallesi
+285,285,Daire,80,3,5,1.Kat,2,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,13000,1,Kapalı Balkon,1,2, Pamukkale,Bağbaşı Mahallesi
+287,287,Daire,75,3,1,3.Kat,4,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,18000,0,Yok,1,7, Pamukkale,Kınıklı Mahallesi
+288,288,Daire,35,1,5,2.Kat,5,Kombi Doğalgaz,Eşyalı,Kat Mülkiyeti,Hayır,1,10000,0,Yok,1,32, Pamukkale,İncilipınar Mahallesi
+289,289,Daire,40,1,11,1.Kat,2,Kombi Doğalgaz,Eşyalı,Kat Mülkiyeti,Hayır,1,8000,0,Yok,1,32, Pamukkale,İncilipınar Mahallesi
+290,290,Daire,100,3,16,2.Kat,3,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,12000,0,Yok,1,32, Pamukkale,Atalar Mahallesi
+291,291,Daire,144,6,5,1.Kat,3,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,2,26000,0,Yok,1,32, Pamukkale,Mehmetçik Mahallesi
+292,292,Daire,130,6,0,2.Kat,5,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,23000,2,Açık Balkon,2,32, Merkezefendi,Değirmenönü Mahallesi
+293,293,Daire,45,1,5,1.Kat,8,Merkezi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,8000,0,Yok,1,32, Pamukkale,Zeytinköy Mahallesi
+294,294,Daire,120,6,16,Kot 2 (-2).Kat,3,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,15000,2,Açık Balkon,1,20, Kale,Cevherpaşa Mahallesi
+295,295,Daire,50,1,11,4.Kat,4,Kombi Doğalgaz,Eşyalı,Kat Mülkiyeti,Hayır,1,12000,0,Yok,1,15, Pamukkale,Yunusemre Mahallesi
+296,296,Daire,69,1,4,2.Kat,4,Kombi Doğalgaz,Eşyalı,Kat Mülkiyeti,Hayır,1,11500,0,Yok,1,34, Pamukkale,Bağbaşı Mahallesi
+297,297,Daire,73,3,5,4.Kat,4,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,16000,0,Yok,1,7, Pamukkale,Zeytinköy Mahallesi
+298,298,Daire,135,5,5,4.Kat,4,Kombi Doğalgaz,Eşyalı,Kat Mülkiyeti,Evet,1,25000,0,Yok,1,34, Merkezefendi,Gültepe Mahallesi
+299,299,Daire,155,6,5,1.Kat,4,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,27500,0,Yok,1,35, Merkezefendi,Yenişafak Mahallesi
+300,300,Daire,90,3,3,4.Kat,4,Yerden Isıtma,Boş,Kat Mülkiyeti,Hayır,1,18000,0,Yok,1,16, Merkezefendi,Çakmak Mahallesi
+301,301,Daire,55,1,5,1.Kat,3,Kombi Doğalgaz,Eşyalı,Kat Mülkiyeti,Hayır,1,17000,0,Yok,1,35, Pamukkale,Kınıklı Mahallesi
+302,302,Daire,45,1,1,1.Kat,2,Yerden Isıtma,Eşyalı,Kat İrtifakı,Hayır,1,16000,0,Yok,1,35, Pamukkale,Kınıklı Mahallesi
+303,303,Daire,45,1,4,1.Kat,4,Yerden Isıtma,Eşyalı,Kat Mülkiyeti,Evet,1,16000,0,Yok,1,35, Pamukkale,Asmalıevler Mahallesi
+304,304,Daire,70,1,5,2.Kat,6,Merkezi Doğalgaz,Eşyalı,Kat Mülkiyeti,Hayır,1,20000,0,Yok,1,35, Pamukkale,Fatih Mahallesi
+305,305,Daire,40,1,5,2.Kat,2,Kombi Doğalgaz,Eşyalı,Kat Mülkiyeti,Hayır,1,14000,0,Yok,1,35, Merkezefendi,Bereketler Mahallesi
+306,306,Daire,55,3,5,1.Kat,4,Yerden Isıtma,Eşyalı,Kat İrtifakı,Hayır,1,14500,0,Yok,1,35, Pamukkale,Zeytinköy Mahallesi
+307,307,Daire,55,3,5,1.Kat,4,Yerden Isıtma,Eşyalı,Kat Mülkiyeti,Hayır,1,14500,0,Yok,1,35, Pamukkale,Zeytinköy Mahallesi
+308,308,Daire,70,3,5,Bahçe Katı,2,Kombi Doğalgaz,Eşyalı,Kat Mülkiyeti,Hayır,1,21000,0,Yok,1,35, Merkezefendi,Bahçelievler Mahallesi
+309,309,Daire,120,3,0,3.Kat,3,Yerden Isıtma,Boş,Kat Mülkiyeti,Hayır,2,16000,0,Yok,1,35, Merkezefendi,Hacıeyüplü Mahallesi
+310,310,Daire,150,6,11,2.Kat,3,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,14000,0,Yok,1,35, Merkezefendi,Şemikler Mahallesi
+311,311,Daire,55,4,5,2.Kat,5,Yerden Isıtma,Eşyalı,Kat Mülkiyeti,Evet,1,18000,0,Yok,1,35, Pamukkale,Asmalıevler Mahallesi
+312,312,Daire,110,6,0,4.Kat,4,Yerden Isıtma,Boş,Kat İrtifakı,Hayır,2,26000,0,Yok,1,35, Merkezefendi,Yenişafak Mahallesi
+313,313,Daire,120,6,0,3.Kat,4,Yerden Isıtma,Boş,Kat İrtifakı,Hayır,2,29000,0,Yok,1,35, Merkezefendi,Yenişafak Mahallesi
+314,314,Daire,210,6,11,5.Kat,5,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Evet,1,26000,0,Yok,1,32, Merkezefendi,Çakmak Mahallesi
+315,315,Daire,50,1,5,4.Kat,4,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,8500,0,Yok,1,7, Pamukkale,Yunusemre Mahallesi
+316,316,Daire,50,1,5,1.Kat,4,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,11000,0,Yok,1,18, Pamukkale,Atalar Mahallesi
+317,317,Daire,45,1,4,3.Kat,4,Kombi Doğalgaz,Eşyalı,Kat Mülkiyeti,Hayır,1,10000,0,Yok,1,35, Pamukkale,Atalar Mahallesi
+318,318,Daire,60,3,4,2.Kat,2,Kombi Doğalgaz,Eşyalı,Kat Mülkiyeti,Hayır,1,10000,0,Yok,1,35, Pamukkale,Asmalıevler Mahallesi
+319,319,Daire,50,4,4,2.Kat,6,Yerden Isıtma,Eşyalı,Kat Mülkiyeti,Hayır,1,16000,0,Yok,1,35, Pamukkale,Asmalıevler Mahallesi
+320,320,Daire,70,3,4,1.Kat,5,Yerden Isıtma,Eşyalı,Kat İrtifakı,Hayır,1,17000,0,Yok,1,35, Pamukkale,Asmalıevler Mahallesi
+321,321,Daire,45,1,5,1.Kat,2,Kombi Doğalgaz,Eşyalı,Kat Mülkiyeti,Hayır,1,11500,0,Yok,1,35, Merkezefendi,Merkez Efendi Mahallesi
+322,322,Daire,85,3,5,2.Kat,2,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,15000,0,Yok,1,35, Merkezefendi,Mehmet Akif Ersoy Mahallesi
+323,323,Daire,40,1,4,1.Kat,4,Kombi Doğalgaz,Eşyalı,Kat Mülkiyeti,Hayır,1,12000,0,Yok,1,35, Pamukkale,Asmalıevler Mahallesi
+324,324,Daire,65,3,21,1.Kat,4,Kombi Doğalgaz,Boş,Müstakil Tapulu,Hayır,1,12000,0,Yok,1,35, Merkezefendi,Muratdede Mahallesi
+325,325,Daire,55,3,5,3.Kat,7,Kombi Doğalgaz,Eşyalı,Kat İrtifakı,Hayır,1,13000,0,Yok,1,35, Pamukkale,Fesleğen Mahallesi
+326,326,Daire,145,6,11,Bahçe Katı,3,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,2,10500,0,Yok,1,35, Merkezefendi,Gültepe Mahallesi
+327,327,Daire,65,3,5,3.Kat,4,Yerden Isıtma,Eşyalı,Kat Mülkiyeti,Hayır,1,15500,0,Yok,1,35, Merkezefendi,Sırakapılar Mahallesi
+329,329,Daire,100,3,21,5.Kat,6,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,13000,0,Yok,1,35, Pamukkale,Hacıkaplanlar Mahallesi
+330,330,Daire,49,1,4,1.Kat,6,Kombi Doğalgaz,Eşyalı,Tapu Kaydı Yok,Hayır,1,9000,0,Yok,1,1, Merkezefendi,Akkonak Mahallesi
+331,331,Daire,43,1,3,2.Kat,4,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,7000,0,Yok,1,7, Pamukkale,Asmalıevler Mahallesi
+332,332,Daire,55,3,16,Bahçe Katı,3,Kombi Doğalgaz,Eşyalı,Kat Mülkiyeti,Hayır,1,9000,0,Yok,1,7, Pamukkale,Siteler Mahallesi
+333,333,Daire,75,1,4,19.Kat,30,Merkezi (Pay Ölçer),Boş,Kat Mülkiyeti,Evet,1,18000,0,Yok,1,36, Merkezefendi,Kayalar Mahallesi
+334,334,Daire,55,3,5,Kot 3 (-3).Kat,4,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,15000,0,Yok,1,7, Pamukkale,Asmalıevler Mahallesi
+335,335,Daire,60,3,5,Bahçe Katı,3,Yerden Isıtma,Eşyalı,Kat Mülkiyeti,Hayır,1,14000,0,Yok,1,36, Pamukkale,Zeytinköy Mahallesi
+336,336,Daire,60,3,4,3.Kat,4,Kombi Doğalgaz,Eşyalı,Kat Mülkiyeti,Hayır,1,14000,0,Yok,1,7, Pamukkale,Siteler Mahallesi
+337,337,Daire,40,1,5,3.Kat,5,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,8750,0,Yok,1,18, Pamukkale,Bağbaşı Mahallesi
+338,338,Daire,80,5,3,4.Kat,4,Merkezi (Pay Ölçer),Boş,Kooperatiften Tapu,Evet,1,14000,1,Açık Balkon,1,2, Merkezefendi,Kayalar Mahallesi
+339,339,Daire,65,3,5,1.Kat,4,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,16000,0,Yok,1,38, Pamukkale,Mehmetçik Mahallesi
+340,340,Daire,180,8,2,5.Kat,5,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,2,39000,0,Yok,1,38, Merkezefendi,Yenişafak Mahallesi
+341,341,Daire,139,6,21,1.Kat,5,Kombi Doğalgaz,Boş,Kat İrtifakı,Hayır,1,15000,0,Yok,1,38, Pamukkale,Kınıklı Mahallesi
+342,342,Daire,50,1,3,2.Kat,3,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,8500,0,Yok,1,38, Pamukkale,Topraklık Mahallesi
+343,343,Daire,130,6,16,1.Kat,2,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,17000,0,Yok,1,38, Pamukkale,Siteler Mahallesi
+344,344,Daire,100,3,16,3.Kat,3,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,11000,0,Yok,1,38, Pamukkale,Kuşpınar Mahallesi
+345,345,Daire,70,3,0,Yüksek Giriş,4,Yerden Isıtma,Boş,Müstakil Tapulu,Hayır,1,15000,0,Yok,1,39, Merkezefendi,Akkonak Mahallesi
+346,346,Daire,55,3,5,1.Kat,4,Yerden Isıtma,Eşyalı,Müstakil Tapulu,Hayır,1,17000,1,Kapalı Balkon,1,37, Pamukkale,İncilipınar Mahallesi
+347,347,Daire,60,3,5,5.Kat,7,Merkezi Doğalgaz,Eşyalı,Kat İrtifakı,Evet,2,12000,0,Yok,1,8, Pamukkale,Zeytinköy Mahallesi
+348,348,Daire,163,6,11,2.Kat,3,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,27500,2,Açık Balkon,1,9, Pamukkale,Siteler Mahallesi
+349,349,Daire,125,6,21,2.Kat,3,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,16000,0,Yok,1,39, Pamukkale,Mehmetçik Mahallesi
+350,350,Daire,45,1,5,1.Kat,4,Kombi Doğalgaz,Boş,Tapu Kaydı Yok,Hayır,1,10000,0,Yok,1,39, Pamukkale,15 Mayıs Mahallesi
+351,351,Daire,45,1,5,1.Kat,4,Kombi Doğalgaz,Eşyalı,Kat Mülkiyeti,Hayır,1,10000,0,Yok,1,39, Merkezefendi,Sırakapılar Mahallesi
+352,352,Daire,170,6,5,2.Kat,4,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,2,25000,0,Yok,1,40, Pamukkale,Zeytinköy Mahallesi
+353,353,Residence,125,3,5,2.Kat,2,Merkezi Doğalgaz,Eşyalı,Kat Mülkiyeti,Hayır,1,25000,0,Yok,1,39, Pamukkale,15 Mayıs Mahallesi
+354,354,Daire,80,1,5,1.Kat,2,Merkezi Doğalgaz,Eşyalı,Kat Mülkiyeti,Hayır,1,15000,0,Yok,1,39, Pamukkale,15 Mayıs Mahallesi
+355,355,Daire,90,3,5,3.Kat,3,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,11000,0,Yok,1,24, Merkezefendi,Karaman Mahallesi
+356,356,Daire,50,1,5,3.Kat,4,Kombi Doğalgaz,Eşyalı,Kat Mülkiyeti,Hayır,1,16000,0,Yok,1,40, Pamukkale,İncilipınar Mahallesi
+357,357,Daire,60,5,5,1.Kat,4,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,17500,0,Yok,1,40, Pamukkale,Kınıklı Mahallesi
+358,358,Daire,47,3,0,Yüksek Giriş,4,Yerden Isıtma,Boş,Kat Mülkiyeti,Hayır,1,17000,0,Yok,1,35, Merkezefendi,Karahasanlı Mahallesi
+359,359,Daire,50,1,4,3.Kat,3,Kombi Doğalgaz,Eşyalı,Kat Mülkiyeti,Hayır,1,11000,0,Yok,1,39, Pamukkale,Siteler Mahallesi
+360,360,Daire,55,3,5,2.Kat,4,Kombi Doğalgaz,Eşyalı,Kat İrtifakı,Hayır,1,18000,0,Yok,1,39, Pamukkale,Kınıklı Mahallesi
+361,361,Daire,55,1,5,3.Kat,5,Kombi Doğalgaz,Boş,Müstakil Tapulu,Hayır,1,12000,0,Yok,1,39, Pamukkale,Kınıklı Mahallesi
+362,362,Daire,110,3,16,2.Kat,3,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,14000,0,Yok,1,33, Merkezefendi,Bahçelievler Mahallesi
+363,363,Daire,60,1,0,2.Kat,3,Yerden Isıtma,Eşyalı,Kat Mülkiyeti,Hayır,1,13000,0,Yok,1,36, Pamukkale,Atalar Mahallesi
+364,364,Daire,45,1,5,2.Kat,2,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,8000,0,Yok,1,40, Pamukkale,Kınıklı Mahallesi
+365,365,Daire,43,1,1,Çatı Katı,3,Yerden Isıtma,Eşyalı,Kat Mülkiyeti,Hayır,1,11500,0,Yok,1,37, Pamukkale,Cumhuriyet Mahallesi
+366,366,Daire,60,3,5,Düz Giriş (Zemin),3,Kombi Doğalgaz,Eşyalı,Kat İrtifakı,Hayır,1,12000,0,Yok,1,40, Merkezefendi,Değirmenönü Mahallesi
+367,367,Daire,125,6,11,2.Kat,3,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,27000,0,Yok,1,41, Pamukkale,Mehmetçik Mahallesi
+368,368,Daire,65,3,5,2.Kat,4,Yerden Isıtma,Boş,Kat Mülkiyeti,Hayır,1,17500,0,Yok,1,7, Pamukkale,Kuşpınar Mahallesi
+369,369,Daire,40,1,5,2.Kat,4,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,7000,0,Yok,1,7, Pamukkale,Asmalıevler Mahallesi
+370,370,Daire,150,6,11,4.Kat,5,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,22000,0,Yok,1,41, Merkezefendi,Yenişafak Mahallesi
+371,371,Daire,30,1,2,1.Kat,2,Yerden Isıtma,Eşyalı,Kat Mülkiyeti,Hayır,1,12000,0,Yok,1,35, Pamukkale,Siteler Mahallesi
+372,372,Daire,55,3,4,3.Kat,5,Kombi Doğalgaz,Eşyalı,Kat Mülkiyeti,Hayır,1,13000,0,Yok,1,41, Pamukkale,Zeytinköy Mahallesi
+373,373,Daire,130,6,5,7.Kat,9,Merkezi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,2,27000,2,Açık Balkon,3,41, Merkezefendi,Gültepe Mahallesi
+374,374,Daire,45,1,5,2.Kat,3,Kombi Doğalgaz,Eşyalı,Kat İrtifakı,Hayır,1,8000,1,Kapalı Balkon,1,1, Pamukkale,İstiklal Mahallesi
+375,375,Daire,127,6,21,7.Kat,7,Kombi Doğalgaz,Eşyalı,Kat Mülkiyeti,Hayır,1,15000,2,Kapalı Balkon,1,42, Pamukkale,15 Mayıs Mahallesi
+376,376,Daire,80,3,21,Çatı Katı,5,Kombi Doğalgaz,Eşyalı,Tapu Kaydı Yok,Hayır,1,10000,0,Yok,1,2, Pamukkale,Mehmetçik Mahallesi
+377,377,Daire,100,3,16,Kot 3 (-3).Kat,3,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,21000,0,Yok,1,42, Pamukkale,Kınıklı Mahallesi
+378,378,Daire,200,6,21,3.Kat,7,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,20000,0,Yok,1,41, Merkezefendi,Altıntop Mahallesi
+379,379,Daire,45,1,5,2.Kat,3,Merkezi Doğalgaz,Eşyalı,Kat Mülkiyeti,Hayır,1,14000,0,Yok,1,42, Pamukkale,Zeytinköy Mahallesi
+380,380,Daire,48,1,5,1.Kat,4,Yerden Isıtma,Eşyalı,Kat Mülkiyeti,Hayır,1,12500,0,Yok,1,36, Pamukkale,Asmalıevler Mahallesi
+381,381,Daire,45,1,4,1.Kat,3,Kombi Doğalgaz,Eşyalı,Tapu Kaydı Yok,Hayır,1,12000,1,Açık Balkon,1,43, Pamukkale,15 Mayıs Mahallesi
+382,382,Daire,45,1,5,1.Kat,4,Yerden Isıtma,Boş,Tapu Kaydı Yok,Hayır,1,8000,0,Yok,1,0, Pamukkale,Yunusemre Mahallesi
+383,383,Daire,40,0,5,Bahçe Katı,3,Yerden Isıtma,Boş,Tapu Kaydı Yok,Hayır,1,6500,0,Yok,1,0, Pamukkale,Yunusemre Mahallesi
+384,384,Daire,140,3,5,4.Kat,4,Kombi Doğalgaz,Boş,Kat İrtifakı,Hayır,1,21000,0,Yok,1,8, Merkezefendi,Çakmak Mahallesi
+385,385,Daire,65,2,11,Bahçe Katı,2,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,13000,0,Yok,1,6, Merkezefendi,Çakmak Mahallesi
+386,386,Daire,45,1,5,4.Kat,4,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,8000,0,Yok,1,2, Merkezefendi,Sırakapılar Mahallesi
+387,387,Daire,85,3,0,1.Kat,2,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,19500,0,Yok,1,44, Merkezefendi,Şemikler Mahallesi
+388,388,Daire,129,6,21,2.Kat,7,Kombi Doğalgaz,Boş,Kat İrtifakı,Hayır,1,10000,0,Yok,1,44, Merkezefendi,Altıntop Mahallesi
+389,389,Daire,45,1,5,3.Kat,3,Kombi Doğalgaz,Eşyalı,Kat İrtifakı,Hayır,1,9000,0,Yok,1,43, Pamukkale,İncilipınar Mahallesi
+390,390,Daire,140,8,21,2.Kat,6,Merkezi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,2,20000,0,Yok,1,16, Merkezefendi,Akkonak Mahallesi
+391,391,Daire,50,1,5,6.Kat,8,Merkezi Doğalgaz,Eşyalı,Müstakil Tapulu,Evet,1,10000,0,Yok,1,16, Pamukkale,Zeytinköy Mahallesi
+392,392,Daire,50,1,11,2.Kat,5,Kombi Doğalgaz,Eşyalı,Kat Mülkiyeti,Hayır,1,14000,0,Yok,1,43, Pamukkale,Yunusemre Mahallesi
+393,393,Daire,50,1,4,3.Kat,4,Yerden Isıtma,Eşyalı,Kat Mülkiyeti,Hayır,1,15000,0,Yok,1,35, Pamukkale,15 Mayıs Mahallesi
+394,394,Daire,70,1,5,5.Kat,5,Kombi Doğalgaz,Eşyalı,Tapu Kaydı Yok,Hayır,1,7500,1,Açık Teras,1,46, Pamukkale,Asmalıevler Mahallesi
+395,395,Daire,70,3,5,Bodrum Kat,3,Kombi Doğalgaz,Boş,Kat İrtifakı,Hayır,1,10000,0,Yok,1,45, Merkezefendi,Şemikler Mahallesi
+396,396,Daire,40,1,0,Yüksek Giriş,2,Kombi Doğalgaz,Eşyalı,Bilinmiyor,Hayır,1,12000,0,Yok,1,46, Çivril,Yukarı Mahallesi
+397,397,Daire,130,6,16,1.Kat,4,Sobalı,Boş,Kat İrtifakı,Hayır,1,8500,0,Yok,1,46, Pamukkale,Fesleğen Mahallesi
+398,398,Daire,70,3,11,1.Kat,4,Kombi Doğalgaz,Eşyalı,Kat Mülkiyeti,Hayır,1,11000,0,Yok,1,46, Pamukkale,Fesleğen Mahallesi
+399,399,Daire,40,1,5,2.Kat,2,Kombi Doğalgaz,Eşyalı,Kat Mülkiyeti,Hayır,1,11000,0,Yok,1,44, Merkezefendi,Sırakapılar Mahallesi
+400,400,Daire,170,6,11,1.Kat,5,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,25500,0,Yok,1,46, Pamukkale,Kınıklı Mahallesi
+401,401,Daire,45,1,5,4.Kat,4,Kombi Doğalgaz,Eşyalı,Kat İrtifakı,Hayır,1,11000,0,Yok,1,44, Pamukkale,Pelitlibağ Mahallesi
+402,402,Daire,140,6,5,2.Kat,5,Kombi Doğalgaz,Boş,Kat İrtifakı,Hayır,1,21000,0,Yok,1,14, Pamukkale,Fesleğen Mahallesi
+403,403,Daire,125,6,16,1.Kat,3,Kombi Doğalgaz,Boş,Bilinmiyor,Hayır,1,15000,0,Yok,1,47, Merkezefendi,Değirmenönü Mahallesi
+404,404,Daire,120,3,21,Yüksek Giriş,4,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,16000,0,Yok,1,47, Pamukkale,Kınıklı Mahallesi
+405,405,Daire,60,1,5,8.Kat,8,Yerden Isıtma,Eşyalı,Kat İrtifakı,Hayır,1,11000,0,Yok,1,22, Merkezefendi,Sırakapılar Mahallesi
+406,406,Daire,45,1,16,Bahçe Katı,4,Merkezi Doğalgaz,Boş,Tapu Kaydı Yok,Hayır,1,8000,0,Yok,1,49, Pamukkale,Kınıklı Mahallesi
+407,407,Daire,60,3,11,1.Kat,3,Merkezi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,13000,0,Yok,1,7, Pamukkale,Zeytinköy Mahallesi
+408,408,Daire,40,1,5,Çatı Katı,3,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,7500,0,Yok,1,7, Pamukkale,Zeytinköy Mahallesi
+409,409,Daire,48,1,5,3.Kat,4,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,14000,0,Yok,1,7, Pamukkale,Yunusemre Mahallesi
+410,410,Daire,80,1,5,18.Kat,29,Merkezi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,20000,0,Yok,1,49, Merkezefendi,Kayalar Mahallesi
+411,411,Daire,48,1,5,1.Kat,6,Yerden Isıtma,Eşyalı,Kat Mülkiyeti,Hayır,1,12000,0,Yok,1,35, Pamukkale,Zeytinköy Mahallesi
+412,412,Daire,200,6,11,3.Kat,4,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,25000,0,Yok,1,3, Pamukkale,Zeytinköy Mahallesi
+413,413,Daire,40,1,1,1.Kat,2,Kombi Doğalgaz,Boş,Bilinmiyor,Hayır,1,14500,0,Yok,1,49, Merkezefendi,Çakmak Mahallesi
+414,414,Daire,50,1,5,Bahçe Katı,4,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,8000,0,Yok,1,49, Pamukkale,Zeytinköy Mahallesi
+415,415,Daire,90,3,4,3.Kat,4,Yerden Isıtma,Boş,Kat Mülkiyeti,Hayır,1,18000,0,Yok,1,36, Merkezefendi,Gültepe Mahallesi
+416,416,Daire,40,1,0,Yüksek Giriş,3,Yerden Isıtma,Eşyalı,Kat İrtifakı,Hayır,1,15000,1,Açık Balkon,1,9, Pamukkale,Zeytinköy Mahallesi
+417,417,Daire,45,1,5,2.Kat,4,Kombi Doğalgaz,Eşyalı,Kat Mülkiyeti,Hayır,1,11000,0,Yok,1,9, Pamukkale,İstiklal Mahallesi
+418,418,Daire,50,3,5,4.Kat,4,Kombi Doğalgaz,Eşyalı,Kat İrtifakı,Hayır,1,14000,0,Yok,1,50, Pamukkale,Kınıklı Mahallesi
+419,419,Daire,150,6,0,3.Kat,5,Kombi Doğalgaz,Boş,Kat İrtifakı,Hayır,2,13500,0,Yok,1,50, Merkezefendi,Şemikler Mahallesi
+420,420,Daire,49,3,5,2.Kat,6,Kombi Doğalgaz,Eşyalı,Tapu Kaydı Yok,Hayır,1,9000,0,Yok,1,3, Merkezefendi,Akkonak Mahallesi
+421,421,Daire,85,3,3,2.Kat,2,Kombi Doğalgaz,Boş,Müstakil Tapulu,Hayır,1,21000,0,Yok,1,50, Merkezefendi,Gerzele Mahallesi
+422,422,Daire,135,6,5,4.Kat,9,Kombi Doğalgaz,Boş,Bilinmiyor,Hayır,2,25500,0,Yok,1,51, Merkezefendi,Gültepe Mahallesi
+423,423,Daire,160,6,5,3.Kat,5,Kombi Doğalgaz,Boş,Hisseli Tapu,Hayır,1,20000,0,Yok,1,51, Merkezefendi,Selçuk Bey Mahallesi
+424,424,Daire,50,1,5,4.Kat,5,Merkezi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,11000,0,Yok,1,0, Pamukkale,Zeytinköy Mahallesi
+425,425,Daire,50,1,2,2.Kat,2,Kombi Doğalgaz,Eşyalı,Kat İrtifakı,Hayır,1,18500,0,Yok,1,15, Merkezefendi,Şirinköy Mahallesi
+426,426,Daire,85,3,5,1.Kat,4,Yerden Isıtma,Eşyalı,Müstakil Tapulu,Hayır,1,10000,0,Yok,1,52, Merkezefendi,Karaman Mahallesi
+427,427,Daire,140,6,21,3.Kat,4,Kombi Doğalgaz,Boş,Kat İrtifakı,Hayır,1,19000,0,Yok,1,52, Pamukkale,Kuşpınar Mahallesi
+428,428,Daire,43,1,4,2.Kat,4,Kombi Doğalgaz,Eşyalı,Kat İrtifakı,Hayır,1,12000,1,Açık Balkon,1,1, Pamukkale,Mehmetçik Mahallesi
+429,429,Daire,100,3,0,2.Kat,5,Yerden Isıtma,Boş,Kat Mülkiyeti,Hayır,1,25000,0,Yok,1,52, Merkezefendi,Yenişafak Mahallesi
+430,430,Daire,60,5,16,2.Kat,5,Kombi Doğalgaz,Eşyalı,Kat İrtifakı,Hayır,1,15000,0,Yok,1,24, Merkezefendi,Saraylar Mahallesi
+431,431,Daire,50,1,5,6.Kat,9,Merkezi Doğalgaz,Boş,Kat Mülkiyeti,Evet,1,8500,0,Yok,1,42, Pamukkale,Zeytinköy Mahallesi
+432,432,Daire,130,6,11,3.Kat,3,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,15000,0,Yok,1,55, Merkezefendi,Değirmenönü Mahallesi
+433,433,Daire,45,1,5,4.Kat,4,Yerden Isıtma,Eşyalı,Kat Mülkiyeti,Hayır,1,10000,1,Açık Teras,1,43, Pamukkale,Atalar Mahallesi
+434,434,Daire,40,1,4,1.Kat,2,Yerden Isıtma,Boş,Kat Mülkiyeti,Hayır,1,10000,0,Yok,1,56, Merkezefendi,Muratdede Mahallesi
+435,435,Daire,50,1,5,5.Kat,8,Kombi Doğalgaz,Eşyalı,Kat İrtifakı,Hayır,1,9500,2,Açık Balkon,1,1, Pamukkale,İstiklal Mahallesi
+436,436,Daire,45,1,1,3.Kat,5,Yerden Isıtma,Boş,Kat Mülkiyeti,Evet,1,17500,1,Açık Balkon,1,59, Merkezefendi,Değirmenönü Mahallesi
+437,437,Daire,71,3,0,1.Kat,3,Yerden Isıtma,Boş,Kat Mülkiyeti,Hayır,1,16000,1,Açık Balkon,1,9, Merkezefendi,Gültepe Mahallesi
+438,438,Daire,45,1,5,1.Kat,4,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,8000,0,Yok,1,60, Pamukkale,İncilipınar Mahallesi
+439,439,Daire,85,3,4,Yüksek Giriş,3,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,11500,0,Yok,1,10, Merkezefendi,Karahasanlı Mahallesi
+440,440,Daire,50,2,11,4.Kat,4,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,8000,0,Yok,1,3, Pamukkale,Asmalıevler Mahallesi
+441,441,Daire,160,6,16,3.Kat,3,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,16000,0,Yok,1,59, Merkezefendi,Karaman Mahallesi
+442,442,Daire,105,6,0,Yüksek Giriş,3,Yerden Isıtma,Boş,Kat İrtifakı,Hayır,1,18000,1,Açık Balkon,2,0, Pamukkale,Hacıkaplanlar Mahallesi
+443,443,Daire,45,1,5,3.Kat,3,Kombi Doğalgaz,Boş,Kat İrtifakı,Hayır,1,13000,0,Yok,1,57, Pamukkale,Cumhuriyet Mahallesi
+444,444,Daire,100,3,5,3.Kat,3,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Evet,1,14000,1,Açık Balkon,1,25, Pamukkale,Pelitlibağ Mahallesi
+445,445,Daire,40,1,5,Bahçe Katı,3,Yerden Isıtma,Boş,Kat Mülkiyeti,Hayır,1,6500,0,Yok,1,7, Pamukkale,Zeytinköy Mahallesi
+446,446,Daire,160,6,11,2.Kat,5,Kombi Doğalgaz,Boş,Kat İrtifakı,Evet,1,35000,0,Yok,1,64, Merkezefendi,Şemikler Mahallesi
+447,447,Daire,170,6,5,2.Kat,5,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Evet,2,35000,2,Kapalı Balkon,2,1, Merkezefendi,Çakmak Mahallesi
+448,448,Daire,40,1,4,2.Kat,3,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,15000,1,Kapalı Balkon,1,66, Pamukkale,Kınıklı Mahallesi
+449,449,Daire,70,3,5,2.Kat,3,Kombi Doğalgaz,Boş,Arsa Tapulu,Hayır,1,13000,0,Yok,1,66, Pamukkale,Kınıklı Mahallesi
+450,450,Daire,45,1,5,2.Kat,5,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,11000,0,Yok,1,0, Pamukkale,Zeytinköy Mahallesi
+451,451,Daire,135,6,11,2.Kat,3,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,12000,1,Açık Balkon,1,1, Merkezefendi,Karaman Mahallesi
+452,452,Daire,115,3,11,Bahçe Katı,3,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,12000,0,Yok,1,16, Merkezefendi,Merkez Efendi Mahallesi
+453,453,Daire,168,6,5,8.Kat,8,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Evet,2,22000,0,Yok,1,67, Merkezefendi,Şemikler Mahallesi
+454,454,Daire,120,3,21,1.Kat,4,Merkezi (Pay Ölçer),Boş,Kat Mülkiyeti,Hayır,1,15000,0,Yok,1,68, Pamukkale,Kınıklı Mahallesi
+455,455,Daire,120,5,16,3.Kat,7,Doğalgaz Sobalı,Boş,Kat İrtifakı,Evet,1,13000,3,Açık Balkon,1,69, Pamukkale,Hacıkaplanlar Mahallesi
+456,456,Daire,45,1,5,2.Kat,3,Merkezi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,7500,0,Yok,1,3, Pamukkale,Asmalıevler Mahallesi
+457,457,Daire,30,0,3,Bahçe Katı,3,Kombi Doğalgaz,Eşyalı,Kat Mülkiyeti,Hayır,1,9000,0,Yok,1,67, Pamukkale,Asmalıevler Mahallesi
+458,458,Daire,50,1,0,2.Kat,3,Kombi Doğalgaz,Eşyalı,Bilinmiyor,Hayır,1,11000,0,Yok,1,70, Merkezefendi,Bereketler Mahallesi
+459,459,Daire,45,0,5,2.Kat,4,Kombi Doğalgaz,Eşyalı,Bilinmiyor,Hayır,1,12000,0,Yok,1,70, Pamukkale,Kınıklı Mahallesi
+460,460,Daire,54,1,5,Çatı Katı,6,Kombi Doğalgaz,Eşyalı,Bilinmiyor,Hayır,1,13950,0,Yok,1,70, Merkezefendi,Sırakapılar Mahallesi
+461,461,Daire,50,1,5,2.Kat,3,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,9000,0,Yok,1,70, Pamukkale,Asmalıevler Mahallesi
+462,462,Daire,30,0,5,Yüksek Giriş,3,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,6000,0,Yok,1,3, Pamukkale,Zeytinköy Mahallesi
+463,463,Daire,150,6,11,4.Kat,4,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,15000,0,Yok,1,70, Sarayköy,Bala Mahallesi
+464,464,Daire,135,6,5,2.Kat,6,Kombi Doğalgaz,Boş,Kat İrtifakı,Evet,1,19000,0,Yok,2,71, Merkezefendi,Şemikler Mahallesi
+465,465,Daire,138,6,16,5.Kat,5,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,14000,1,Açık Teras,1,71, Pamukkale,Kuşpınar Mahallesi
+466,466,Daire,45,1,11,Bahçe Katı,3,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,8000,0,Yok,1,0, Pamukkale,Yunusemre Mahallesi
+467,467,Daire,50,1,5,2.Kat,2,Merkezi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,2,9000,0,Yok,1,72, Pamukkale,Kınıklı Mahallesi
+468,468,Daire,120,6,21,2.Kat,2,Kombi Doğalgaz,Boş,Kat İrtifakı,Hayır,1,12500,0,Yok,1,73, Pamukkale,Atalar Mahallesi
+469,469,Daire,50,1,5,2.Kat,3,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,8000,0,Yok,1,73, Pamukkale,Yunusemre Mahallesi
+470,470,Daire,65,3,5,1.Kat,3,Kombi Doğalgaz,Eşyalı,Kat Mülkiyeti,Hayır,1,12000,0,Yok,1,73, Pamukkale,Mehmetçik Mahallesi
+471,471,Daire,42,1,4,2.Kat,4,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,10000,0,Yok,1,2, Pamukkale,Pelitlibağ Mahallesi
+472,472,Daire,45,1,5,1.Kat,3,Kombi Doğalgaz,Boş,Kat İrtifakı,Hayır,1,10000,0,Yok,1,3, Pamukkale,Asmalıevler Mahallesi
+473,473,Daire,144,6,5,1.Kat,3,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,2,26500,2,Açık Balkon,2,74, Pamukkale,Mehmetçik Mahallesi
+474,474,Daire,110,6,21,6.Kat,6,Sobalı,Boş,Kat Mülkiyeti,Hayır,1,8000,2,Kapalı Balkon,1,46, Merkezefendi,Sümer Mahallesi
+475,475,Daire,45,1,5,Çatı Katı,4,Kombi Doğalgaz,Eşyalı,Kat Mülkiyeti,Hayır,1,8000,0,Yok,1,74, Pamukkale,Kınıklı Mahallesi
+476,476,Daire,45,0,5,1.Kat,4,Yerden Isıtma,Eşyalı,Kat Mülkiyeti,Hayır,1,10000,0,Yok,1,74, Pamukkale,Kınıklı Mahallesi
+477,477,Daire,55,3,5,2.Kat,4,Kombi Doğalgaz,Eşyalı,Kat Mülkiyeti,Hayır,1,14000,0,Yok,1,74, Pamukkale,Yunusemre Mahallesi
+478,478,Daire,150,6,5,4.Kat,4,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,18000,0,Yok,1,74, Pamukkale,Zeytinköy Mahallesi
+479,479,Daire,120,3,16,Yüksek Giriş,2,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,2,13000,0,Yok,1,74, Merkezefendi,Değirmenönü Mahallesi
+480,480,Daire,70,3,11,3.Kat,5,Kombi Doğalgaz,Eşyalı,Kat Mülkiyeti,Hayır,1,15000,0,Yok,1,74, Pamukkale,Siteler Mahallesi
+481,481,Daire,60,3,5,5.Kat,5,Kombi Doğalgaz,Eşyalı,Kat İrtifakı,Hayır,1,15000,0,Yok,1,74, Pamukkale,Kınıklı Mahallesi
+482,482,Daire,135,6,0,Düz Giriş (Zemin),4,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,2,25000,0,Yok,1,74, Merkezefendi,Çakmak Mahallesi
+483,483,Daire,40,1,5,Yüksek Giriş,3,Kombi Doğalgaz,Eşyalı,Kat Mülkiyeti,Hayır,1,8500,0,Yok,1,74, Pamukkale,İstiklal Mahallesi
+484,484,Daire,45,1,4,2.Kat,4,Kombi Doğalgaz,Eşyalı,Kat Mülkiyeti,Hayır,1,12500,0,Yok,1,76, Merkezefendi,Sırakapılar Mahallesi
+485,485,Daire,55,4,4,3.Kat,5,Yerden Isıtma,Eşyalı,Kat Mülkiyeti,Evet,1,21000,0,Yok,1,74, Pamukkale,Asmalıevler Mahallesi
+486,486,Daire,85,3,4,2.Kat,5,Merkezi Doğalgaz,Eşyalı,Kat Mülkiyeti,Hayır,1,25000,0,Yok,1,74, Pamukkale,Fatih Mahallesi
+487,487,Daire,225,8,16,Yüksek Giriş,4,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,2,25000,2,Açık Balkon,3,75, Pamukkale,Siteler Mahallesi
+488,488,Daire,35,1,5,3.Kat,4,Yerden Isıtma,Eşyalı,Bilinmiyor,Hayır,1,10750,0,Yok,1,77, Pamukkale,Asmalıevler Mahallesi
+489,489,Daire,150,6,16,2.Kat,3,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,16000,0,Yok,1,75, Pamukkale,Siteler Mahallesi
+490,490,Daire,115,3,11,1.Kat,5,Merkezi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,26000,0,Yok,1,77, Pamukkale,Kınıklı Mahallesi
+491,491,Daire,140,6,11,2.Kat,5,Merkezi (Pay Ölçer),Boş,Kat Mülkiyeti,Evet,1,18000,0,Yok,1,76, Merkezefendi,Mehmet Akif Ersoy Mahallesi
+492,492,Daire,150,6,16,3.Kat,4,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,2,27000,0,Yok,1,76, Pamukkale,Mehmetçik Mahallesi
+493,493,Daire,130,6,5,3.Kat,5,Yerden Isıtma,Boş,Kat Mülkiyeti,Evet,1,25000,1,Açık Balkon,2,44, Merkezefendi,Çakmak Mahallesi
+494,494,Daire,130,3,21,1.Kat,3,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,16000,1,Açık Balkon,2,44, Pamukkale,Kınıklı Mahallesi
+495,495,Daire,110,3,11,2.Kat,4,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,14500,0,Yok,1,76, Pamukkale,Kayıhan Mahallesi
+496,496,Daire,45,1,4,4.Kat,4,Kombi Doğalgaz,Eşyalı,Kat İrtifakı,Hayır,1,10000,0,Yok,1,76, Pamukkale,15 Mayıs Mahallesi
+497,497,Daire,45,1,4,2.Kat,3,Kombi Doğalgaz,Eşyalı,Kat Mülkiyeti,Hayır,1,9000,0,Yok,1,43, Pamukkale,15 Mayıs Mahallesi
+498,498,Daire,90,3,2,Yüksek Giriş,4,Yerden Isıtma,Boş,Kat İrtifakı,Hayır,1,20000,1,Açık Balkon,2,14, Merkezefendi,Çakmak Mahallesi
+499,499,Daire,188,6,5,1.Kat,5,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Evet,2,36000,0,Yok,1,78, Merkezefendi,Selçuk Bey Mahallesi
+500,500,Daire,150,6,16,3.Kat,8,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,18000,0,Yok,1,79, Merkezefendi,Değirmenönü Mahallesi
+501,501,Daire,75,1,5,20.Kat,29,Merkezi (Pay Ölçer),Eşyalı,Kat Mülkiyeti,Hayır,1,25000,0,Yok,1,79, Merkezefendi,Kayalar Mahallesi
+502,502,Daire,140,6,5,3.Kat,4,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,2,25000,0,Yok,1,14, Merkezefendi,Selçuk Bey Mahallesi
+503,503,Daire,75,3,2,2.Kat,2,Kombi Doğalgaz,Eşyalı,Kat Mülkiyeti,Hayır,1,20000,0,Yok,1,78, Merkezefendi,Selçuk Bey Mahallesi
+504,504,Daire,65,3,16,3.Kat,3,Kombi Doğalgaz,Eşyalı,Kat Mülkiyeti,Hayır,1,10000,0,Yok,1,78, Pamukkale,Asmalıevler Mahallesi
+505,505,Daire,110,3,4,2.Kat,3,Kombi Doğalgaz,Boş,Bilinmiyor,Hayır,1,20000,0,Yok,1,79, Merkezefendi,Şemikler Mahallesi
+506,506,Daire,50,1,0,2.Kat,6,Kombi Doğalgaz,Boş,Bilinmiyor,Hayır,1,16000,0,Yok,1,79, Merkezefendi,Sırakapılar Mahallesi
+507,507,Daire,110,3,16,2.Kat,2,Sobalı,Boş,Bilinmiyor,Hayır,1,8000,0,Yok,1,79, Merkezefendi,İlbade Mahallesi
+508,508,Daire,40,1,4,3.Kat,3,Yerden Isıtma,Eşyalı,Kat Mülkiyeti,Hayır,1,9000,0,Yok,1,78, Pamukkale,İncilipınar Mahallesi
+509,509,Daire,110,3,11,Yüksek Giriş,3,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,15000,0,Yok,1,79, Merkezefendi,Karaman Mahallesi
+510,510,Daire,45,1,5,3.Kat,3,Kombi Doğalgaz,Eşyalı,Kat Mülkiyeti,Hayır,1,12000,0,Yok,1,79, Merkezefendi,Sırakapılar Mahallesi
+511,511,Daire,105,3,0,Bahçe Katı,4,Yerden Isıtma,Boş,Kat Mülkiyeti,Evet,2,17000,0,Yok,1,79, Merkezefendi,Karahasanlı Mahallesi
+512,512,Daire,135,6,21,1.Kat,3,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,16000,0,Yok,1,79, Pamukkale,Mehmetçik Mahallesi
+513,513,Daire,38,1,5,Yüksek Giriş,4,Yerden Isıtma,Eşyalı,Kat Mülkiyeti,Hayır,1,10500,0,Yok,1,77, Merkezefendi,Sırakapılar Mahallesi
+514,514,Daire,45,3,0,2.Kat,5,Yerden Isıtma,Boş,Kat Mülkiyeti,Hayır,1,20000,0,Yok,1,78, Merkezefendi,Karahasanlı Mahallesi
+515,515,Daire,120,3,4,2.Kat,4,Yerden Isıtma,Boş,Kat Mülkiyeti,Hayır,1,22000,0,Yok,1,78, Merkezefendi,Karahasanlı Mahallesi
+516,516,Daire,150,6,0,1.Kat,4,Yerden Isıtma,Boş,Kat Mülkiyeti,Hayır,2,40000,0,Yok,1,79, Merkezefendi,Yenişafak Mahallesi
+517,517,Daire,200,8,5,1.Kat,5,Yerden Isıtma,Boş,Kat Mülkiyeti,Hayır,1,30000,0,Yok,1,79, Pamukkale,Bağbaşı Mahallesi
+518,518,Daire,50,1,4,2.Kat,3,Yerden Isıtma,Eşyalı,Kat Mülkiyeti,Hayır,1,11000,0,Yok,1,79, Pamukkale,Asmalıevler Mahallesi
+519,519,Daire,45,1,4,2.Kat,3,Kombi Doğalgaz,Eşyalı,Kat Mülkiyeti,Hayır,1,10000,0,Yok,1,79, Pamukkale,Zeytinköy Mahallesi
+520,520,Daire,125,3,11,2.Kat,4,Kombi Doğalgaz,Boş,Kat İrtifakı,Hayır,1,16500,0,Yok,1,77, Merkezefendi,Değirmenönü Mahallesi
+521,521,Daire,130,6,21,3.Kat,7,Merkezi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,15000,0,Yok,1,77, Pamukkale,Atalar Mahallesi
+522,522,Daire,150,6,21,1.Kat,1,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,10000,0,Yok,1,71, Merkezefendi,Akkonak Mahallesi
+523,523,Daire,125,6,21,1.Kat,3,Kombi Doğalgaz,Boş,Kat İrtifakı,Hayır,1,17500,0,Yok,1,78, Pamukkale,İncilipınar Mahallesi
+525,525,Daire,70,3,5,4.Kat,4,Kombi Doğalgaz,Eşyalı,Kat Mülkiyeti,Hayır,1,13000,0,Yok,1,79, Pamukkale,Asmalıevler Mahallesi
+526,526,Daire,125,6,1,1.Kat,4,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,20000,0,Yok,1,41, Pamukkale,Hacıkaplanlar Mahallesi
+527,527,Daire,130,6,21,Bahçe Katı,2,Sobalı,Boş,Kat Mülkiyeti,Hayır,1,6000,0,Yok,1,41, Pamukkale,15 Mayıs Mahallesi
+528,528,Daire,60,1,11,1.Kat,3,Merkezi Doğalgaz,Eşyalı,Kat Mülkiyeti,Hayır,1,12000,0,Yok,1,16, Pamukkale,Asmalıevler Mahallesi
+529,529,Daire,50,1,0,Bahçe Katı,3,Kombi Doğalgaz,Eşyalı,Kat Mülkiyeti,Hayır,1,13000,0,Yok,1,16, Pamukkale,Zeytinköy Mahallesi
+530,530,Daire,50,1,5,1.Kat,3,Merkezi Doğalgaz,Eşyalı,Kat Mülkiyeti,Hayır,1,7500,0,Yok,1,16, Pamukkale,Zeytinköy Mahallesi
+531,531,Daire,45,1,5,Düz Giriş (Zemin),4,Yerden Isıtma,Eşyalı,Kat İrtifakı,Hayır,1,11000,0,Yok,1,16, Pamukkale,Zeytinköy Mahallesi
+532,532,Daire,45,1,5,Düz Giriş (Zemin),4,Yerden Isıtma,Eşyalı,Kat İrtifakı,Hayır,1,10000,0,Yok,1,35, Pamukkale,Zeytinköy Mahallesi
+533,533,Daire,75,3,4,5.Kat,6,Yerden Isıtma,Eşyalı,Kat Mülkiyeti,Hayır,1,20000,0,Yok,1,16, Pamukkale,Zeytinköy Mahallesi
+534,534,Daire,60,1,4,1.Kat,3,Yerden Isıtma,Eşyalı,Kat Mülkiyeti,Hayır,1,13000,0,Yok,1,16, Merkezefendi,Değirmenönü Mahallesi
+535,535,Daire,50,1,21,Bodrum Kat,2,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,7000,0,Yok,1,16, Pamukkale,Siteler Mahallesi
+536,536,Daire,155,6,3,8.Kat,8,Yerden Isıtma,Boş,Kat İrtifakı,Evet,2,32500,0,Yok,1,79, Merkezefendi,Şemikler Mahallesi
+537,537,Daire,150,6,11,2.Kat,3,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,20000,0,Yok,1,7, Pamukkale,Cumhuriyet Mahallesi
+538,538,Daire,185,8,5,3.Kat,5,Kombi Doğalgaz,Boş,Bilinmiyor,Hayır,2,30000,0,Yok,1,79, Merkezefendi,Adalet Mahallesi
+539,539,Daire,40,1,11,Bahçe Katı,3,Merkezi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,5000,0,Yok,1,7, Pamukkale,Kınıklı Mahallesi
+540,540,Daire,170,6,11,2.Kat,3,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,20000,0,Yok,1,79, Pamukkale,Cumhuriyet Mahallesi
+541,541,Daire,45,1,5,Bahçe Katı,3,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,7000,0,Yok,1,8, Pamukkale,Zeytinköy Mahallesi
+542,542,Daire,135,6,2,2.Kat,5,Yerden Isıtma,Boş,Kat Mülkiyeti,Hayır,1,26000,0,Yok,1,80, Merkezefendi,Selçuk Bey Mahallesi
+543,543,Daire,70,3,5,2.Kat,5,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,14000,0,Yok,1,3, Pamukkale,Asmalıevler Mahallesi
+544,544,Daire,45,1,5,3.Kat,4,Yerden Isıtma,Eşyalı,Kat Mülkiyeti,Hayır,1,11000,0,Yok,1,79, Pamukkale,Kınıklı Mahallesi
+545,545,Daire,75,3,0,1.Kat,4,Kombi Doğalgaz,Boş,Kat İrtifakı,Evet,1,15000,0,Yok,1,21, Merkezefendi,Karahasanlı Mahallesi
+546,546,Daire,120,3,5,1.Kat,3,Kombi Doğalgaz,Boş,Kat İrtifakı,Hayır,1,15500,1,Açık Balkon,2,1, Merkezefendi,Karaman Mahallesi
+547,547,Daire,40,1,5,1.Kat,3,Merkezi Doğalgaz,Eşyalı,Kat Mülkiyeti,Hayır,1,12000,0,Yok,1,81, Pamukkale,Hacıkaplanlar Mahallesi
+548,548,Daire,45,1,0,2.Kat,3,Yerden Isıtma,Eşyalı,Kat Mülkiyeti,Hayır,1,11500,0,Yok,1,79, Merkezefendi,Sırakapılar Mahallesi
+549,549,Daire,170,6,11,1.Kat,5,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,2,29500,0,Yok,1,81, Merkezefendi,Gerzele Mahallesi
+550,550,Daire,25,0,11,4.Kat,4,Kombi Doğalgaz,Eşyalı,Kat İrtifakı,Hayır,1,7500,0,Yok,1,39, Pamukkale,Yunusemre Mahallesi
+551,551,Daire,100,3,5,2.Kat,5,Kombi Doğalgaz,Eşyalı,Kat İrtifakı,Hayır,1,25000,0,Yok,1,39, Pamukkale,Zümrüt Mahallesi
+552,552,Daire,65,3,0,2.Kat,2,Kombi Doğalgaz,Eşyalı,Tapu Kaydı Yok,Hayır,1,19000,0,Yok,1,66, Merkezefendi,Sırakapılar Mahallesi
+553,553,Daire,85,3,4,2.Kat,3,Yerden Isıtma,Eşyalı,Kat Mülkiyeti,Hayır,1,20000,0,Yok,1,83, Pamukkale,Kınıklı Mahallesi
+554,554,Daire,40,1,4,4.Kat,4,Yerden Isıtma,Eşyalı,Kat Mülkiyeti,Hayır,1,8500,0,Yok,1,83, Pamukkale,Zeytinköy Mahallesi
+555,555,Daire,60,3,4,Bahçe Katı,4,Kombi Doğalgaz,Boş,Tapu Kaydı Yok,Hayır,1,10000,0,Yok,1,39, Pamukkale,15 Mayıs Mahallesi
+556,556,Daire,35,1,3,Bahçe Katı,2,Kombi Doğalgaz,Boş,Kat İrtifakı,Hayır,1,10000,0,Yok,1,7, Pamukkale,Asmalıevler Mahallesi
+557,557,Daire,95,3,0,2.Kat,4,Merkezi Doğalgaz,Boş,Kıbrıs Tapulu,Evet,1,9500,1,Açık Balkon,2,13, Honaz,Ovacık Mahallesi
+558,558,Daire,55,1,2,2.Kat,2,Kombi Doğalgaz,Eşyalı,Kat Mülkiyeti,Hayır,1,16500,0,Yok,1,74, Merkezefendi,Şirinköy Mahallesi
+559,559,Daire,50,1,5,2.Kat,4,Yerden Isıtma,Eşyalı,Kat İrtifakı,Hayır,1,9000,1,Açık Balkon,1,83, Pamukkale,Zeytinköy Mahallesi
+560,560,Daire,50,1,5,5.Kat,5,Kombi Doğalgaz,Eşyalı,Kat İrtifakı,Hayır,1,10000,0,Yok,1,82, Merkezefendi,Adalet Mahallesi
+561,561,Daire,65,1,0,2.Kat,3,Kombi Doğalgaz,Eşyalı,Kat Mülkiyeti,Hayır,1,15000,0,Yok,1,84, Pamukkale,Zeytinköy Mahallesi
+562,562,Daire,140,6,4,2.Kat,5,Yerden Isıtma,Boş,Kat Mülkiyeti,Hayır,2,26500,0,Yok,1,83, Merkezefendi,Gerzele Mahallesi
+563,563,Daire,45,1,4,1.Kat,3,Yerden Isıtma,Eşyalı,Kat Mülkiyeti,Hayır,1,11500,0,Yok,1,83, Merkezefendi,Bahçelievler Mahallesi
+564,564,Daire,55,3,21,2.Kat,2,Kombi Doğalgaz,Eşyalı,Bilinmiyor,Hayır,1,10000,0,Yok,1,84, Pamukkale,15 Mayıs Mahallesi
+565,565,Daire,125,6,16,1.Kat,2,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,15000,0,Yok,1,84, Pamukkale,Siteler Mahallesi
+566,566,Daire,205,8,5,2.Kat,3,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,2,30000,0,Yok,1,85, Merkezefendi,Selçuk Bey Mahallesi
+567,567,Daire,60,1,5,Çatı Katı,2,Kombi Doğalgaz,Eşyalı,Müstakil Tapulu,Hayır,1,15000,0,Yok,1,85, Merkezefendi,Bahçelievler Mahallesi
+568,568,Daire,55,1,3,7.Kat,8,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,18000,0,Yok,1,85, Merkezefendi,Şemikler Mahallesi
+569,569,Daire,120,6,21,Yüksek Giriş,5,Kombi Doğalgaz,Boş,Kat İrtifakı,Hayır,1,15500,0,Yok,1,84, Pamukkale,Mehmetçik Mahallesi
+570,570,Daire,45,1,16,4.Kat,4,Kombi Doğalgaz,Eşyalı,Kat Mülkiyeti,Hayır,1,16900,0,Yok,1,84, Pamukkale,Yunusemre Mahallesi
+571,571,Daire,48,1,0,Kot 2 (-2).Kat,2,Kombi Doğalgaz,Boş,Tapu Kaydı Yok,Hayır,1,17500,0,Yok,1,85, Merkezefendi,Sırakapılar Mahallesi
+572,572,Daire,42,1,0,2.Kat,3,Kombi Doğalgaz,Boş,Tapu Kaydı Yok,Hayır,1,9000,0,Yok,1,63, Pamukkale,Zeytinköy Mahallesi
+573,573,Daire,135,3,21,Çatı Katı,5,Kombi Doğalgaz,Boş,Müstakil Tapulu,Hayır,1,10000,0,Yok,1,85, Pamukkale,Kuşpınar Mahallesi
+574,574,Daire,60,3,0,2.Kat,2,Yerden Isıtma,Boş,Kat Mülkiyeti,Hayır,1,15000,0,Yok,1,85, Merkezefendi,Gültepe Mahallesi
+575,575,Daire,100,3,16,4.Kat,5,Kombi Doğalgaz,Boş,Kat İrtifakı,Hayır,1,15000,0,Yok,1,60, Merkezefendi,Bereketler Mahallesi
+576,576,Daire,90,3,21,3.Kat,4,Kombi Doğalgaz,Boş,Hisseli Tapu,Hayır,1,10500,0,Yok,1,85, Pamukkale,Kuşpınar Mahallesi
+577,577,Daire,150,6,11,1.Kat,3,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,2,25000,0,Yok,1,85, Pamukkale,Yunusemre Mahallesi
+578,578,Daire,65,3,16,Bahçe Katı,3,Kombi Doğalgaz,Eşyalı,Kat Mülkiyeti,Hayır,1,9000,0,Yok,1,85, Pamukkale,Kınıklı Mahallesi
+579,579,Daire,60,3,3,Bahçe Katı,3,Yerden Isıtma,Eşyalı,Kat Mülkiyeti,Hayır,1,9000,0,Yok,1,85, Pamukkale,Asmalıevler Mahallesi
+580,580,Daire,49,1,4,2.Kat,5,Kombi Doğalgaz,Eşyalı,Kat Mülkiyeti,Hayır,1,11000,0,Yok,1,85, Merkezefendi,Sırakapılar Mahallesi
+581,581,Daire,248,8,11,3.Kat,3,Merkezi Doğalgaz,Boş,Arsa Tapulu,Evet,1,25000,3,Açık Balkon,1,86, Pamukkale,Fesleğen Mahallesi
+582,582,Daire,165,8,21,4.Kat,5,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,25000,0,Yok,1,86, Pamukkale,Kınıklı Mahallesi
+583,583,Daire,40,0,4,Düz Giriş (Zemin),3,Merkezi Doğalgaz,Eşyalı,Kat Mülkiyeti,Hayır,1,5500,0,Yok,1,86, Pamukkale,Zeytinköy Mahallesi
+584,584,Daire,110,3,21,2.Kat,4,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,14000,0,Yok,1,36, Pamukkale,Atalar Mahallesi
+585,585,Daire,110,3,11,Yüksek Giriş,2,Kombi Doğalgaz,Eşyalı,Kat Mülkiyeti,Hayır,1,17000,2,Açık Balkon,2,87, Merkezefendi,Gümüşçay Mahallesi
+586,586,Daire,45,0,2,2.Kat,3,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,7000,0,Yok,1,86, Pamukkale,Bağbaşı Mahallesi
+587,587,Daire,100,3,4,3.Kat,3,Kombi Doğalgaz,Boş,Kat İrtifakı,Hayır,1,18250,0,Yok,1,9, Merkezefendi,Gümüşçay Mahallesi
+588,588,Daire,190,8,21,5.Kat,7,Merkezi (Pay Ölçer),Boş,Müstakil Tapulu,Hayır,1,18000,0,Yok,1,0, Pamukkale,Atalar Mahallesi
+589,589,Daire,135,3,21,2.Kat,6,Kombi Doğalgaz,Boş,Bilinmiyor,Hayır,2,12000,0,Yok,1,58, Merkezefendi,Akkonak Mahallesi
+590,590,Daire,160,6,21,1.Kat,2,Merkezi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,2,17000,0,"Açık Balkon, Kapalı Balkon",2,0, Pamukkale,Yunusemre Mahallesi
+591,591,Daire,45,1,11,Yüksek Giriş,3,Yerden Isıtma,Eşyalı,Kat Mülkiyeti,Hayır,1,9500,0,Yok,1,14, Pamukkale,Topraklık Mahallesi
+592,592,Daire,50,1,0,1.Kat,3,Yerden Isıtma,Boş,Kat Mülkiyeti,Hayır,1,11250,0,Yok,1,88, Merkezefendi,Sırakapılar Mahallesi
+593,593,Daire,40,1,5,2.Kat,3,Yerden Isıtma,Eşyalı,Kat İrtifakı,Hayır,1,10000,0,Yok,1,88, Pamukkale,İncilipınar Mahallesi
+594,594,Daire,70,1,4,Çatı Dubleks,5,Yerden Isıtma,Boş,Kat İrtifakı,Hayır,1,14000,1,Açık Balkon,1,88, Pamukkale,15 Mayıs Mahallesi
+595,595,Daire,65,3,5,2.Kat,4,Kombi Doğalgaz,Eşyalı,Kat Mülkiyeti,Hayır,1,12000,0,Yok,1,88, Pamukkale,Asmalıevler Mahallesi
+596,596,Daire,120,6,16,Yüksek Giriş,1,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,10000,0,Yok,1,88, Pamukkale,Bağbaşı Mahallesi
+597,597,Daire,50,1,4,2.Kat,3,Merkezi Doğalgaz,Boş,Arsa Tapulu,Evet,1,13000,0,Yok,1,90, Merkezefendi,Akkonak Mahallesi
+598,598,Daire,160,6,11,3.Kat,5,Merkezi Doğalgaz,Boş,Kat Mülkiyeti,Evet,1,17000,0,Yok,1,90, Merkezefendi,Yenişafak Mahallesi
+599,599,Daire,350,6,4,Düz Giriş (Zemin),6,Kombi Doğalgaz,Boş,Müstakil Tapulu,Evet,Yok,65000,0,Yok,1,52, Merkezefendi,Muratdede Mahallesi
+600,600,Daire,45,1,5,2.Kat,5,Kombi Doğalgaz,Eşyalı,Kat Mülkiyeti,Hayır,1,12000,0,Yok,1,90, Pamukkale,Yunusemre Mahallesi
+601,601,Daire,40,1,5,Bahçe Katı,3,Yerden Isıtma,Boş,Kat Mülkiyeti,Hayır,1,7500,0,Yok,1,7, Pamukkale,Zeytinköy Mahallesi
+602,602,Daire,50,1,11,Bahçe Katı,4,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Evet,1,10000,0,Yok,1,91, Pamukkale,Kınıklı Mahallesi
+603,603,Daire,50,1,5,3.Kat,6,Merkezi Doğalgaz,Eşyalı,Kat Mülkiyeti,Hayır,1,12500,0,Yok,1,91, Pamukkale,Topraklık Mahallesi
+604,604,Daire,150,6,0,3.Kat,4,Yerden Isıtma,Boş,Kat Mülkiyeti,Hayır,2,28000,0,Yok,1,91, Merkezefendi,Çakmak Mahallesi
+605,605,Daire,40,1,5,2.Kat,2,Kombi Doğalgaz,Eşyalı,Kat Mülkiyeti,Hayır,1,10000,0,Yok,1,91, Pamukkale,Siteler Mahallesi
+606,606,Daire,185,6,5,2.Kat,5,Kombi Doğalgaz,Boş,Kat İrtifakı,Hayır,2,30000,0,Yok,1,91, Merkezefendi,Adalet Mahallesi
+607,607,Daire,45,1,5,2.Kat,3,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,8500,0,Yok,1,7, Pamukkale,Asmalıevler Mahallesi
+608,608,Daire,130,5,5,7.Kat,7,Kombi Doğalgaz,Eşyalı,Kat Mülkiyeti,Hayır,1,25000,0,Yok,1,91, Pamukkale,Kuşpınar Mahallesi
+609,609,Residence,35,1,0,3.Kat,3,Yerden Isıtma,Eşyalı,Kat İrtifakı,Hayır,1,18000,0,Yok,1,90, Merkezefendi,Merkez Efendi Mahallesi
+610,610,Daire,45,1,0,1.Kat,3,Yerden Isıtma,Boş,Kat Mülkiyeti,Hayır,1,18000,0,Yok,1,91, Merkezefendi,Karahasanlı Mahallesi
+611,611,Daire,130,6,0,2.Kat,4,Yerden Isıtma,Boş,Kat Mülkiyeti,Hayır,1,22000,0,Yok,1,92, Merkezefendi,Çakmak Mahallesi
+612,612,Daire,120,6,21,1.Kat,7,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,14000,2,"Açık Balkon, Kapalı Balkon",2,92, Merkezefendi,Değirmenönü Mahallesi
+613,613,Daire,45,1,5,Yüksek Giriş,2,Kombi Doğalgaz,Eşyalı,Kat Mülkiyeti,Hayır,1,11000,0,Yok,1,25, Merkezefendi,Sırakapılar Mahallesi
+614,614,Daire,50,1,3,2.Kat,3,Kombi Doğalgaz,Eşyalı,Kat Mülkiyeti,Hayır,1,10000,0,Yok,1,89, Pamukkale,Zeytinköy Mahallesi
+615,615,Daire,50,1,5,3.Kat,5,Kombi Doğalgaz,Eşyalı,Kat Mülkiyeti,Hayır,1,11000,0,Yok,1,92, Pamukkale,Yunusemre Mahallesi
+616,616,Daire,40,0,11,Düz Giriş (Zemin),4,Merkezi (Pay Ölçer),Eşyalı,Kat Mülkiyeti,Hayır,1,7000,0,Yok,1,92, Pamukkale,Yunusemre Mahallesi
+617,617,Daire,50,1,11,3.Kat,4,Merkezi Doğalgaz,Eşyalı,Kat Mülkiyeti,Hayır,1,10500,0,Yok,1,92, Pamukkale,Yunusemre Mahallesi
+618,618,Daire,65,3,1,Bahçe Katı,3,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,11000,0,Yok,1,92, Pamukkale,Siteler Mahallesi
+619,619,Daire,100,3,0,3.Kat,4,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,2,21000,0,Yok,1,92, Merkezefendi,Karahasanlı Mahallesi
+620,620,Daire,45,1,4,3.Kat,3,Yerden Isıtma,Boş,Kat Mülkiyeti,Hayır,1,6000,0,Yok,1,7, Pamukkale,Zeytinköy Mahallesi
+621,621,Daire,120,3,3,Bahçe Katı,3,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,14000,0,Yok,1,92, Pamukkale,Mehmetçik Mahallesi
+622,622,Daire,170,6,11,2.Kat,5,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,2,26000,0,Yok,1,37, Merkezefendi,Adalet Mahallesi
+623,623,Daire,130,6,21,5.Kat,7,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,15000,0,Yok,1,92, Pamukkale,15 Mayıs Mahallesi
+624,624,Daire,125,3,11,3.Kat,4,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,17000,0,Yok,1,92, Pamukkale,Pelitlibağ Mahallesi
+625,625,Daire,65,1,5,Bahçe Katı,3,Yerden Isıtma,Eşyalı,Kat Mülkiyeti,Hayır,1,7000,0,Yok,1,88, Pamukkale,Zeytinköy Mahallesi
+626,626,Daire,165,6,5,2.Kat,4,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,23000,0,Yok,1,92, Merkezefendi,Adalet Mahallesi
+627,627,Daire,125,6,16,1.Kat,3,Kombi Doğalgaz,Boş,Bilinmiyor,Hayır,1,16000,0,Yok,1,93, Merkezefendi,Değirmenönü Mahallesi
+628,628,Daire,60,3,5,2.Kat,4,Kombi Doğalgaz,Eşyalı,Kat Mülkiyeti,Hayır,1,12500,0,Yok,1,65, Pamukkale,Zeytinköy Mahallesi
+629,629,Daire,85,3,5,Kot 1 (-1).Kat,6,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,13500,0,Yok,1,93, Pamukkale,Zeytinköy Mahallesi
+630,630,Daire,155,6,16,3.Kat,4,Kombi Doğalgaz,Boş,Müstakil Tapulu,Hayır,1,17500,0,Yok,1,17, Pamukkale,Zeytinköy Mahallesi
+631,631,Daire,70,3,11,2.Kat,3,Kombi Doğalgaz,Eşyalı,Kat Mülkiyeti,Hayır,1,14000,0,Yok,1,93, Pamukkale,Yunusemre Mahallesi
+632,632,Daire,60,3,5,Bahçe Katı,2,Kombi Doğalgaz,Boş,Tapu Kaydı Yok,Hayır,1,9000,0,Yok,1,92, Pamukkale,Siteler Mahallesi
+633,633,Daire,73,3,1,2.Kat,3,Kat Kaloriferi,Boş,Tapu Kaydı Yok,Hayır,1,15000,0,Yok,1,92, Pamukkale,Asmalıevler Mahallesi
+634,634,Daire,53,1,1,2.Kat,3,Kombi Doğalgaz,Boş,Tapu Kaydı Yok,Hayır,1,15000,0,Yok,1,92, Pamukkale,Zeytinköy Mahallesi
+635,635,Daire,70,6,5,Düz Giriş (Zemin),3,Kombi Doğalgaz,Boş,Tapu Kaydı Yok,Hayır,1,23000,0,Yok,1,92, Pamukkale,Kınıklı Mahallesi
+636,636,Daire,48,1,0,2.Kat,3,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,15000,0,Yok,1,78, Merkezefendi,Çakmak Mahallesi
+637,637,Residence,60,2,5,Yüksek Giriş,3,Kombi Doğalgaz,Eşyalı,Kat Mülkiyeti,Hayır,1,12000,1,Açık Balkon,1,24, Merkezefendi,Akkonak Mahallesi
+638,638,Daire,45,1,5,Bahçe Katı,3,Yerden Isıtma,Eşyalı,Kat Mülkiyeti,Hayır,1,8500,0,Yok,1,94, Pamukkale,Asmalıevler Mahallesi
+639,639,Daire,47,1,1,1.Kat,3,Yerden Isıtma,Eşyalı,Kat İrtifakı,Hayır,1,14000,0,Yok,1,95, Pamukkale,Yunusemre Mahallesi
+640,640,Daire,45,1,5,2.Kat,5,Yerden Isıtma,Eşyalı,Kat Mülkiyeti,Hayır,1,10000,0,Yok,1,95, Pamukkale,Zeytinköy Mahallesi
+641,641,Daire,45,1,5,3.Kat,5,Yerden Isıtma,Eşyalı,Kat Mülkiyeti,Hayır,1,13000,0,Yok,1,94, Pamukkale,Zeytinköy Mahallesi
+642,642,Daire,42,1,5,Bahçe Katı,5,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,8000,0,Yok,1,8, Pamukkale,Kınıklı Mahallesi
+643,643,Daire,40,1,0,2.Kat,5,Yerden Isıtma,Eşyalı,Kat İrtifakı,Hayır,1,15000,0,Yok,1,94, Pamukkale,Asmalıevler Mahallesi
+644,644,Daire,210,8,16,2.Kat,4,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,2,20000,0,Yok,1,95, Pamukkale,Atalar Mahallesi
+645,645,Daire,105,3,21,Bahçe Katı,3,Kombi Doğalgaz,Boş,Kat İrtifakı,Hayır,1,10000,0,Yok,1,22, Merkezefendi,Karaman Mahallesi
+646,646,Daire,45,1,5,Bahçe Katı,3,Yerden Isıtma,Boş,Kat Mülkiyeti,Evet,1,7000,0,Yok,1,24, Pamukkale,Zeytinköy Mahallesi
+647,647,Daire,65,3,11,1.Kat,3,Kombi Doğalgaz,Eşyalı,Kat Mülkiyeti,Hayır,1,13000,0,Yok,1,95, Pamukkale,Zeytinköy Mahallesi
+648,648,Daire,65,3,0,3.Kat,4,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,17000,0,Yok,1,24, Merkezefendi,Karahasanlı Mahallesi
+649,649,Daire,155,6,5,5.Kat,5,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Evet,1,28400,0,Yok,1,37, Merkezefendi,Gerzele Mahallesi
+650,650,Daire,140,6,16,1.Kat,2,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,2,22000,0,Yok,1,95, Pamukkale,İncilipınar Mahallesi
+651,651,Daire,75,3,0,3.Kat,3,Kombi Doğalgaz,Eşyalı,Kat İrtifakı,Hayır,1,15000,0,Yok,1,39, Merkezefendi,Merkez Efendi Mahallesi
+652,652,Daire,170,6,21,3.Kat,7,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,16000,0,Yok,1,41, Pamukkale,İstiklal Mahallesi
+653,653,Daire,40,1,11,Çatı Katı,3,Kombi Doğalgaz,Eşyalı,Kat Mülkiyeti,Hayır,1,12000,0,Yok,1,95, Pamukkale,Kınıklı Mahallesi
+654,654,Daire,55,1,3,Bahçe Katı,1,Yerden Isıtma,Eşyalı,Müstakil Tapulu,Hayır,1,17000,0,Yok,1,37, Merkezefendi,Servergazi Mahallesi
+655,655,Daire,120,6,21,3.Kat,5,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Evet,1,22000,0,Yok,1,95, Merkezefendi,Mehmet Akif Ersoy Mahallesi
+656,656,Daire,125,6,16,1.Kat,3,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,16000,2,Açık Balkon,1,95, Merkezefendi,Değirmenönü Mahallesi
+657,657,Daire,45,0,5,1.Kat,4,Kombi Doğalgaz,Eşyalı,Kat Mülkiyeti,Hayır,1,10000,0,Yok,1,95, Merkezefendi,Bahçelievler Mahallesi
+658,658,Daire,165,6,0,4.Kat,9,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Evet,2,40000,0,Yok,1,86, Merkezefendi,Şemikler Mahallesi
+659,659,Daire,60,3,11,3.Kat,3,Kombi Doğalgaz,Eşyalı,Kat İrtifakı,Hayır,1,10500,0,Yok,1,86, Pamukkale,Zeytinköy Mahallesi
+660,660,Daire,155,6,5,3.Kat,5,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,42500,0,Yok,1,86, Merkezefendi,Gerzele Mahallesi
+661,661,Daire,42,1,2,2.Kat,2,Yerden Isıtma,Boş,Müstakil Tapulu,Hayır,1,11500,0,Yok,1,63, Merkezefendi,Adalet Mahallesi
+662,662,Daire,65,1,0,Bahçe Katı,2,Kombi Doğalgaz,Eşyalı,Kat Mülkiyeti,Hayır,1,12000,0,Yok,1,95, Pamukkale,Asmalıevler Mahallesi
+663,663,Daire,90,2,5,1.Kat,3,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,10000,0,Yok,1,35, Pamukkale,Zeytinköy Mahallesi
+664,664,Daire,140,6,21,2.Kat,4,Kombi Doğalgaz,Boş,Müstakil Tapulu,Hayır,2,15000,0,Yok,1,86, Pamukkale,Topraklık Mahallesi
+665,665,Daire,107,3,21,5.Kat,5,Merkezi (Pay Ölçer),Boş,Kat Mülkiyeti,Hayır,1,19000,0,Yok,1,55, Pamukkale,Mehmetçik Mahallesi
+666,666,Daire,185,6,21,5.Kat,6,Kombi Doğalgaz,Boş,Müstakil Tapulu,Hayır,1,13500,0,Yok,1,86, Merkezefendi,Altıntop Mahallesi
+667,667,Daire,110,3,5,1.Kat,3,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Evet,1,14000,3,Kapalı Balkon,1,83, Pamukkale,Yunusemre Mahallesi
+668,668,Daire,45,1,11,Çatı Katı,2,Merkezi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,7000,0,Yok,1,95, Pamukkale,Zeytinköy Mahallesi
+669,669,Daire,185,6,11,3.Kat,4,Jeotermal,Boş,Müstakil Tapulu,Hayır,1,15000,2,Açık Balkon,1,38, Sarayköy,Atatürk Mahallesi
+670,670,Residence,50,1,11,7.Kat,7,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,12000,0,Yok,1,24, Merkezefendi,Değirmenönü Mahallesi
+671,671,Daire,50,1,3,Çatı Katı,3,Kombi Doğalgaz,Boş,Kat İrtifakı,Evet,1,11000,1,Açık Balkon,1,36, Pamukkale,Yunusemre Mahallesi
+672,672,Daire,150,6,16,1.Kat,4,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,18000,2,Açık Balkon,1,24, Pamukkale,15 Mayıs Mahallesi
+673,673,Daire,50,1,4,2.Kat,3,Yerden Isıtma,Boş,Kat Mülkiyeti,Hayır,1,12000,0,Yok,1,24, Merkezefendi,Değirmenönü Mahallesi
+674,674,Daire,40,1,5,2.Kat,4,Kombi Doğalgaz,Eşyalı,Bilinmiyor,Hayır,1,12000,0,Yok,1,37, Tavas,Kızılcabölük Mahallesi
+675,675,Daire,40,1,5,2.Kat,3,Yerden Isıtma,Eşyalı,Bilinmiyor,Hayır,1,13000,0,Yok,1,37, Merkezefendi,Mehmet Akif Ersoy Mahallesi
+676,676,Daire,195,6,5,1.Kat,4,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,2,30000,2,Açık Balkon,1,95, Merkezefendi,Adalet Mahallesi
+677,677,Daire,70,2,0,2.Kat,2,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,17000,1,Kapalı Balkon,1,52, Merkezefendi,Adalet Mahallesi
+678,678,Daire,39,1,5,1.Kat,3,Kombi Doğalgaz,Eşyalı,Kat Mülkiyeti,Hayır,1,10000,0,Yok,1,95, Pamukkale,Kınıklı Mahallesi
+679,679,Daire,100,3,4,2.Kat,3,Yerden Isıtma,Boş,Kat Mülkiyeti,Hayır,1,18500,0,Yok,1,84, Merkezefendi,Şemikler Mahallesi
+680,680,Daire,85,3,11,Bahçe Katı,5,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,10000,0,Yok,1,24, Pamukkale,Yunusemre Mahallesi
+681,681,Daire,90,3,1,3.Kat,5,Kombi Doğalgaz,Eşyalı,Kat Mülkiyeti,Hayır,1,20000,1,Açık Balkon,1,24, Pamukkale,Yunusemre Mahallesi
+682,682,Daire,145,6,21,2.Kat,7,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,19000,0,Yok,1,95, Pamukkale,Kuşpınar Mahallesi
+683,683,Daire,48,1,5,2.Kat,3,Kombi Doğalgaz,Eşyalı,Kat Mülkiyeti,Hayır,1,9500,0,Yok,1,95, Pamukkale,İstiklal Mahallesi
+684,684,Daire,80,3,11,Bahçe Katı,3,Kombi Doğalgaz,Boş,Tapu Kaydı Yok,Hayır,1,8000,0,Yok,1,24, Pamukkale,Siteler Mahallesi
+685,685,Daire,45,1,5,Çatı Katı,3,Yerden Isıtma,Eşyalı,Kat Mülkiyeti,Hayır,1,7500,0,Yok,1,24, Merkezefendi,Sırakapılar Mahallesi
+686,686,Daire,100,3,21,4.Kat,6,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,13000,0,Yok,1,41, Pamukkale,Fatih Mahallesi
+687,687,Daire,130,6,2,3.Kat,4,Yerden Isıtma,Boş,Kat İrtifakı,Hayır,1,25000,0,Yok,1,95, Merkezefendi,Akkonak Mahallesi
+688,688,Daire,45,1,4,1.Kat,4,Kombi Doğalgaz,Boş,Tapu Kaydı Yok,Hayır,1,11000,0,Yok,1,24, Pamukkale,İncilipınar Mahallesi
+689,689,Daire,110,3,0,4.Kat,5,Kombi Doğalgaz,Boş,Kat İrtifakı,Hayır,2,19000,0,Yok,1,95, Merkezefendi,Karaman Mahallesi
+690,690,Daire,120,6,2,Yüksek Giriş,3,Yerden Isıtma,Boş,Kat İrtifakı,Hayır,1,19999,0,Yok,1,38, Merkezefendi,Hallaçlar Mahallesi
+691,691,Daire,165,6,1,1.Kat,4,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,2,25000,0,Yok,1,21, Merkezefendi,Şemikler Mahallesi
+692,692,Daire,50,1,0,2.Kat,3,Kombi Doğalgaz,Eşyalı,Kat Mülkiyeti,Hayır,1,12500,0,Yok,1,95, Merkezefendi,Muratdede Mahallesi
+693,693,Daire,65,3,11,2.Kat,3,Kombi Doğalgaz,Eşyalı,Kat Mülkiyeti,Hayır,1,12000,0,Yok,1,39, Merkezefendi,Değirmenönü Mahallesi
+694,694,Daire,145,6,16,3.Kat,5,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,18000,0,Yok,1,95, Merkezefendi,Gültepe Mahallesi
+695,695,Daire,50,1,5,2.Kat,4,Klimalı,Eşyalı,Kat Mülkiyeti,Hayır,1,10000,0,Yok,1,88, Pamukkale,15 Mayıs Mahallesi
+696,696,Daire,50,1,5,2.Kat,5,Kombi Doğalgaz,Eşyalı,Kat Mülkiyeti,Hayır,1,10500,0,Yok,1,54, Pamukkale,Pelitlibağ Mahallesi
+697,697,Daire,60,3,4,1.Kat,3,Yerden Isıtma,Eşyalı,Kat İrtifakı,Hayır,2,15000,0,Yok,1,88, Merkezefendi,Adalet Mahallesi
+698,698,Daire,60,3,1,1.Kat,3,Kombi Doğalgaz,Eşyalı,Kat Mülkiyeti,Hayır,1,15000,0,Yok,1,87, Merkezefendi,Adalet Mahallesi
+699,699,Daire,100,3,16,Bahçe Katı,3,Kombi Doğalgaz,Eşyalı,Kat Mülkiyeti,Hayır,1,25000,0,Yok,1,39, Merkezefendi,Gerzele Mahallesi
+700,700,Daire,150,6,16,1.Kat,4,Kombi Doğalgaz,Boş,Kat İrtifakı,Evet,1,13500,0,Yok,1,35, Merkezefendi,Gültepe Mahallesi
+701,701,Daire,120,3,21,3.Kat,5,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Evet,1,14000,0,Yok,1,95, Merkezefendi,Yenişehir Mahallesi
+702,702,Daire,55,3,5,3.Kat,4,Kombi Doğalgaz,Eşyalı,Kat Mülkiyeti,Hayır,1,12000,0,Yok,1,95, Pamukkale,Zeytinköy Mahallesi
+703,703,Daire,35,1,11,Yüksek Giriş,2,Kombi Doğalgaz,Eşyalı,Kat Mülkiyeti,Hayır,1,8500,0,Yok,1,95, Merkezefendi,Değirmenönü Mahallesi
+704,704,Daire,170,6,5,2.Kat,5,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,2,25500,0,Yok,1,38, Merkezefendi,Yenişafak Mahallesi
+705,705,Daire,175,6,5,1.Kat,5,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Evet,2,30000,0,Yok,1,95, Merkezefendi,Gerzele Mahallesi
+706,706,Daire,125,6,5,2.Kat,4,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,17000,0,Yok,1,95, Merkezefendi,Yenişafak Mahallesi
+707,707,Daire,45,1,5,2.Kat,3,Kombi Doğalgaz,Eşyalı,Kat Mülkiyeti,Hayır,1,8000,0,Yok,1,95, Merkezefendi,Sümer Mahallesi
+708,708,Daire,130,3,21,3.Kat,4,Kombi Doğalgaz,Boş,Arsa Tapulu,Hayır,1,15000,0,Yok,1,88, Pamukkale,Mehmetçik Mahallesi
+709,709,Daire,45,1,5,3.Kat,3,Yerden Isıtma,Eşyalı,Kat Mülkiyeti,Hayır,1,10000,0,Yok,1,74, Pamukkale,Kınıklı Mahallesi
+710,710,Daire,175,6,5,2.Kat,4,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,25500,0,Yok,1,95, Pamukkale,Bağbaşı Mahallesi
+711,711,Daire,40,1,5,Bahçe Katı,5,Kombi Doğalgaz,Eşyalı,Bilinmiyor,Hayır,1,9250,0,Yok,1,88, Pamukkale,Yunusemre Mahallesi
+712,712,Daire,50,3,5,3.Kat,3,Kombi Doğalgaz,Eşyalı,Bilinmiyor,Hayır,1,14000,0,Yok,1,88, Merkezefendi,Değirmenönü Mahallesi
+713,713,Daire,220,9,5,1.Kat,5,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,2,25000,2,Kapalı Balkon,2,95, Pamukkale,İncilipınar Mahallesi
+714,714,Daire,55,1,3,2.Kat,4,Yerden Isıtma,Eşyalı,Kat Mülkiyeti,Hayır,1,13000,0,Yok,1,88, Pamukkale,Zeytinköy Mahallesi
+715,715,Daire,120,3,11,Çatı Katı,5,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,14000,1,Kapalı Teras,1,95, Merkezefendi,Akkonak Mahallesi
+716,716,Daire,45,1,5,4.Kat,5,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,12000,0,Yok,1,95, Pamukkale,İstiklal Mahallesi
+717,717,Residence,50,1,5,2.Kat,3,Kombi Doğalgaz,Eşyalı,Kat Mülkiyeti,Hayır,1,12000,0,Yok,1,24, Merkezefendi,Değirmenönü Mahallesi
+718,718,Residence,50,1,5,7.Kat,7,Merkezi Doğalgaz,Eşyalı,Kat Mülkiyeti,Hayır,1,11000,1,Açık Balkon,1,24, Pamukkale,Atalar Mahallesi
+719,719,Residence,50,1,5,2.Kat,3,Kombi Doğalgaz,Eşyalı,Kat Mülkiyeti,Hayır,1,10000,0,Yok,1,24, Pamukkale,15 Mayıs Mahallesi
+720,720,Daire,65,3,5,2.Kat,3,Merkezi Doğalgaz,Eşyalı,Bilinmiyor,Hayır,1,11500,0,Yok,1,37, Pamukkale,Bağbaşı Mahallesi
+721,721,Daire,110,6,21,3.Kat,3,Klimalı,Boş,Bilinmiyor,Hayır,1,13000,0,Yok,1,39, Çivril,Aşağı Mahallesi
+722,722,Daire,49,1,5,3.Kat,3,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,11000,0,Yok,1,24, Merkezefendi,Sırakapılar Mahallesi
+723,723,Daire,160,6,11,3.Kat,5,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Evet,1,25000,0,Yok,1,37, Merkezefendi,Yenişafak Mahallesi
+724,724,Daire,100,3,11,2.Kat,3,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,12000,0,Yok,1,88, Merkezefendi,Gültepe Mahallesi
+725,725,Daire,44,3,5,2.Kat,5,Merkezi Doğalgaz,Eşyalı,Kat Mülkiyeti,Hayır,1,17000,0,Yok,1,92, Pamukkale,15 Mayıs Mahallesi
+726,726,Daire,50,1,5,3.Kat,4,Merkezi Doğalgaz,Eşyalı,Kat Mülkiyeti,Hayır,1,14000,0,Yok,1,88, Pamukkale,Kınıklı Mahallesi
+727,727,Daire,75,3,5,2.Kat,3,Yerden Isıtma,Eşyalı,Kat Mülkiyeti,Hayır,1,12500,0,Yok,1,95, Pamukkale,Zeytinköy Mahallesi
+728,728,Daire,65,1,5,Bahçe Katı,3,Yerden Isıtma,Eşyalı,Kat Mülkiyeti,Hayır,1,8000,0,Yok,1,88, Pamukkale,Zeytinköy Mahallesi
+729,729,Daire,45,1,11,Çatı Katı,3,Merkezi Doğalgaz,Eşyalı,Kat Mülkiyeti,Hayır,1,8500,0,Yok,1,95, Pamukkale,Zeytinköy Mahallesi
+730,730,Daire,80,3,16,2.Kat,3,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,13000,0,Yok,1,79, Merkezefendi,Karaman Mahallesi
+731,731,Daire,45,1,5,1.Kat,4,Kombi Doğalgaz,Eşyalı,Kat Mülkiyeti,Hayır,1,9000,1,Açık Balkon,1,81, Pamukkale,Asmalıevler Mahallesi
+732,732,Daire,180,6,5,1.Kat,4,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Evet,2,22000,2,Kapalı Balkon,1,24, Merkezefendi,Merkez Efendi Mahallesi
+734,734,Daire,43,1,5,2.Kat,4,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,9000,0,Yok,1,7, Pamukkale,Kınıklı Mahallesi
+735,735,Daire,140,6,21,5.Kat,7,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,18000,2,"Açık Balkon, Kapalı Balkon",1,24, Pamukkale,Hacıkaplanlar Mahallesi
+736,736,Daire,165,6,1,1.Kat,4,Yerden Isıtma,Boş,Tapu Kaydı Yok,Hayır,2,25000,0,Yok,1,0, Merkezefendi,Şemikler Mahallesi
+737,737,Daire,140,6,11,2.Kat,3,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Evet,1,25000,1,Kapalı Balkon,1,95, Pamukkale,Kuşpınar Mahallesi
+738,738,Residence,50,1,5,Çatı Katı,2,Yerden Isıtma,Eşyalı,Bilinmiyor,Hayır,1,12000,0,Yok,1,74, Pamukkale,Bağbaşı Mahallesi
+739,739,Daire,55,1,5,Bahçe Katı,4,Merkezi Doğalgaz,Boş,Kat İrtifakı,Hayır,1,8000,0,Yok,1,95, Pamukkale,Siteler Mahallesi
+740,740,Daire,60,1,5,2.Kat,4,Merkezi Doğalgaz,Boş,Kat İrtifakı,Hayır,1,10000,0,Yok,1,95, Pamukkale,Siteler Mahallesi
+741,741,Daire,80,3,5,2.Kat,4,Merkezi Doğalgaz,Eşyalı,Kat İrtifakı,Hayır,1,13000,1,Kapalı Balkon,1,95, Pamukkale,Siteler Mahallesi
+742,742,Daire,135,6,4,2.Kat,4,Yerden Isıtma,Boş,Kat Mülkiyeti,Hayır,2,21000,0,Yok,1,38, Merkezefendi,Karahasanlı Mahallesi
+743,743,Daire,125,6,21,4.Kat,4,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,15000,0,Yok,1,38, Pamukkale,Kuşpınar Mahallesi
+744,744,Daire,140,6,16,5.Kat,5,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Evet,1,20000,0,Yok,1,95, Merkezefendi,Şemikler Mahallesi
+745,745,Daire,50,1,5,1.Kat,3,Yerden Isıtma,Eşyalı,Kat Mülkiyeti,Hayır,1,11000,1,Açık Balkon,1,24, Merkezefendi,Akkonak Mahallesi
+746,746,Daire,75,3,5,2.Kat,3,Kombi Fueloil,Boş,Kat Mülkiyeti,Hayır,1,15000,0,Yok,1,24, Pamukkale,İncilipınar Mahallesi
+747,747,Daire,100,5,11,Bahçe Katı,3,Kat Kaloriferi,Boş,Kat Mülkiyeti,Hayır,1,10000,0,Yok,1,24, Pamukkale,Zeytinköy Mahallesi
+748,748,Daire,50,1,5,2.Kat,2,Yerden Isıtma,Boş,Kat Mülkiyeti,Hayır,1,11000,0,Yok,1,24, Merkezefendi,Değirmenönü Mahallesi
+749,749,Daire,40,1,0,1.Kat,2,Yerden Isıtma,Eşyalı,Kat Mülkiyeti,Hayır,1,14000,0,Yok,1,95, Merkezefendi,Selçuk Bey Mahallesi
+750,750,Daire,175,8,21,1.Kat,3,Kombi Doğalgaz,Boş,Bilinmiyor,Hayır,2,15000,0,Yok,1,38, Merkezefendi,Sırakapılar Mahallesi
+751,751,Daire,50,1,5,2.Kat,3,Yerden Isıtma,Eşyalı,Kat Mülkiyeti,Hayır,1,12000,0,Yok,1,24, Pamukkale,Mehmetçik Mahallesi
+752,752,Daire,40,1,5,Bahçe Katı,3,Yerden Isıtma,Boş,Kat Mülkiyeti,Hayır,1,12000,0,Yok,1,24, Pamukkale,Siteler Mahallesi
+753,753,Daire,60,4,5,3.Kat,3,Yerden Isıtma,Eşyalı,Kat Mülkiyeti,Hayır,1,16000,0,Yok,1,95, Merkezefendi,Şirinköy Mahallesi
+754,754,Daire,50,1,4,2.Kat,3,Yerden Isıtma,Eşyalı,Kat Mülkiyeti,Hayır,1,13000,0,Yok,1,95, Merkezefendi,Şirinköy Mahallesi
+755,755,Daire,175,6,0,5.Kat,9,Yerden Isıtma,Boş,Kat Mülkiyeti,Evet,2,35000,0,Yok,1,95, Merkezefendi,Şemikler Mahallesi
+756,756,Daire,50,1,4,3.Kat,5,Yerden Isıtma,Eşyalı,Kat Mülkiyeti,Hayır,1,15000,0,Yok,1,95, Merkezefendi,Adalet Mahallesi
+757,757,Daire,130,6,4,4.Kat,5,Yerden Isıtma,Boş,Kat Mülkiyeti,Hayır,2,23500,0,Yok,1,95, Merkezefendi,Şemikler Mahallesi
+758,758,Daire,100,5,5,6.Kat,17,Merkezi (Pay Ölçer),Eşyalı,Kat Mülkiyeti,Evet,1,40000,0,Yok,1,37, Merkezefendi,Selçuk Bey Mahallesi
+759,759,Daire,140,6,21,2.Kat,3,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,18000,1,Kapalı Balkon,1,36, Pamukkale,Kuşpınar Mahallesi
+760,760,Daire,60,3,3,5.Kat,5,Kombi Doğalgaz,Eşyalı,Kat Mülkiyeti,Hayır,1,16000,0,Yok,1,95, Pamukkale,Kınıklı Mahallesi
+761,761,Daire,40,1,5,Yüksek Giriş,3,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,12000,0,Yok,1,95, Merkezefendi,Adalet Mahallesi
+762,762,Daire,180,6,11,4.Kat,5,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,20000,0,Yok,1,95, Merkezefendi,Karahasanlı Mahallesi
+763,763,Daire,70,3,2,1.Kat,4,Yerden Isıtma,Eşyalı,Kat Mülkiyeti,Hayır,1,17000,0,Yok,1,34, Pamukkale,Mehmetçik Mahallesi
+764,764,Daire,40,1,5,Düz Giriş (Zemin),4,Yerden Isıtma,Eşyalı,Kat Mülkiyeti,Hayır,1,7000,0,Yok,1,35, Pamukkale,Asmalıevler Mahallesi
+765,765,Daire,35,0,11,1.Kat,3,Merkezi Doğalgaz,Eşyalı,Kat Mülkiyeti,Hayır,1,6000,0,Yok,1,35, Pamukkale,Kınıklı Mahallesi
+766,766,Daire,120,3,16,2.Kat,3,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,20000,0,Yok,1,35, Pamukkale,Siteler Mahallesi
+767,767,Daire,50,1,3,2.Kat,4,Yerden Isıtma,Eşyalı,Kat Mülkiyeti,Hayır,1,17000,0,Yok,1,34, Pamukkale,Kuşpınar Mahallesi
+768,768,Daire,65,3,5,3.Kat,5,Yerden Isıtma,Eşyalı,Kat Mülkiyeti,Hayır,1,15000,0,Yok,1,35, Pamukkale,Yunusemre Mahallesi
+769,769,Daire,50,1,16,2.Kat,4,Kombi Doğalgaz,Eşyalı,Kat Mülkiyeti,Hayır,1,8000,0,Yok,1,35, Merkezefendi,Değirmenönü Mahallesi
+770,770,Daire,145,6,4,2.Kat,4,Yerden Isıtma,Boş,Kat Mülkiyeti,Hayır,2,28000,0,Yok,1,95, Merkezefendi,Selçuk Bey Mahallesi
+771,771,Daire,150,6,4,2.Kat,3,Yerden Isıtma,Boş,Kat Mülkiyeti,Hayır,2,22000,0,Yok,1,95, Merkezefendi,Şemikler Mahallesi
+772,772,Daire,160,6,0,6.Kat,9,Yerden Isıtma,Boş,Kat İrtifakı,Evet,2,25000,0,Yok,1,95, Merkezefendi,Şemikler Mahallesi
+773,773,Daire,150,8,11,4.Kat,4,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,14000,0,Yok,1,95, Merkezefendi,Şemikler Mahallesi
+774,774,Daire,145,6,11,3.Kat,5,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Evet,1,20000,0,Yok,1,95, Merkezefendi,Şemikler Mahallesi
+775,775,Daire,40,1,0,20.Kat,30,Yerden Isıtma,Eşyalı,Kat Mülkiyeti,Evet,1,25000,0,Yok,1,95, Merkezefendi,Kayalar Mahallesi
+776,776,Daire,65,1,5,3.Kat,5,Merkezi (Pay Ölçer),Eşyalı,Kat Mülkiyeti,Hayır,1,17750,0,Yok,1,95, Pamukkale,Fatih Mahallesi
+777,777,Daire,65,3,4,2.Kat,4,Kombi Doğalgaz,Eşyalı,Kat Mülkiyeti,Hayır,1,18000,0,Yok,1,95, Pamukkale,Kınıklı Mahallesi
+778,778,Daire,60,3,0,3.Kat,4,Yerden Isıtma,Eşyalı,Kat Mülkiyeti,Evet,1,24000,0,Yok,1,95, Pamukkale,Asmalıevler Mahallesi
+779,779,Daire,45,5,21,3.Kat,6,Yerden Isıtma,Eşyalı,Kat Mülkiyeti,Hayır,1,15000,0,Yok,1,95, Merkezefendi,Saraylar Mahallesi
+780,780,Daire,150,6,16,1.Kat,3,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,12000,0,Yok,1,95, Çivril,Çarşı Mahallesi
+781,781,Daire,85,3,11,3.Kat,4,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,14500,0,Yok,1,95, Pamukkale,Zeytinköy Mahallesi
+782,782,Daire,140,6,11,3.Kat,5,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,20000,0,Yok,1,95, Merkezefendi,Karahasanlı Mahallesi
+783,783,Daire,65,3,21,1.Kat,1,Sobalı,Boş,Müstakil Tapulu,Hayır,1,6500,0,Yok,1,35, Sarayköy,Turan Mahallesi
+784,784,Daire,60,3,5,Bahçe Katı,5,Yerden Isıtma,Eşyalı,Kat Mülkiyeti,Hayır,1,12000,0,Yok,1,95, Pamukkale,Zeytinköy Mahallesi
+785,785,Daire,70,3,11,1.Kat,3,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,14000,1,Kapalı Balkon,1,95, Merkezefendi,Değirmenönü Mahallesi
+786,786,Daire,60,1,5,3.Kat,5,Merkezi Doğalgaz,Eşyalı,Kat Mülkiyeti,Hayır,1,12000,0,Yok,1,95, Pamukkale,Hacıkaplanlar Mahallesi
+787,787,Daire,140,6,16,3.Kat,4,Kombi Doğalgaz,Boş,Kat İrtifakı,Hayır,1,15500,0,Yok,1,95, Merkezefendi,Akkonak Mahallesi
+788,788,Daire,135,6,21,2.Kat,4,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,15000,0,Yok,1,24, Pamukkale,Fesleğen Mahallesi
+789,789,Daire,70,3,3,2.Kat,3,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,14000,0,Yok,1,95, Pamukkale,Cumhuriyet Mahallesi
+790,790,Daire,130,3,21,4.Kat,4,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,4,14000,2,Açık Balkon,1,24, Pamukkale,Topraklık Mahallesi
+791,791,Daire,160,6,5,2.Kat,8,Merkezi (Pay Ölçer),Boş,Kat Mülkiyeti,Hayır,2,27000,0,Yok,1,95, Merkezefendi,Şemikler Mahallesi
+792,792,Daire,200,8,5,Yüksek Giriş,5,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,2,24000,0,Yok,1,95, Merkezefendi,Yenişafak Mahallesi
+793,793,Daire,70,1,0,2.Kat,4,Merkezi (Pay Ölçer),Eşyalı,Kat Mülkiyeti,Hayır,1,19750,0,Yok,1,24, Pamukkale,Fatih Mahallesi
+794,794,Daire,85,3,4,2.Kat,4,Yerden Isıtma,Eşyalı,Kat Mülkiyeti,Hayır,1,25000,0,Yok,1,24, Pamukkale,Zeytinköy Mahallesi
+795,795,Daire,50,1,1,2.Kat,3,Yerden Isıtma,Eşyalı,Kat Mülkiyeti,Hayır,1,10500,0,Yok,1,24, Pamukkale,Fesleğen Mahallesi
+796,796,Daire,90,3,1,3.Kat,4,Yerden Isıtma,Boş,Kat İrtifakı,Hayır,1,16500,0,Yok,1,36, Pamukkale,Zümrüt Mahallesi
+797,797,Daire,110,3,16,2.Kat,4,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,14000,1,Açık Balkon,1,24, Pamukkale,Mehmetçik Mahallesi
+798,798,Daire,40,1,5,2.Kat,3,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Evet,1,7500,0,Yok,1,24, Pamukkale,Yunusemre Mahallesi
+799,799,Daire,40,1,5,2.Kat,5,Merkezi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,8000,1,Açık Balkon,1,24, Pamukkale,Yunusemre Mahallesi
+800,800,Daire,150,6,2,2.Kat,4,Yerden Isıtma,Boş,Kat Mülkiyeti,Hayır,2,22000,0,Yok,1,36, Merkezefendi,Karahasanlı Mahallesi
+801,801,Daire,50,1,5,3.Kat,3,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,9000,0,Yok,1,95, Pamukkale,Mehmetçik Mahallesi
+802,802,Daire,45,1,2,3.Kat,3,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Evet,1,7500,0,Yok,1,95, Pamukkale,Yunusemre Mahallesi
+803,803,Daire,50,1,5,1.Kat,3,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,11000,0,Yok,1,24, Merkezefendi,Sırakapılar Mahallesi
+804,804,Daire,50,1,5,2.Kat,4,Merkezi Doğalgaz,Eşyalı,Kat Mülkiyeti,Hayır,1,9000,0,Yok,1,35, Pamukkale,Zeytinköy Mahallesi
+805,805,Daire,140,6,21,4.Kat,4,Kombi Doğalgaz,Boş,Müstakil Tapulu,Hayır,1,14000,0,Yok,1,0, Merkezefendi,Sümer Mahallesi
+806,806,Daire,130,6,2,3.Kat,5,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,2,26000,0,Yok,1,95, Merkezefendi,Yenişafak Mahallesi
+807,807,Daire,40,1,4,2.Kat,4,Yerden Isıtma,Eşyalı,Kat Mülkiyeti,Hayır,1,9000,0,Yok,1,25, Pamukkale,Zeytinköy Mahallesi
+808,808,Daire,145,6,21,3.Kat,3,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,13000,1,Açık Balkon,1,24, Pamukkale,Atalar Mahallesi
+809,809,Daire,50,1,5,3.Kat,4,Kombi Doğalgaz,Eşyalı,Bilinmiyor,Hayır,1,10000,0,Yok,1,95, Pamukkale,Kuşpınar Mahallesi
+810,810,Daire,50,1,0,1.Kat,4,Yerden Isıtma,Eşyalı,Kat İrtifakı,Hayır,1,20000,0,Yok,1,95, Pamukkale,Yunusemre Mahallesi
+811,811,Daire,45,1,4,1.Kat,3,Yerden Isıtma,Eşyalı,Kat Mülkiyeti,Hayır,1,12000,0,Yok,1,95, Pamukkale,İncilipınar Mahallesi
+812,812,Daire,50,1,1,1.Kat,3,Yerden Isıtma,Eşyalı,Kat Mülkiyeti,Hayır,1,15000,0,Yok,1,95, Pamukkale,Yunusemre Mahallesi
+813,813,Daire,45,1,5,3.Kat,4,Yerden Isıtma,Eşyalı,Kat Mülkiyeti,Hayır,1,12000,0,Yok,1,95, Pamukkale,Kınıklı Mahallesi
+814,814,Daire,49,1,5,1.Kat,3,Yerden Isıtma,Eşyalı,Kat Mülkiyeti,Hayır,1,12000,0,Yok,1,95, Pamukkale,Kınıklı Mahallesi
+815,815,Daire,135,6,4,2.Kat,5,Yerden Isıtma,Boş,Kat İrtifakı,Hayır,1,20000,0,Yok,1,31, Merkezefendi,Yenişafak Mahallesi
+816,816,Daire,125,6,11,5.Kat,5,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,18000,0,Yok,1,95, Merkezefendi,Şemikler Mahallesi
+817,817,Daire,125,6,11,5.Kat,5,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,18000,0,Yok,1,95, Merkezefendi,Şemikler Mahallesi
+818,818,Daire,50,1,5,3.Kat,4,Kombi Doğalgaz,Eşyalı,Kat Mülkiyeti,Hayır,1,10000,0,Yok,1,95, Pamukkale,Zeytinköy Mahallesi
+819,819,Daire,200,6,21,5.Kat,5,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,21000,0,Yok,1,23, Pamukkale,Mehmetçik Mahallesi
+820,820,Daire,200,8,0,Müstakil,2,Kombi Doğalgaz,Boş,Kat İrtifakı,Hayır,4,35000,0,Yok,1,36, Pamukkale,Kervansaray Mahallesi
+821,821,Daire,100,3,0,Çatı Katı,4,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,2,11000,0,Yok,1,95, Pamukkale,Atalar Mahallesi
+822,822,Daire,45,1,11,Bahçe Katı,3,Kat Kaloriferi,Eşyalı,Kat Mülkiyeti,Hayır,1,5500,0,Yok,1,24, Pamukkale,Zeytinköy Mahallesi
+823,823,Daire,65,3,11,Bahçe Katı,3,Kat Kaloriferi,Boş,Kat Mülkiyeti,Hayır,1,7250,0,Yok,1,24, Pamukkale,Zeytinköy Mahallesi
+824,824,Daire,158,6,5,5.Kat,9,Yerden Isıtma,Boş,Kat Mülkiyeti,Evet,2,32500,0,Yok,1,58, Merkezefendi,Şemikler Mahallesi
+825,825,Daire,45,1,4,Çatı Katı,2,Yerden Isıtma,Boş,Kat Mülkiyeti,Hayır,1,9000,1,Kapalı Balkon,1,36, Merkezefendi,Sırakapılar Mahallesi
+826,826,Daire,160,6,11,5.Kat,5,Kombi Doğalgaz,Boş,Müstakil Tapulu,Hayır,2,30000,0,Yok,1,95, Merkezefendi,Adalet Mahallesi
+827,827,Daire,45,1,5,4.Kat,4,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,10000,1,Açık Balkon,1,36, Sarayköy,Turan Mahallesi
+828,828,Residence,45,1,5,3.Kat,7,Yerden Isıtma,Eşyalı,Kat Mülkiyeti,Hayır,1,9000,1,Açık Balkon,1,24, Pamukkale,İstiklal Mahallesi
+829,829,Daire,50,1,5,Bahçe Katı,4,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,5500,0,Yok,1,24, Pamukkale,Zeytinköy Mahallesi
+830,830,Daire,110,3,1,Yüksek Giriş,4,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,19999,0,Yok,1,95, Merkezefendi,Çakmak Mahallesi
+831,831,Daire,130,6,11,4.Kat,4,Kombi Doğalgaz,Eşyalı,Kat Mülkiyeti,Hayır,1,19000,0,Yok,1,95, Pamukkale,Hacıkaplanlar Mahallesi
+832,832,Daire,50,1,5,1.Kat,2,Kombi Doğalgaz,Eşyalı,Kat Mülkiyeti,Hayır,1,7000,0,Yok,1,95, Merkezefendi,Saraylar Mahallesi
+833,833,Daire,45,3,5,2.Kat,4,Kombi Doğalgaz,Eşyalı,Kat Mülkiyeti,Hayır,1,11750,0,Yok,1,95, Pamukkale,Kınıklı Mahallesi
+834,834,Daire,65,3,5,3.Kat,4,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,12000,0,Yok,1,95, Pamukkale,Atalar Mahallesi
+835,835,Daire,145,6,11,1.Kat,3,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,15000,0,Yok,1,95, Pamukkale,Zeytinköy Mahallesi
+836,836,Daire,185,6,5,1.Kat,4,Yerden Isıtma,Boş,Kat Mülkiyeti,Hayır,1,25000,0,Yok,1,95, Merkezefendi,Adalet Mahallesi
+838,838,Daire,40,1,5,2.Kat,4,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,10000,0,Yok,1,70, Pamukkale,Atalar Mahallesi
+839,839,Daire,60,3,11,2.Kat,6,Merkezi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,7500,0,Yok,1,95, Pamukkale,15 Mayıs Mahallesi
+840,840,Daire,50,1,5,Bahçe Katı,3,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,2,5500,0,Yok,1,24, Pamukkale,Zeytinköy Mahallesi
+841,841,Daire,125,6,11,1.Kat,3,Kombi Doğalgaz,Boş,Kat İrtifakı,Hayır,1,15000,0,Yok,1,14, Merkezefendi,Değirmenönü Mahallesi
+842,842,Daire,195,6,5,2.Kat,4,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,2,28000,0,Yok,1,95, Merkezefendi,Adalet Mahallesi
+843,843,Daire,110,3,16,Çatı Katı,3,Merkezi Doğalgaz,Boş,Arsa Tapulu,Hayır,1,14000,1,Fransız Balkon,1,95, Merkezefendi,Akkonak Mahallesi
+844,844,Daire,60,3,3,1.Kat,3,Yerden Isıtma,Boş,Kat Mülkiyeti,Hayır,1,15000,1,Açık Balkon,1,24, Pamukkale,Yunusemre Mahallesi
+845,845,Daire,60,3,5,1.Kat,4,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,8000,0,Yok,1,24, Pamukkale,Asmalıevler Mahallesi
+846,846,Daire,50,1,5,2.Kat,2,Yerden Isıtma,Boş,Müstakil Tapulu,Hayır,1,9500,0,Yok,1,62, Pamukkale,İstiklal Mahallesi
+847,847,Daire,100,3,21,Yüksek Giriş,4,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,13000,1,Açık Balkon,1,24, Pamukkale,Fesleğen Mahallesi
+848,848,Daire,45,1,5,3.Kat,4,Kombi Doğalgaz,Boş,Tapu Kaydı Yok,Hayır,1,8000,0,Yok,1,24, Pamukkale,Zeytinköy Mahallesi
+849,849,Daire,70,3,0,Düz Giriş (Zemin),3,Yerden Isıtma,Eşyalı,Kat İrtifakı,Hayır,1,15000,1,Açık Balkon,1,39, Merkezefendi,Merkez Efendi Mahallesi
+850,850,Daire,140,6,16,4.Kat,4,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Evet,1,13000,0,Yok,1,95, Pamukkale,Atalar Mahallesi
+851,851,Daire,170,6,5,2.Kat,9,Kombi Doğalgaz,Boş,Kat İrtifakı,Evet,1,30000,2,Açık Balkon,2,16, Merkezefendi,Gültepe Mahallesi
+852,852,Daire,65,3,5,Kot 1 (-1).Kat,4,Merkezi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,11500,0,Yok,1,35, Pamukkale,Asmalıevler Mahallesi
+853,853,Daire,45,2,11,1.Kat,5,Merkezi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,8000,0,Yok,1,35, Pamukkale,Asmalıevler Mahallesi
+854,854,Daire,50,0,16,4.Kat,5,Merkezi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,6500,0,Yok,1,35, Pamukkale,Yunusemre Mahallesi
+855,855,Daire,50,1,5,3.Kat,3,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,9000,0,Yok,1,24, Pamukkale,İncilipınar Mahallesi
+856,856,Daire,50,1,5,4.Kat,4,Merkezi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,8000,0,Yok,1,18, Pamukkale,Zeytinköy Mahallesi
+857,857,Daire,40,1,5,3.Kat,3,Kombi Doğalgaz,Eşyalı,Kat Mülkiyeti,Hayır,1,7500,1,Açık Balkon,1,24, Merkezefendi,Sırakapılar Mahallesi
+858,858,Daire,40,1,5,1.Kat,3,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,10000,0,Yok,1,86, Merkezefendi,Sırakapılar Mahallesi
+859,859,Daire,50,1,4,3.Kat,6,Kombi Doğalgaz,Eşyalı,Bilinmiyor,Evet,1,11500,1,Açık Balkon,1,95, Pamukkale,Asmalıevler Mahallesi
+860,860,Daire,60,3,5,5.Kat,5,Merkezi Doğalgaz,Eşyalı,Bilinmiyor,Hayır,1,16000,1,Açık Teras,1,95, Pamukkale,Yunusemre Mahallesi
+861,861,Daire,195,8,11,4.Kat,4,Merkezi Doğalgaz,Boş,Kat Mülkiyeti,Evet,2,18500,2,Açık Teras,1,62, Merkezefendi,Değirmenönü Mahallesi
+862,862,Daire,100,3,11,2.Kat,5,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,15000,1,Açık Teras,1,15, Pamukkale,İncilipınar Mahallesi
+863,863,Daire,80,1,4,6.Kat,29,Merkezi Doğalgaz,Boş,Kat Mülkiyeti,Evet,1,20000,1,Kapalı Balkon,1,2, Merkezefendi,Kayalar Mahallesi
+864,864,Daire,80,3,5,3.Kat,3,Yerden Isıtma,Eşyalı,Kat Mülkiyeti,Hayır,1,15000,0,Yok,1,95, Pamukkale,Zeytinköy Mahallesi
+865,865,Daire,40,1,5,Bahçe Katı,3,Kombi Doğalgaz,Eşyalı,Kat Mülkiyeti,Hayır,1,9000,0,Yok,1,95, Pamukkale,Asmalıevler Mahallesi
+866,866,Daire,160,6,21,Düz Giriş (Zemin),3,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,13500,0,Yok,1,95, Pamukkale,Mehmetçik Mahallesi
+867,867,Daire,110,3,5,5.Kat,6,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,14000,0,Yok,1,95, Pamukkale,Hacıkaplanlar Mahallesi
+868,868,Daire,40,1,5,2.Kat,3,Kombi Doğalgaz,Eşyalı,Bilinmiyor,Hayır,1,12500,0,Yok,1,42, Merkezefendi,Merkez Efendi Mahallesi
+869,869,Daire,105,3,5,Yüksek Giriş,4,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,15000,0,Yok,1,14, Pamukkale,Atalar Mahallesi
+870,870,Daire,50,1,5,3.Kat,4,Kombi Doğalgaz,Eşyalı,Kat Mülkiyeti,Hayır,1,12000,0,Yok,1,95, Pamukkale,Yunusemre Mahallesi
+871,871,Daire,60,3,5,2.Kat,4,Merkezi Doğalgaz,Boş,Tapu Kaydı Yok,Hayır,1,16000,0,Yok,1,24, Pamukkale,Zeytinköy Mahallesi
+872,872,Daire,43,1,5,2.Kat,3,Kombi Doğalgaz,Eşyalı,Tapu Kaydı Yok,Hayır,1,8000,0,Yok,1,24, Pamukkale,Siteler Mahallesi
+873,873,Daire,43,1,5,1.Kat,4,Kombi Doğalgaz,Boş,Tapu Kaydı Yok,Hayır,1,9000,0,Yok,1,24, Pamukkale,Siteler Mahallesi
+874,874,Daire,115,5,21,2.Kat,7,Merkezi Doğalgaz,Boş,Kat Mülkiyeti,Evet,1,20000,0,Yok,1,95, Pamukkale,Mehmetçik Mahallesi
+875,875,Daire,130,6,21,Bahçe Katı,3,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,10000,0,Yok,1,95, Merkezefendi,Akkonak Mahallesi
+876,876,Daire,45,1,5,1.Kat,2,Kombi Doğalgaz,Eşyalı,Kat Mülkiyeti,Hayır,1,10000,0,Yok,1,95, Pamukkale,Asmalıevler Mahallesi
+877,877,Daire,55,3,5,1.Kat,3,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,10500,0,Yok,1,95, Pamukkale,Atalar Mahallesi
+878,878,Daire,170,6,5,2.Kat,4,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,30000,3,Kapalı Balkon,2,36, Merkezefendi,1200 Evler Mahallesi
+879,879,Daire,115,3,16,3.Kat,4,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,13000,1,Kapalı Balkon,1,24, Pamukkale,Atalar Mahallesi
+880,880,Daire,40,1,4,1.Kat,3,Isı Pompası,Boş,Kat Mülkiyeti,Hayır,1,12000,0,Yok,1,24, Pamukkale,Zeytinköy Mahallesi
+881,881,Daire,60,3,3,3.Kat,4,Yerden Isıtma,Boş,Kat Mülkiyeti,Hayır,1,10000,1,Açık Balkon,1,24, Pamukkale,Asmalıevler Mahallesi
+882,882,Daire,30,1,4,1.Kat,3,Yerden Isıtma,Eşyalı,Kat Mülkiyeti,Hayır,1,9000,0,Yok,1,24, Pamukkale,Zeytinköy Mahallesi
+883,883,Daire,135,3,21,3.Kat,7,Merkezi (Pay Ölçer),Boş,Kat Mülkiyeti,Hayır,1,13000,1,Açık Balkon,1,24, Merkezefendi,Değirmenönü Mahallesi
+884,884,Daire,115,3,11,3.Kat,4,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,12000,1,Kapalı Balkon,1,24, Pamukkale,Atalar Mahallesi
+885,885,Daire,40,1,5,Çatı Katı,2,Yerden Isıtma,Eşyalı,Kat Mülkiyeti,Hayır,1,12000,0,Yok,1,39, Merkezefendi,Bahçelievler Mahallesi
+886,886,Daire,110,5,11,Düz Giriş (Zemin),4,Kombi Doğalgaz,Boş,Müstakil Tapulu,Hayır,1,13500,1,Açık Balkon,2,95, Merkezefendi,Adalet Mahallesi
+887,887,Daire,30,0,5,3.Kat,3,Kombi Doğalgaz,Eşyalı,Kat Mülkiyeti,Hayır,1,6500,0,Yok,1,95, Pamukkale,Zeytinköy Mahallesi
+888,888,Daire,100,3,5,2.Kat,3,Kombi Doğalgaz,Eşyalı,Kat Mülkiyeti,Hayır,1,25000,0,Yok,1,24, Pamukkale,Yunusemre Mahallesi
+889,889,Daire,95,3,2,2.Kat,5,Yerden Isıtma,Eşyalı,Kat Mülkiyeti,Hayır,1,25000,0,Yok,1,24, Pamukkale,Yunusemre Mahallesi
+890,890,Daire,55,1,0,2.Kat,4,Yerden Isıtma,Eşyalı,Kat Mülkiyeti,Hayır,1,16000,0,Yok,1,24, Pamukkale,Zeytinköy Mahallesi
+892,892,Daire,120,3,21,4.Kat,4,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Evet,1,17500,0,Yok,1,37, Pamukkale,Mehmetçik Mahallesi
+893,893,Daire,130,6,11,2.Kat,3,Kombi Doğalgaz,Boş,Müstakil Tapulu,Hayır,1,13000,0,Yok,1,95, Pamukkale,Cumhuriyet Mahallesi
+894,894,Daire,56,1,11,1.Kat,2,Merkezi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,7500,0,Yok,1,35, Pamukkale,Asmalıevler Mahallesi
+895,895,Daire,50,4,5,2.Kat,4,Yerden Isıtma,Boş,Kat Mülkiyeti,Hayır,1,10000,1,Kapalı Balkon,1,24, Pamukkale,Zeytinköy Mahallesi
+896,896,Daire,150,6,16,2.Kat,4,Kombi Fueloil,Boş,Kat Mülkiyeti,Hayır,1,16500,3,Kapalı Balkon,1,36, Pamukkale,Yunusemre Mahallesi
+897,897,Daire,70,3,5,1.Kat,5,Merkezi Doğalgaz,Eşyalı,Arsa Tapulu,Hayır,1,13000,0,Yok,1,37, Pamukkale,Yunusemre Mahallesi
+898,898,Daire,120,6,5,3.Kat,4,Kombi Doğalgaz,Boş,Bilinmiyor,Hayır,1,20000,0,Yok,1,95, Merkezefendi,1200 Evler Mahallesi
+899,899,Daire,130,6,0,5.Kat,6,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,20000,1,Kapalı Balkon,1,95, Merkezefendi,Bahçelievler Mahallesi
+900,900,Daire,120,3,0,4.Kat,6,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,14999,0,Yok,1,95, Merkezefendi,Bahçelievler Mahallesi
+901,901,Daire,160,8,1,3.Kat,3,Yerden Isıtma,Boş,Kat Mülkiyeti,Hayır,1,22000,0,Yok,1,16, Merkezefendi,Gümüşçay Mahallesi
+902,902,Daire,125,6,16,1.Kat,3,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,18000,0,Yok,1,18, Merkezefendi,Selçuk Bey Mahallesi
+903,903,Daire,140,6,11,3.Kat,3,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,19500,0,Yok,1,35, Pamukkale,Zeytinköy Mahallesi
+904,904,Daire,50,1,4,Yüksek Giriş,3,Kombi Doğalgaz,Eşyalı,Müstakil Tapulu,Hayır,1,9000,0,Yok,1,37, Pamukkale,Asmalıevler Mahallesi
+905,905,Daire,115,6,5,3.Kat,3,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,21000,0,Yok,1,16, Pamukkale,Kuşpınar Mahallesi
+906,906,Daire,115,6,5,2.Kat,3,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,23000,0,Yok,1,16, Pamukkale,Kuşpınar Mahallesi
+907,907,Daire,35,1,1,Kot 1 (-1).Kat,3,Yerden Isıtma,Eşyalı,Kat İrtifakı,Hayır,1,10000,0,Yok,1,16, Merkezefendi,Gültepe Mahallesi
+908,908,Daire,60,3,4,2.Kat,5,Kombi Doğalgaz,Eşyalı,Kat Mülkiyeti,Hayır,1,16500,0,Yok,1,95, Pamukkale,Yunusemre Mahallesi
+909,909,Daire,35,1,5,3.Kat,6,Yerden Isıtma,Eşyalı,Kat Mülkiyeti,Hayır,1,11000,0,Yok,1,73, Pamukkale,Kınıklı Mahallesi
+910,910,Daire,50,1,4,3.Kat,3,Kombi Doğalgaz,Eşyalı,Kat Mülkiyeti,Hayır,1,9000,1,Kapalı Balkon,1,24, Pamukkale,İncilipınar Mahallesi
+911,911,Daire,45,1,0,2.Kat,3,Kombi Doğalgaz,Eşyalı,Kat Mülkiyeti,Hayır,1,12000,1,Açık Balkon,1,92, Honaz,Hürriyet Mahallesi
+912,912,Daire,50,1,4,1.Kat,3,Yerden Isıtma,Eşyalı,Kat Mülkiyeti,Hayır,1,12000,0,Yok,1,95, Pamukkale,Siteler Mahallesi
+913,913,Daire,50,1,4,Çatı Katı,3,Yerden Isıtma,Eşyalı,Kat Mülkiyeti,Hayır,1,15000,0,Yok,1,95, Pamukkale,Siteler Mahallesi
+914,914,Daire,55,3,5,1.Kat,4,Kombi Doğalgaz,Eşyalı,Kat Mülkiyeti,Hayır,1,14000,0,Yok,1,95, Pamukkale,Kınıklı Mahallesi
+915,915,Daire,45,1,0,2.Kat,3,Yerden Isıtma,Eşyalı,Kat Mülkiyeti,Hayır,1,15500,0,Yok,1,95, Pamukkale,Kınıklı Mahallesi
+916,916,Daire,65,3,1,1.Kat,4,Kombi Doğalgaz,Eşyalı,Kat Mülkiyeti,Hayır,1,16000,0,Yok,1,95, Pamukkale,Kınıklı Mahallesi
+917,917,Daire,115,3,2,3.Kat,3,Yerden Isıtma,Boş,Kat Mülkiyeti,Hayır,1,17500,0,Yok,1,95, Pamukkale,Zeytinköy Mahallesi
+918,918,Daire,110,6,21,2.Kat,3,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,17000,0,Yok,1,16, Merkezefendi,Selçuk Bey Mahallesi
+920,920,Daire,50,1,5,Çatı Katı,3,Merkezi Doğalgaz,Eşyalı,Kat İrtifakı,Evet,1,8200,0,Yok,1,8, Pamukkale,Zeytinköy Mahallesi
+921,921,Daire,60,3,0,3.Kat,5,Yerden Isıtma,Eşyalı,Kat Mülkiyeti,Hayır,1,21000,1,Açık Balkon,1,14, Merkezefendi,Adalet Mahallesi
+922,922,Daire,85,3,5,3.Kat,5,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,14000,0,Yok,1,35, Pamukkale,15 Mayıs Mahallesi
+923,923,Daire,120,6,16,1.Kat,5,Kat Kaloriferi,Boş,Kat Mülkiyeti,Hayır,1,23000,0,Yok,1,39, Merkezefendi,Adalet Mahallesi
+924,924,Daire,50,1,5,3.Kat,5,Yerden Isıtma,Eşyalı,Kat İrtifakı,Hayır,1,10000,0,Yok,1,95, Pamukkale,Fesleğen Mahallesi
+925,925,Daire,45,1,5,Çatı Katı,3,Yerden Isıtma,Eşyalı,Kat İrtifakı,Hayır,1,8000,0,Yok,1,45, Pamukkale,İncilipınar Mahallesi
+926,926,Daire,70,3,5,Çatı Katı,4,Yerden Isıtma,Eşyalı,Kat Mülkiyeti,Hayır,1,14000,0,Yok,1,37, Pamukkale,Topraklık Mahallesi
+927,927,Daire,125,3,11,3.Kat,3,Kombi Doğalgaz,Boş,Tapu Kaydı Yok,Hayır,1,11000,0,Yok,1,24, Pamukkale,Hürriyet Mahallesi
+928,928,Daire,200,9,0,4.Kat,4,Yerden Isıtma,Boş,Kat Mülkiyeti,Hayır,2,35000,0,Yok,1,95, Merkezefendi,Karahasanlı Mahallesi
+929,929,Daire,110,6,0,Yüksek Giriş,5,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,2,24000,0,Yok,1,95, Merkezefendi,Karahasanlı Mahallesi
+930,930,Daire,180,6,5,2.Kat,3,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,18000,0,Yok,1,95, Pamukkale,Kınıklı Mahallesi
+932,932,Daire,150,6,1,1.Kat,4,Yerden Isıtma,Boş,Kat İrtifakı,Hayır,2,25000,0,Yok,1,95, Merkezefendi,Şemikler Mahallesi
+933,933,Daire,115,3,3,7.Kat,8,Yerden Isıtma,Boş,Kat Mülkiyeti,Evet,1,25000,0,Yok,1,95, Merkezefendi,Şemikler Mahallesi
+934,934,Daire,40,1,5,1.Kat,5,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,10000,0,Yok,1,24, Pamukkale,15 Mayıs Mahallesi
+935,935,Daire,40,1,5,3.Kat,4,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,8000,0,Yok,1,95, Pamukkale,İncilipınar Mahallesi
+936,936,Daire,45,1,11,1.Kat,3,Kombi Doğalgaz,Eşyalı,Kat Mülkiyeti,Hayır,1,10000,0,Yok,1,95, Pamukkale,İncilipınar Mahallesi
+937,937,Daire,70,3,21,Bodrum Kat,3,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,8750,0,Yok,1,95, Pamukkale,Yunusemre Mahallesi
+938,938,Daire,95,3,2,3.Kat,5,Yerden Isıtma,Boş,Kat Mülkiyeti,Hayır,1,19000,0,Yok,1,95, Merkezefendi,Yenişafak Mahallesi
+939,939,Daire,150,6,5,2.Kat,5,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,2,30000,0,Yok,1,90, Pamukkale,Zeytinköy Mahallesi
+940,940,Daire,160,6,5,1.Kat,8,Yerden Isıtma,Boş,Kat Mülkiyeti,Evet,2,28000,0,Yok,1,28, Merkezefendi,Şemikler Mahallesi
+941,941,Daire,175,6,21,2.Kat,5,Merkezi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,15000,2,Kapalı Balkon,1,24, Merkezefendi,Adalet Mahallesi
+942,942,Daire,55,3,16,2.Kat,5,Merkezi Doğalgaz,Eşyalı,Kat Mülkiyeti,Hayır,1,10750,1,Açık Balkon,1,18, Pamukkale,Asmalıevler Mahallesi
+943,943,Daire,125,3,21,4.Kat,4,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,13000,2,Kapalı Balkon,1,24, Merkezefendi,Akkonak Mahallesi
+944,944,Daire,43,1,0,1.Kat,4,Yerden Isıtma,Boş,Tapu Kaydı Yok,Hayır,1,15000,0,Yok,1,24, Pamukkale,Yunusemre Mahallesi
+945,945,Daire,140,6,11,2.Kat,4,Kombi Doğalgaz,Boş,Bilinmiyor,Hayır,2,15000,0,Yok,1,95, Pamukkale,Bağbaşı Mahallesi
+946,946,Daire,125,3,21,3.Kat,6,Merkezi Doğalgaz,Boş,Bilinmiyor,Hayır,1,20000,0,Yok,1,24, Pamukkale,Kuşpınar Mahallesi
+947,947,Daire,45,1,4,2.Kat,3,Yerden Isıtma,Eşyalı,Bilinmiyor,Hayır,1,12000,0,Yok,1,95, Merkezefendi,Değirmenönü Mahallesi
+948,948,Daire,55,1,5,4.Kat,4,Kombi Doğalgaz,Eşyalı,Bilinmiyor,Hayır,1,9000,0,Yok,1,95, Pamukkale,Atalar Mahallesi
+949,949,Daire,80,3,21,5.Kat,5,Kombi Doğalgaz,Boş,Bilinmiyor,Evet,1,13000,0,Yok,1,95, Merkezefendi,Alpaslan Mahallesi
+950,950,Daire,40,1,5,1.Kat,3,Yerden Isıtma,Eşyalı,Bilinmiyor,Hayır,1,10000,0,Yok,1,36, Pamukkale,Hacıkaplanlar Mahallesi
+951,951,Daire,60,1,5,2.Kat,2,Kombi Doğalgaz,Eşyalı,Bilinmiyor,Hayır,1,11000,0,Yok,1,24, Merkezefendi,Değirmenönü Mahallesi
+952,952,Daire,85,1,16,Bahçe Katı,4,Kombi Doğalgaz,Boş,Bilinmiyor,Hayır,1,10000,0,Yok,1,95, Pamukkale,Mehmetçik Mahallesi
+953,953,Daire,145,6,1,6.Kat,9,Yerden Isıtma,Boş,Bilinmiyor,Hayır,2,35000,0,Yok,1,95, Merkezefendi,Şemikler Mahallesi
+954,954,Daire,160,6,16,3.Kat,3,Kombi Doğalgaz,Boş,Bilinmiyor,Hayır,1,20000,0,Yok,1,95, Pamukkale,Asmalıevler Mahallesi
+955,955,Daire,125,3,11,2.Kat,5,Merkezi Doğalgaz,Boş,Bilinmiyor,Hayır,1,30000,0,Yok,1,24, Pamukkale,Siteler Mahallesi
+956,956,Daire,35,0,3,1.Kat,4,Kombi Doğalgaz,Boş,Bilinmiyor,Hayır,1,8000,0,Yok,1,95, Pamukkale,İstiklal Mahallesi
+957,957,Daire,140,6,16,2.Kat,4,Kombi Doğalgaz,Boş,Bilinmiyor,Hayır,1,11000,0,Yok,1,95, Merkezefendi,Değirmenönü Mahallesi
+958,958,Daire,165,6,3,1.Kat,9,Yerden Isıtma,Boş,Bilinmiyor,Evet,2,38000,0,Yok,1,95, Merkezefendi,Gültepe Mahallesi
+959,959,Daire,40,0,4,Bodrum Kat,3,Merkezi Doğalgaz,Eşyalı,Bilinmiyor,Hayır,1,5000,0,Yok,1,35, Pamukkale,Zeytinköy Mahallesi
+961,961,Daire,55,3,5,1.Kat,3,Yerden Isıtma,Eşyalı,Bilinmiyor,Hayır,1,15000,0,Yok,1,14, Pamukkale,Zeytinköy Mahallesi
+962,962,Daire,38,3,0,2.Kat,3,Yerden Isıtma,Eşyalı,Bilinmiyor,Hayır,1,20000,0,Yok,1,37, Pamukkale,Zeytinköy Mahallesi
+963,963,Daire,50,3,0,2.Kat,4,Kombi Doğalgaz,Eşyalı,Bilinmiyor,Hayır,1,22000,0,Yok,1,37, Merkezefendi,Adalet Mahallesi
+964,964,Daire,160,6,3,3.Kat,4,Yerden Isıtma,Boş,Bilinmiyor,Hayır,1,25000,0,Yok,1,24, Merkezefendi,Adalet Mahallesi
+965,965,Daire,50,1,1,2.Kat,4,Yerden Isıtma,Eşyalı,Bilinmiyor,Hayır,1,12000,0,Yok,1,24, Pamukkale,Fesleğen Mahallesi
+966,966,Daire,55,1,4,Bahçe Katı,4,Yerden Isıtma,Eşyalı,Bilinmiyor,Hayır,1,13000,0,Yok,1,24, Pamukkale,Zeytinköy Mahallesi
+967,967,Daire,87,3,3,4.Kat,4,Yerden Isıtma,Eşyalı,Bilinmiyor,Hayır,1,25000,0,Yok,1,24, Pamukkale,Zeytinköy Mahallesi
+968,968,Daire,55,1,4,2.Kat,3,Yerden Isıtma,Eşyalı,Bilinmiyor,Hayır,1,15000,0,Yok,1,24, Pamukkale,Kınıklı Mahallesi
+969,969,Daire,45,1,5,2.Kat,4,Yerden Isıtma,Eşyalı,Bilinmiyor,Hayır,1,11000,0,Yok,1,24, Pamukkale,Siteler Mahallesi
+970,970,Daire,37,1,3,2.Kat,2,Yerden Isıtma,Boş,Bilinmiyor,Hayır,1,9000,0,Yok,1,95, Merkezefendi,Değirmenönü Mahallesi
+971,971,Daire,130,5,16,2.Kat,4,Merkezi Doğalgaz,Boş,Bilinmiyor,Hayır,1,20000,0,Yok,1,95, Pamukkale,Yunusemre Mahallesi
+972,972,Daire,145,6,21,6.Kat,7,Kombi Doğalgaz,Boş,Bilinmiyor,Hayır,1,19000,0,Yok,1,95, Merkezefendi,Sırakapılar Mahallesi
+973,973,Daire,158,6,21,7.Kat,7,Kombi Doğalgaz,Boş,Bilinmiyor,Hayır,1,18000,0,Yok,1,95, Merkezefendi,Değirmenönü Mahallesi
+974,974,Daire,165,6,16,2.Kat,4,Kombi Doğalgaz,Boş,Bilinmiyor,Hayır,1,22000,0,Yok,1,95, Pamukkale,Mehmetçik Mahallesi
+975,975,Daire,45,1,5,2.Kat,3,Kombi Doğalgaz,Eşyalı,Bilinmiyor,Hayır,1,9500,0,Yok,1,38, Pamukkale,İstiklal Mahallesi
+976,976,Daire,130,3,11,Çatı Katı,3,Kombi Doğalgaz,Eşyalı,Bilinmiyor,Hayır,1,20000,0,Yok,1,35, Merkezefendi,Bereketler Mahallesi
+977,977,Daire,215,8,0,3.Kat,4,Yerden Isıtma,Boş,Bilinmiyor,Evet,2,50000,0,Yok,1,95, Merkezefendi,Hallaçlar Mahallesi
+978,978,Daire,145,6,1,3.Kat,4,Yerden Isıtma,Boş,Bilinmiyor,Hayır,2,24000,0,Yok,1,95, Merkezefendi,Karahasanlı Mahallesi
+979,979,Daire,40,1,5,Bahçe Katı,4,Kombi Doğalgaz,Eşyalı,Bilinmiyor,Hayır,1,9500,0,Yok,1,95, Pamukkale,Zeytinköy Mahallesi
+980,980,Daire,47,1,4,Yüksek Giriş,4,Yerden Isıtma,Eşyalı,Bilinmiyor,Hayır,1,12000,0,Yok,1,62, Pamukkale,Yunusemre Mahallesi
+981,981,Daire,100,3,16,Düz Giriş (Zemin),3,Kombi Doğalgaz,Boş,Bilinmiyor,Hayır,1,14000,1,Açık Balkon,1,95, Merkezefendi,Değirmenönü Mahallesi
+982,982,Daire,55,1,5,2.Kat,3,Yerden Isıtma,Eşyalı,Bilinmiyor,Hayır,1,13000,1,Açık Balkon,1,36, Pamukkale,Zeytinköy Mahallesi
+983,983,Daire,50,1,4,2.Kat,3,Kombi Doğalgaz,Eşyalı,Bilinmiyor,Hayır,1,10000,0,Yok,1,24, Pamukkale,Zeytinköy Mahallesi
+984,984,Daire,100,3,3,5.Kat,5,Yerden Isıtma,Boş,Bilinmiyor,Hayır,1,15000,0,Yok,1,36, Pamukkale,Kervansaray Mahallesi
+985,985,Daire,50,1,2,2.Kat,3,Yerden Isıtma,Eşyalı,Bilinmiyor,Hayır,1,12000,0,Yok,1,36, Pamukkale,Asmalıevler Mahallesi
+986,986,Daire,50,1,4,2.Kat,3,Kombi Doğalgaz,Boş,Bilinmiyor,Hayır,1,11000,0,Yok,1,36, Pamukkale,Zeytinköy Mahallesi
+987,987,Daire,160,6,11,Yüksek Giriş,4,Kombi Doğalgaz,Boş,Bilinmiyor,Evet,1,20000,0,Yok,1,95, Merkezefendi,Selçuk Bey Mahallesi
+988,988,Daire,48,1,3,3.Kat,3,Yerden Isıtma,Boş,Bilinmiyor,Hayır,1,12000,0,Yok,1,24, Pamukkale,Siteler Mahallesi
+989,989,Daire,170,8,11,2.Kat,2,Kombi Doğalgaz,Boş,Bilinmiyor,Hayır,2,25000,0,Yok,1,95, Merkezefendi,Adalet Mahallesi
+990,990,Daire,40,1,5,3.Kat,3,Yerden Isıtma,Boş,Bilinmiyor,Hayır,1,8000,0,Yok,1,95, Pamukkale,Fesleğen Mahallesi
+991,991,Daire,50,3,5,2.Kat,6,Yerden Isıtma,Eşyalı,Bilinmiyor,Hayır,1,16000,1,Açık Balkon,1,36, Pamukkale,Fesleğen Mahallesi
+992,992,Daire,50,1,3,2.Kat,5,Yerden Isıtma,Eşyalı,Bilinmiyor,Hayır,1,11000,0,Yok,1,24, Pamukkale,Zeytinköy Mahallesi
+993,993,Daire,175,6,0,1.Kat,5,Yerden Isıtma,Boş,Bilinmiyor,Hayır,2,30000,0,Yok,1,24, Pamukkale,Zeytinköy Mahallesi
+994,994,Daire,50,1,4,3.Kat,4,Kombi Doğalgaz,Boş,Bilinmiyor,Hayır,1,10000,0,Yok,1,24, Pamukkale,Asmalıevler Mahallesi
+995,995,Daire,100,3,0,2.Kat,3,Yerden Isıtma,Boş,Bilinmiyor,Hayır,1,18500,0,Yok,1,24, Pamukkale,Kervansaray Mahallesi
+996,996,Daire,35,1,5,1.Kat,3,Yerden Isıtma,Boş,Bilinmiyor,Hayır,1,12000,0,Yok,1,24, Pamukkale,Yunusemre Mahallesi
+997,997,Daire,75,6,5,4.Kat,4,Kombi Doğalgaz,Eşyalı,Bilinmiyor,Hayır,1,13000,0,Yok,1,95, Pamukkale,Kınıklı Mahallesi
+998,998,Daire,105,3,21,2.Kat,4,Kombi Doğalgaz,Boş,Bilinmiyor,Hayır,1,14000,0,Yok,1,95, Pamukkale,Atalar Mahallesi
+999,999,Daire,120,3,21,3.Kat,4,Kombi Doğalgaz,Boş,Bilinmiyor,Hayır,1,15000,0,Yok,1,95, Pamukkale,Hacıkaplanlar Mahallesi
+1000,1000,Daire,60,3,5,1.Kat,2,Yerden Isıtma,Boş,Bilinmiyor,Hayır,1,20000,0,Yok,1,24, Pamukkale,Kınıklı Mahallesi
+1001,1001,Daire,45,1,5,2.Kat,3,Merkezi Doğalgaz,Boş,Bilinmiyor,Hayır,1,8000,0,Yok,1,3, Pamukkale,Asmalıevler Mahallesi
+1002,1002,Daire,60,2,5,Bodrum Kat,4,Kombi Doğalgaz,Boş,Bilinmiyor,Hayır,1,6000,0,Yok,1,95, Merkezefendi,Değirmenönü Mahallesi
+1003,1003,Daire,74,1,5,5.Kat,29,Merkezi (Pay Ölçer),Eşyalı,Bilinmiyor,Evet,1,21000,0,Yok,1,95, Merkezefendi,Kayalar Mahallesi
+1004,1004,Daire,170,6,21,1.Kat,3,Kombi Doğalgaz,Eşyalı,Bilinmiyor,Hayır,1,17000,0,Yok,1,84, Pamukkale,Pelitlibağ Mahallesi
+1005,1005,Daire,170,6,5,2.Kat,5,Kombi Doğalgaz,Boş,Bilinmiyor,Evet,1,26000,0,Yok,1,95, Merkezefendi,Yenişafak Mahallesi
+1006,1006,Daire,60,2,4,2.Kat,2,Yerden Isıtma,Boş,Bilinmiyor,Hayır,1,15000,1,Açık Balkon,1,95, Merkezefendi,Adalet Mahallesi
+1007,1007,Daire,50,1,3,2.Kat,5,Kombi Doğalgaz,Boş,Bilinmiyor,Hayır,1,10000,0,Yok,1,95, Acıpayam,Aşağı Mahallesi
+1008,1008,Daire,190,6,5,2.Kat,5,Yerden Isıtma,Boş,Bilinmiyor,Evet,2,35000,0,Yok,1,43, Merkezefendi,Selçuk Bey Mahallesi
+1009,1009,Daire,60,1,5,1.Kat,3,Merkezi Doğalgaz,Eşyalı,Bilinmiyor,Hayır,1,10000,0,Yok,1,95, Pamukkale,Kınıklı Mahallesi
+1010,1010,Daire,50,1,5,Çatı Katı,2,Merkezi Doğalgaz,Eşyalı,Bilinmiyor,Hayır,1,9000,0,Yok,1,95, Pamukkale,Kınıklı Mahallesi
+1011,1011,Daire,50,1,3,Çatı Katı,3,Kombi Doğalgaz,Eşyalı,Bilinmiyor,Hayır,1,9000,0,Yok,1,95, Pamukkale,Asmalıevler Mahallesi
+1012,1012,Daire,150,6,11,3.Kat,3,Kombi Doğalgaz,Boş,Bilinmiyor,Hayır,1,17000,0,Yok,1,95, Pamukkale,Bağbaşı Mahallesi
+1013,1013,Daire,90,3,21,Bahçe Katı,4,Kombi Doğalgaz,Boş,Bilinmiyor,Hayır,1,14000,0,Yok,1,95, Pamukkale,Kuşpınar Mahallesi
+1014,1014,Daire,150,6,11,1.Kat,2,Kombi Doğalgaz,Boş,Bilinmiyor,Hayır,2,12000,0,Yok,1,95, Pamukkale,Cumhuriyet Mahallesi
+1015,1015,Daire,50,1,0,2.Kat,4,Yerden Isıtma,Eşyalı,Bilinmiyor,Hayır,1,13500,0,Yok,1,42, Merkezefendi,Değirmenönü Mahallesi
+1016,1016,Daire,50,1,5,1.Kat,2,Kombi Doğalgaz,Eşyalı,Bilinmiyor,Hayır,1,10000,0,Yok,1,42, Merkezefendi,Sırakapılar Mahallesi
+1017,1017,Daire,45,1,5,2.Kat,3,Yerden Isıtma,Eşyalı,Bilinmiyor,Hayır,1,12900,0,Yok,1,42, Pamukkale,Pelitlibağ Mahallesi
+1018,1018,Daire,50,1,3,2.Kat,4,Kombi Doğalgaz,Eşyalı,Bilinmiyor,Hayır,1,11500,0,Yok,1,35, Pamukkale,İncilipınar Mahallesi
+1020,1020,Daire,85,3,5,3.Kat,4,Kombi Doğalgaz,Eşyalı,Bilinmiyor,Hayır,1,22000,0,Yok,1,62, Pamukkale,Yunusemre Mahallesi
+1021,1021,Daire,43,1,4,3.Kat,4,Kombi Doğalgaz,Boş,Bilinmiyor,Hayır,1,10000,0,Yok,1,24, Pamukkale,İncilipınar Mahallesi
+1022,1022,Daire,50,1,5,Çatı Katı,3,Yerden Isıtma,Boş,Bilinmiyor,Hayır,1,13000,0,Yok,1,95, Pamukkale,Asmalıevler Mahallesi
+1023,1023,Daire,90,3,11,1.Kat,3,Kombi Doğalgaz,Boş,Bilinmiyor,Hayır,1,15000,1,Açık Balkon,1,36, Pamukkale,Atalar Mahallesi
+1024,1024,Daire,50,1,5,2.Kat,3,Yerden Isıtma,Eşyalı,Bilinmiyor,Hayır,1,9000,0,Yok,1,36, Merkezefendi,Altıntop Mahallesi
+1025,1025,Daire,135,6,11,3.Kat,4,Kombi Doğalgaz,Boş,Bilinmiyor,Hayır,1,20000,0,Yok,1,24, Pamukkale,Siteler Mahallesi
+1026,1026,Daire,50,1,4,4.Kat,4,Kombi Doğalgaz,Boş,Tapu Kaydı Yok,Hayır,1,12500,0,Yok,1,64, Pamukkale,Siteler Mahallesi
+1027,1027,Daire,60,3,5,Bahçe Katı,3,Kombi Doğalgaz,Boş,Bilinmiyor,Hayır,1,15000,0,Yok,1,24, Pamukkale,Kınıklı Mahallesi
+1028,1028,Daire,140,6,5,3.Kat,4,Kombi Doğalgaz,Boş,Bilinmiyor,Hayır,1,18000,1,Açık Balkon,1,95, Pamukkale,İncilipınar Mahallesi
+1029,1029,Daire,42,1,4,2.Kat,2,Kombi Doğalgaz,Eşyalı,Bilinmiyor,Hayır,1,13000,1,Kapalı Balkon,1,8, Merkezefendi,Bereketler Mahallesi
+1030,1030,Daire,40,1,4,5.Kat,5,Kombi Doğalgaz,Boş,Bilinmiyor,Hayır,1,8000,0,Yok,1,60, Acıpayam,Aşağı Mahallesi
+1031,1031,Daire,45,1,0,2.Kat,5,Doğalgaz Sobalı,Boş,Bilinmiyor,Hayır,1,11250,0,Yok,1,35, Merkezefendi,Sırakapılar Mahallesi
+1032,1032,Daire,150,6,5,2.Kat,3,Kombi Doğalgaz,Boş,Bilinmiyor,Hayır,1,10000,0,Yok,1,64, Acıpayam,Yukarı Mahallesi
+1033,1033,Daire,20,0,5,2.Kat,4,Yerden Isıtma,Boş,Bilinmiyor,Hayır,1,7000,1,Açık Balkon,1,36, Pamukkale,Topraklık Mahallesi
+1034,1034,Daire,50,1,0,1.Kat,3,Merkezi Doğalgaz,Boş,Bilinmiyor,Evet,1,10500,0,Yok,1,35, Pamukkale,Kınıklı Mahallesi
+1035,1035,Daire,70,3,4,3.Kat,3,Kombi Doğalgaz,Boş,Bilinmiyor,Evet,1,10000,0,Yok,1,35, Pamukkale,Bağbaşı Mahallesi
+1036,1036,Daire,50,1,4,Çatı Katı,4,Kombi Doğalgaz,Boş,Bilinmiyor,Evet,1,8500,0,Yok,1,35, Pamukkale,Zeytinköy Mahallesi
+1037,1037,Daire,40,0,4,Bodrum Kat,3,Kombi Doğalgaz,Boş,Bilinmiyor,Evet,1,6000,0,Yok,1,35, Pamukkale,Zeytinköy Mahallesi
+1038,1038,Daire,110,3,3,1.Kat,3,Kombi Doğalgaz,Boş,Bilinmiyor,Evet,1,18500,0,Yok,1,35, Pamukkale,Zeytinköy Mahallesi
+1039,1039,Daire,170,6,5,2.Kat,3,Kombi Doğalgaz,Boş,Bilinmiyor,Hayır,2,20000,0,Yok,1,95, Merkezefendi,Selçuk Bey Mahallesi
+1040,1040,Daire,50,1,4,Kot 3 (-3).Kat,5,Kombi Doğalgaz,Boş,Kat İrtifakı,Hayır,1,10000,0,Yok,1,92, Pamukkale,Asmalıevler Mahallesi
+1041,1041,Daire,125,6,11,4.Kat,4,Merkezi Doğalgaz,Boş,Bilinmiyor,Hayır,1,17000,0,Yok,1,24, Pamukkale,Yunusemre Mahallesi
+1042,1042,Daire,120,3,21,2.Kat,4,Merkezi (Pay Ölçer),Boş,Bilinmiyor,Evet,1,16000,0,Yok,1,95, Pamukkale,Yunusemre Mahallesi
+1043,1043,Daire,170,6,5,2.Kat,4,Kombi Doğalgaz,Boş,Bilinmiyor,Hayır,1,22000,0,Yok,1,24, Pamukkale,Kınıklı Mahallesi
+1044,1044,Daire,165,6,11,2.Kat,7,Merkezi (Pay Ölçer),Boş,Bilinmiyor,Hayır,1,30000,0,Yok,1,37, Merkezefendi,Selçuk Bey Mahallesi
+1045,1045,Daire,130,6,16,Yüksek Giriş,4,Kombi Doğalgaz,Boş,Bilinmiyor,Hayır,1,11000,0,Yok,1,42, Pamukkale,Karşıyaka Mahallesi
+1046,1046,Daire,150,6,5,4.Kat,4,Kombi Doğalgaz,Boş,Bilinmiyor,Hayır,1,13000,0,Yok,1,42, Pamukkale,Zeytinköy Mahallesi
+1047,1047,Daire,150,6,5,1.Kat,4,Kombi Doğalgaz,Boş,Bilinmiyor,Hayır,2,22000,0,Yok,1,74, Pamukkale,Zeytinköy Mahallesi
+1048,1048,Daire,80,3,2,4.Kat,4,Kombi Doğalgaz,Boş,Bilinmiyor,Hayır,1,11000,0,Yok,1,35, Pamukkale,Zeytinköy Mahallesi
+1049,1049,Daire,100,3,21,2.Kat,3,Kombi Doğalgaz,Boş,Bilinmiyor,Hayır,1,12000,0,Yok,1,68, Pamukkale,Anafartalar Mahallesi
+1050,1050,Daire,135,6,4,2.Kat,4,Yerden Isıtma,Boş,Bilinmiyor,Hayır,1,26000,0,Yok,1,37, Merkezefendi,Yenişafak Mahallesi
+1051,1051,Daire,120,6,11,Bodrum Kat,3,Kombi Doğalgaz,Boş,Bilinmiyor,Hayır,1,7000,0,Yok,1,95, Pamukkale,Mehmetçik Mahallesi
+1052,1052,Daire,110,3,5,Çatı Katı,2,Kombi Doğalgaz,Boş,Bilinmiyor,Hayır,1,12500,0,Yok,1,58, Merkezefendi,Merkez Efendi Mahallesi
+1053,1053,Daire,40,1,16,3.Kat,4,Kombi Doğalgaz,Boş,Bilinmiyor,Hayır,1,7500,0,Yok,1,39, Pamukkale,Atalar Mahallesi
+1054,1054,Daire,40,1,5,6.Kat,7,Merkezi Doğalgaz,Boş,Bilinmiyor,Evet,1,15000,0,Yok,1,95, Pamukkale,Zeytinköy Mahallesi
+1055,1055,Daire,36,0,11,5.Kat,5,Merkezi Doğalgaz,Eşyalı,Kat Mülkiyeti,Hayır,1,6000,0,Yok,1,57, Pamukkale,Asmalıevler Mahallesi
+1056,1056,Daire,120,3,21,4.Kat,5,Kombi Doğalgaz,Boş,Bilinmiyor,Hayır,2,15000,0,Yok,1,35, Pamukkale,Mehmetçik Mahallesi
+1057,1057,Daire,60,1,0,2.Kat,4,Kombi Doğalgaz,Boş,Bilinmiyor,Hayır,1,20000,0,Yok,1,58, Pamukkale,Zeytinköy Mahallesi
+1058,1058,Daire,45,1,4,2.Kat,4,Kombi Doğalgaz,Boş,Bilinmiyor,Hayır,1,8500,0,Yok,1,24, Pamukkale,Zeytinköy Mahallesi
+1059,1059,Daire,45,1,5,2.Kat,3,Yerden Isıtma,Boş,Bilinmiyor,Hayır,1,14000,0,Yok,1,95, Pamukkale,Siteler Mahallesi
+1060,1060,Daire,55,1,5,2.Kat,3,Yerden Isıtma,Boş,Bilinmiyor,Hayır,1,15000,1,Açık Balkon,1,95, Pamukkale,Siteler Mahallesi
+1061,1061,Daire,60,3,3,3.Kat,5,Kombi Doğalgaz,Boş,Bilinmiyor,Hayır,1,15000,0,Yok,1,24, Pamukkale,Yunusemre Mahallesi
+1062,1062,Daire,55,1,5,2.Kat,3,Merkezi Doğalgaz,Boş,Bilinmiyor,Hayır,1,9000,0,Yok,1,24, Pamukkale,Zeytinköy Mahallesi
+1063,1063,Daire,120,3,21,3.Kat,3,Merkezi (Pay Ölçer),Boş,Bilinmiyor,Evet,1,16000,0,Yok,1,95, Pamukkale,Yunusemre Mahallesi
+1064,1064,Daire,35,0,3,Çatı Katı,4,Kombi Doğalgaz,Boş,Bilinmiyor,Hayır,1,6000,0,Yok,1,24, Pamukkale,Asmalıevler Mahallesi
+1065,1065,Daire,45,1,0,2.Kat,4,Kombi Doğalgaz,Boş,Bilinmiyor,Hayır,1,15000,0,Yok,1,24, Pamukkale,Yunusemre Mahallesi
+1066,1066,Daire,120,6,11,1.Kat,3,Kombi Doğalgaz,Boş,Bilinmiyor,Hayır,1,11000,0,Yok,1,24, Pamukkale,Kervansaray Mahallesi
+1067,1067,Daire,45,1,0,2.Kat,4,Yerden Isıtma,Eşyalı,Bilinmiyor,Hayır,1,15000,0,Yok,1,25, Pamukkale,Asmalıevler Mahallesi
+1068,1068,Daire,125,6,21,6.Kat,6,Merkezi Doğalgaz,Boş,Bilinmiyor,Hayır,1,15500,3,Kapalı Balkon,1,95, Merkezefendi,Servergazi Mahallesi
+1069,1069,Daire,110,3,5,Çatı Katı,3,Kombi Doğalgaz,Boş,Bilinmiyor,Hayır,1,8000,0,Yok,1,24, Pamukkale,Siteler Mahallesi
+1070,1070,Daire,45,1,1,2.Kat,3,Kombi Doğalgaz,Eşyalı,Bilinmiyor,Hayır,1,10000,0,Yok,1,95, Çivril,Saray Mahallesi
+1071,1071,Daire,45,1,1,Yüksek Giriş,4,Kombi Doğalgaz,Eşyalı,Bilinmiyor,Hayır,1,10000,0,Yok,1,95, Çivril,Çarşı Mahallesi
+1072,1072,Daire,165,6,0,3.Kat,9,Yerden Isıtma,Boş,Bilinmiyor,Hayır,2,45000,0,Yok,1,37, Merkezefendi,Şemikler Mahallesi
+1073,1073,Daire,40,1,5,1.Kat,5,Kombi Doğalgaz,Eşyalı,Bilinmiyor,Hayır,1,9000,0,Yok,1,95, Pamukkale,Asmalıevler Mahallesi
+1075,1075,Daire,118,3,16,3.Kat,5,Kombi Doğalgaz,Boş,Bilinmiyor,Hayır,1,13000,0,Yok,1,95, Pamukkale,15 Mayıs Mahallesi
+1076,1076,Daire,130,6,3,2.Kat,3,Yerden Isıtma,Boş,Bilinmiyor,Hayır,1,20000,0,Yok,1,95, Merkezefendi,Çakmak Mahallesi
+1077,1077,Daire,50,1,5,2.Kat,4,Merkezi Doğalgaz,Eşyalı,Bilinmiyor,Hayır,1,8000,0,Yok,1,95, Pamukkale,Zeytinköy Mahallesi
+1078,1078,Daire,55,3,5,Çatı Dubleks,3,Kombi Doğalgaz,Eşyalı,Bilinmiyor,Hayır,1,13000,0,Yok,1,95, Pamukkale,15 Mayıs Mahallesi
+1079,1079,Daire,100,5,11,2.Kat,3,Kombi Doğalgaz,Boş,Bilinmiyor,Hayır,1,19500,0,Yok,1,37, Merkezefendi,1200 Evler Mahallesi
+1080,1080,Daire,135,6,16,2.Kat,3,Kombi Doğalgaz,Boş,Bilinmiyor,Hayır,1,18000,0,Yok,1,95, Pamukkale,Mehmetçik Mahallesi
+1081,1081,Daire,150,6,11,2.Kat,5,Kombi Doğalgaz,Boş,Bilinmiyor,Hayır,1,20000,0,Yok,1,37, Merkezefendi,Adalet Mahallesi
+1082,1082,Daire,50,1,0,1.Kat,4,Yerden Isıtma,Eşyalı,Bilinmiyor,Hayır,1,15000,0,Yok,1,95, Pamukkale,Asmalıevler Mahallesi
+1083,1083,Daire,135,6,0,3.Kat,5,Yerden Isıtma,Boş,Bilinmiyor,Hayır,1,21750,0,Yok,1,95, Merkezefendi,Karahasanlı Mahallesi
+1084,1084,Daire,175,3,11,2.Kat,5,Kombi Doğalgaz,Boş,Bilinmiyor,Hayır,1,24000,0,Yok,1,35, Merkezefendi,Adalet Mahallesi
+1085,1085,Daire,70,3,16,1.Kat,5,Kombi Doğalgaz,Eşyalı,Bilinmiyor,Hayır,1,17000,0,Yok,1,38, Pamukkale,Siteler Mahallesi
+1086,1086,Daire,113,6,21,4.Kat,8,Kombi Doğalgaz,Boş,Arsa Tapulu,Hayır,1,15500,0,Yok,1,35, Pamukkale,Fesleğen Mahallesi
+1087,1087,Daire,130,6,11,Bahçe Katı,3,Kombi Doğalgaz,Boş,Bilinmiyor,Hayır,1,10000,0,Yok,1,24, Pamukkale,Siteler Mahallesi
+1088,1088,Daire,48,1,4,2.Kat,4,Kombi Doğalgaz,Eşyalı,Bilinmiyor,Hayır,1,10000,1,Fransız Balkon,1,24, Pamukkale,İncilipınar Mahallesi
+1089,1089,Daire,50,1,0,2.Kat,4,Kombi Doğalgaz,Boş,Bilinmiyor,Hayır,1,15000,0,Yok,1,24, Pamukkale,Asmalıevler Mahallesi
+1090,1090,Daire,110,3,4,2.Kat,4,Kombi Doğalgaz,Boş,Bilinmiyor,Hayır,1,20000,0,Yok,1,95, Merkezefendi,Çakmak Mahallesi
+1091,1091,Daire,55,1,3,2.Kat,3,Kombi Doğalgaz,Boş,Bilinmiyor,Hayır,1,9500,0,Yok,1,6, Pamukkale,Kuşpınar Mahallesi
+1092,1092,Daire,59,1,5,2.Kat,4,Kombi Doğalgaz,Eşyalı,Bilinmiyor,Hayır,1,12250,0,Yok,1,24, Pamukkale,Hacıkaplanlar Mahallesi
+1093,1093,Daire,147,6,11,2.Kat,3,Kombi Doğalgaz,Boş,Bilinmiyor,Hayır,1,15000,0,Yok,1,95, Pamukkale,İncilipınar Mahallesi
+1094,1094,Daire,35,1,5,Yüksek Giriş,5,Kombi Doğalgaz,Eşyalı,Bilinmiyor,Hayır,1,8000,0,Yok,1,95, Merkezefendi,Değirmenönü Mahallesi
+1095,1095,Daire,72,2,16,Yüksek Giriş,3,Yerden Isıtma,Eşyalı,Bilinmiyor,Hayır,1,13000,0,Yok,1,24, Pamukkale,İncilipınar Mahallesi
+1096,1096,Daire,45,0,5,3.Kat,3,Kombi Doğalgaz,Eşyalı,Bilinmiyor,Hayır,1,7500,0,Yok,1,24, Pamukkale,Zeytinköy Mahallesi
+1097,1097,Daire,55,3,1,3.Kat,4,Yerden Isıtma,Eşyalı,Bilinmiyor,Hayır,1,10000,0,Yok,1,95, Çivril,Kızılcasöğüt Mahallesi
+1098,1098,Daire,40,1,0,2.Kat,4,Kat Kaloriferi,Eşyalı,Bilinmiyor,Hayır,1,10000,0,Yok,1,95, Çivril,Çayır Mahallesi
+1099,1099,Daire,85,3,3,2.Kat,4,Merkezi Doğalgaz,Eşyalı,Bilinmiyor,Hayır,1,10000,0,Yok,1,95, Çivril,Çarşı Mahallesi
+1100,1100,Daire,50,1,1,Düz Giriş (Zemin),3,Klimalı,Eşyalı,Bilinmiyor,Hayır,1,10000,0,Yok,1,95, Çivril,Çayır Mahallesi
+1101,1101,Daire,145,6,5,3.Kat,3,Kombi Doğalgaz,Boş,Bilinmiyor,Evet,1,11000,0,Yok,1,95, Çivril,Yukarı Mahallesi
+1102,1102,Daire,40,1,4,2.Kat,3,Kombi Doğalgaz,Boş,Bilinmiyor,Hayır,1,10000,1,Fransız Balkon,1,24, Pamukkale,Asmalıevler Mahallesi
+1103,1103,Daire,45,1,4,2.Kat,4,Kombi Doğalgaz,Eşyalı,Bilinmiyor,Hayır,1,10000,0,Yok,1,95, Pamukkale,İncilipınar Mahallesi
+1104,1104,Daire,65,3,4,1.Kat,3,Yerden Isıtma,Eşyalı,Kat Mülkiyeti,Hayır,1,14000,0,Yok,1,14, Merkezefendi,Bahçelievler Mahallesi
+1105,1105,Daire,140,6,16,2.Kat,4,Kombi Doğalgaz,Boş,Bilinmiyor,Hayır,1,15000,0,Yok,1,95, Pamukkale,Fesleğen Mahallesi
+1106,1106,Daire,45,1,4,2.Kat,5,Kombi Doğalgaz,Eşyalı,Bilinmiyor,Hayır,1,11000,0,Yok,1,95, Pamukkale,Asmalıevler Mahallesi
+1107,1107,Daire,180,8,0,3.Kat,3,Yerden Isıtma,Boş,Bilinmiyor,Hayır,2,22000,0,Yok,1,24, Merkezefendi,Gültepe Mahallesi
+1108,1108,Daire,160,6,16,2.Kat,4,Kombi Doğalgaz,Boş,Bilinmiyor,Hayır,1,16000,3,Kapalı Balkon,1,24, Pamukkale,Yunusemre Mahallesi
+1109,1109,Daire,50,1,5,1.Kat,3,Yerden Isıtma,Eşyalı,Bilinmiyor,Hayır,1,12000,0,Yok,1,95, Pamukkale,Asmalıevler Mahallesi
+1110,1110,Daire,35,1,11,Kot 2 (-2).Kat,4,Merkezi Doğalgaz,Boş,Bilinmiyor,Hayır,1,7000,0,Yok,1,35, Pamukkale,Kınıklı Mahallesi
+1111,1111,Daire,115,3,4,2.Kat,4,Kombi Doğalgaz,Boş,Bilinmiyor,Hayır,1,20000,0,Yok,1,95, Merkezefendi,Çakmak Mahallesi
+1112,1112,Daire,150,6,11,1.Kat,4,Kombi Doğalgaz,Boş,Bilinmiyor,Hayır,1,17000,0,Yok,1,35, Merkezefendi,Adalet Mahallesi
+1113,1113,Daire,75,3,4,2.Kat,5,Kombi Doğalgaz,Eşyalı,Bilinmiyor,Hayır,1,18000,0,Yok,1,35, Merkezefendi,Adalet Mahallesi
+1114,1114,Daire,40,1,4,Bahçe Katı,2,Yerden Isıtma,Eşyalı,Bilinmiyor,Hayır,1,8000,0,Yok,1,35, Merkezefendi,Bahçelievler Mahallesi
+1115,1115,Daire,100,3,5,9.Kat,9,Kombi Doğalgaz,Eşyalı,Bilinmiyor,Hayır,2,17000,0,Yok,1,35, Merkezefendi,Şemikler Mahallesi
+1116,1116,Daire,45,1,0,2.Kat,3,Yerden Isıtma,Eşyalı,Kat Mülkiyeti,Hayır,1,14000,1,Kapalı Balkon,1,14, Merkezefendi,Bereketler Mahallesi
+1117,1117,Daire,135,6,4,3.Kat,3,Kombi Doğalgaz,Boş,Bilinmiyor,Hayır,1,15000,0,Yok,1,95, Pamukkale,Zümrüt Mahallesi
+1118,1118,Daire,55,0,3,5.Kat,5,Yerden Isıtma,Eşyalı,Bilinmiyor,Hayır,1,8000,0,Yok,1,95, Pamukkale,Pelitlibağ Mahallesi
+1119,1119,Daire,65,1,3,4.Kat,5,Yerden Isıtma,Boş,Bilinmiyor,Hayır,1,10000,0,Yok,1,95, Pamukkale,Pelitlibağ Mahallesi
+1120,1120,Daire,120,3,16,6.Kat,7,Kombi Doğalgaz,Boş,Bilinmiyor,Hayır,1,12000,0,Yok,1,21, Pamukkale,İstiklal Mahallesi
+1121,1121,Daire,50,1,0,1.Kat,2,Yerden Isıtma,Eşyalı,Bilinmiyor,Hayır,1,13000,0,Yok,1,95, Pamukkale,Kınıklı Mahallesi
+1122,1122,Daire,35,3,0,1.Kat,4,Yerden Isıtma,Eşyalı,Bilinmiyor,Hayır,1,23000,0,Yok,1,37, Pamukkale,Zeytinköy Mahallesi
+1123,1123,Daire,33,3,0,1.Kat,3,Yerden Isıtma,Eşyalı,Bilinmiyor,Hayır,1,23000,0,Yok,1,37, Pamukkale,Zeytinköy Mahallesi
+1124,1124,Daire,135,6,16,Düz Giriş (Zemin),2,Sobalı,Boş,Bilinmiyor,Hayır,1,8000,0,Yok,1,94, Sarayköy,Duacılı Mahallesi
+1125,1125,Daire,75,1,5,3.Kat,3,Yerden Isıtma,Boş,Bilinmiyor,Hayır,1,15000,0,Yok,1,39, Merkezefendi,Bahçelievler Mahallesi
+1127,1127,Daire,103,3,5,1.Kat,2,Kombi Doğalgaz,Boş,Bilinmiyor,Hayır,1,17500,0,Yok,1,43, Merkezefendi,Mehmet Akif Ersoy Mahallesi
+1129,1129,Daire,40,1,4,Bahçe Katı,4,Kombi Doğalgaz,Boş,Bilinmiyor,Hayır,1,8000,0,Yok,1,95, Merkezefendi,Bereketler Mahallesi
+1130,1130,Daire,65,1,5,1.Kat,29,Merkezi (Pay Ölçer),Boş,Bilinmiyor,Evet,1,23000,1,Açık Balkon,1,29, Merkezefendi,Kayalar Mahallesi
+1131,1131,Daire,30,0,4,Bahçe Katı,4,Kombi Doğalgaz,Boş,Bilinmiyor,Hayır,1,8000,0,Yok,1,24, Pamukkale,Yunusemre Mahallesi
+1132,1132,Daire,125,3,0,1.Kat,4,Yerden Isıtma,Boş,Bilinmiyor,Hayır,1,19000,0,Yok,1,24, Merkezefendi,Karaman Mahallesi
+1133,1133,Daire,45,1,4,Bahçe Katı,4,Kombi Doğalgaz,Boş,Bilinmiyor,Hayır,1,12000,0,Yok,1,24, Pamukkale,Zeytinköy Mahallesi
+1134,1134,Daire,40,1,3,3.Kat,4,Kombi Doğalgaz,Boş,Bilinmiyor,Hayır,1,9000,0,Yok,1,24, Pamukkale,İncilipınar Mahallesi
+1135,1135,Daire,70,1,0,2.Kat,3,Yerden Isıtma,Eşyalı,Bilinmiyor,Hayır,1,13000,0,Yok,1,95, Pamukkale,Zeytinköy Mahallesi
+1136,1136,Daire,40,0,4,Bahçe Katı,3,Yerden Isıtma,Eşyalı,Bilinmiyor,Hayır,1,6700,0,Yok,1,95, Pamukkale,Asmalıevler Mahallesi
+1137,1137,Daire,100,6,2,Kot 4 (-4).Kat,5,Kombi Doğalgaz,Boş,Bilinmiyor,Evet,2,17000,1,Açık Balkon,1,95, Merkezefendi,Karahasanlı Mahallesi
+1138,1138,Daire,35,1,11,2.Kat,4,Merkezi Doğalgaz,Boş,Bilinmiyor,Hayır,1,10000,1,Kapalı Balkon,1,36, Pamukkale,Kınıklı Mahallesi
+1139,1139,Daire,40,1,11,Bodrum Kat,4,Sobalı,Eşyalı,Bilinmiyor,Hayır,1,5000,0,Yok,1,24, Pamukkale,Siteler Mahallesi
+1140,1140,Daire,110,3,0,4.Kat,4,Yerden Isıtma,Boş,Bilinmiyor,Hayır,2,23000,0,Yok,1,43, Merkezefendi,Şemikler Mahallesi
+1141,1141,Daire,45,1,3,3.Kat,5,Kombi Doğalgaz,Eşyalı,Bilinmiyor,Hayır,1,10000,0,Yok,1,95, Pamukkale,Kuşpınar Mahallesi
+1142,1142,Daire,32,1,4,Bahçe Katı,4,Kombi Doğalgaz,Boş,Kat Mülkiyeti,Hayır,1,6500,0,Yok,1,83, Pamukkale,İncilipınar Mahallesi
+1144,1144,Daire,140,6,11,3.Kat,3,Kombi Doğalgaz,Boş,Bilinmiyor,Hayır,1,16000,0,Yok,1,37, Merkezefendi,Gültepe Mahallesi
+1145,1145,Daire,40,1,5,4.Kat,6,Kombi Doğalgaz,Boş,Bilinmiyor,Hayır,1,8000,0,Yok,1,24, Pamukkale,Yunusemre Mahallesi
+1146,1146,Daire,250,8,11,2.Kat,3,Kombi Doğalgaz,Boş,Bilinmiyor,Hayır,2,25000,0,Yok,1,24, Merkezefendi,Karaman Mahallesi
+1147,1147,Daire,45,1,5,4.Kat,6,Kombi Doğalgaz,Boş,Bilinmiyor,Hayır,1,13000,0,Yok,1,95, Pamukkale,Asmalıevler Mahallesi
+1148,1148,Daire,60,3,5,2.Kat,4,Kombi Doğalgaz,Boş,Bilinmiyor,Hayır,1,15000,0,Yok,1,74, Pamukkale,Yunusemre Mahallesi
+1149,1149,Daire,175,6,11,Yüksek Giriş,5,Kombi Doğalgaz,Boş,Bilinmiyor,Hayır,1,24000,0,Yok,1,39, Merkezefendi,Adalet Mahallesi
+1150,1150,Daire,45,1,5,Çatı Katı,4,Kombi Doğalgaz,Eşyalı,Bilinmiyor,Hayır,1,12500,0,Yok,1,86, Merkezefendi,Adalet Mahallesi
+1151,1151,Daire,145,6,5,Bahçe Katı,4,Kombi Doğalgaz,Boş,Bilinmiyor,Hayır,1,20000,0,Yok,1,24, Pamukkale,Zeytinköy Mahallesi
+1152,1152,Daire,60,1,5,3.Kat,4,Yerden Isıtma,Boş,Bilinmiyor,Hayır,1,12000,0,Yok,1,24, Merkezefendi,Sırakapılar Mahallesi
+1153,1153,Daire,110,3,1,4.Kat,6,Merkezi Doğalgaz,Boş,Yabancıdan,Evet,2,15000,0,Yok,2,12, Merkezefendi,Kayalar Mahallesi
+1154,1154,Daire,130,6,4,1.Kat,4,Yerden Isıtma,Boş,Yabancıdan,Hayır,1,20000,2,Açık Teras,2,25, Merkezefendi,Karahasanlı Mahallesi
+1155,1155,Daire,50,1,5,3.Kat,3,Kombi Doğalgaz,Boş,Bilinmiyor,Hayır,1,11000,0,Yok,1,74, Pamukkale,Zeytinköy Mahallesi
+1156,1156,Daire,45,1,5,2.Kat,5,Merkezi Doğalgaz,Boş,Bilinmiyor,Hayır,1,15000,0,Yok,1,74, Pamukkale,Yunusemre Mahallesi
+1157,1157,Daire,45,1,5,2.Kat,4,Kombi Doğalgaz,Boş,Bilinmiyor,Hayır,1,11500,0,Yok,1,74, Pamukkale,Yunusemre Mahallesi
+1158,1158,Daire,60,3,5,2.Kat,4,Kombi Doğalgaz,Boş,Bilinmiyor,Hayır,1,13000,0,Yok,1,74, Pamukkale,Yunusemre Mahallesi
+1159,1159,Daire,60,3,5,3.Kat,5,Kombi Doğalgaz,Boş,Bilinmiyor,Hayır,1,16000,0,Yok,1,74, Pamukkale,Asmalıevler Mahallesi
+1160,1160,Daire,80,1,5,6.Kat,29,Merkezi (Pay Ölçer),Boş,Bilinmiyor,Hayır,1,20000,0,Yok,1,84, Merkezefendi,Kayalar Mahallesi
+1161,1161,Daire,120,6,21,Bahçe Katı,3,Kombi Doğalgaz,Boş,Bilinmiyor,Hayır,1,8000,0,Yok,1,95, Pamukkale,Kervansaray Mahallesi
+1162,1162,Daire,50,1,0,1.Kat,4,Yerden Isıtma,Eşyalı,Bilinmiyor,Hayır,1,25000,0,Yok,1,95, Pamukkale,Kınıklı Mahallesi
+1163,1163,Daire,42,0,5,2.Kat,3,Kombi Doğalgaz,Eşyalı,Bilinmiyor,Hayır,1,10000,0,Yok,1,39, Çivril,Kızılcasöğüt Mahallesi
+1164,1164,Daire,45,1,5,2.Kat,4,Kombi Doğalgaz,Boş,Bilinmiyor,Hayır,1,10000,0,Yok,1,24, Pamukkale,Yunusemre Mahallesi
+1165,1165,Daire,45,1,4,2.Kat,4,Kombi Doğalgaz,Boş,Bilinmiyor,Hayır,1,11000,0,Yok,1,24, Pamukkale,Asmalıevler Mahallesi
+1166,1166,Daire,160,6,11,2.Kat,5,Kombi Doğalgaz,Boş,Bilinmiyor,Hayır,1,21500,2,Açık Balkon,1,74, Pamukkale,Yunusemre Mahallesi
+1167,1167,Daire,50,1,5,1.Kat,4,Kombi Doğalgaz,Boş,Arsa Tapulu,Hayır,1,6000,0,Yok,1,95, Pamukkale,Kınıklı Mahallesi
+1168,1168,Daire,55,1,4,3.Kat,3,Kombi Doğalgaz,Eşyalı,Tapu Kaydı Yok,Hayır,1,12500,0,Yok,1,64, Pamukkale,Siteler Mahallesi
+1169,1169,Daire,44,1,5,2.Kat,4,Kombi Doğalgaz,Boş,Bilinmiyor,Hayır,1,9000,0,Yok,1,24, Pamukkale,Yunusemre Mahallesi
+1170,1170,Daire,45,1,4,3.Kat,3,Merkezi Doğalgaz,Boş,Bilinmiyor,Hayır,1,11000,0,Yok,1,39, Çivril,Aşağı Mahallesi
+1171,1171,Daire,25,0,4,Düz Giriş (Zemin),3,Yerden Isıtma,Eşyalı,Bilinmiyor,Hayır,1,7000,0,Yok,1,95, Pamukkale,Siteler Mahallesi
+1172,1172,Daire,160,6,5,3.Kat,5,Kombi Doğalgaz,Boş,Bilinmiyor,Evet,1,25000,0,Yok,1,43, Merkezefendi,Mehmet Akif Ersoy Mahallesi
+1173,1173,Daire,145,6,0,2.Kat,3,Yerden Isıtma,Boş,Bilinmiyor,Hayır,1,21500,0,Yok,1,43, Merkezefendi,Şemikler Mahallesi
+1174,1174,Daire,50,1,5,Bahçe Katı,3,Kombi Doğalgaz,Boş,Bilinmiyor,Hayır,1,10000,0,Yok,1,86, Pamukkale,Zeytinköy Mahallesi
+1175,1175,Daire,155,6,11,1.Kat,5,Klimalı,Boş,Bilinmiyor,Hayır,1,25000,0,Yok,1,95, Pamukkale,İncilipınar Mahallesi
+1176,1176,Daire,65,3,5,1.Kat,4,Kombi Doğalgaz,Boş,Bilinmiyor,Hayır,1,17000,0,Yok,1,24, Pamukkale,Siteler Mahallesi
+1177,1177,Daire,70,3,5,2.Kat,3,Kombi Doğalgaz,Boş,Bilinmiyor,Hayır,1,20000,0,Yok,1,24, Pamukkale,Kınıklı Mahallesi
+1178,1178,Daire,50,1,5,3.Kat,5,Kombi Doğalgaz,Eşyalı,Bilinmiyor,Hayır,1,15000,0,Yok,1,95, Pamukkale,Kuşpınar Mahallesi
+1179,1179,Daire,50,1,0,Yüksek Giriş,3,Kombi Doğalgaz,Boş,Bilinmiyor,Hayır,1,13500,0,Yok,1,91, Merkezefendi,Bahçelievler Mahallesi
+1180,1180,Daire,120,6,0,1.Kat,4,Yerden Isıtma,Boş,Bilinmiyor,Hayır,2,25000,0,Yok,1,24, Merkezefendi,Karahasanlı Mahallesi
+1181,1181,Daire,40,1,5,Yüksek Giriş,3,Kombi Doğalgaz,Eşyalı,Bilinmiyor,Hayır,1,10000,0,Yok,1,95, Pamukkale,Kınıklı Mahallesi
+1182,1182,Daire,104,5,5,6.Kat,16,Merkezi (Pay Ölçer),Eşyalı,Bilinmiyor,Evet,1,30000,0,Yok,1,37, Merkezefendi,Selçuk Bey Mahallesi
+1183,1183,Daire,55,1,0,2.Kat,2,Kombi Doğalgaz,Boş,Bilinmiyor,Hayır,1,13500,0,Yok,1,14, Merkezefendi,Bahçelievler Mahallesi
+1184,1184,Daire,115,3,5,1.Kat,4,Kombi Doğalgaz,Boş,Bilinmiyor,Hayır,1,23000,0,Yok,1,95, Merkezefendi,Çakmak Mahallesi
+1185,1185,Daire,35,1,2,Bahçe Katı,3,Yerden Isıtma,Eşyalı,Bilinmiyor,Hayır,1,8250,0,Yok,1,95, Pamukkale,Zeytinköy Mahallesi
+1186,1186,Daire,45,1,4,3.Kat,4,Yerden Isıtma,Eşyalı,Bilinmiyor,Hayır,1,14500,0,Yok,1,95, Pamukkale,Zeytinköy Mahallesi
+1187,1187,Daire,65,3,5,Bahçe Katı,4,Kombi Doğalgaz,Eşyalı,Bilinmiyor,Hayır,1,15000,0,Yok,1,95, Pamukkale,Asmalıevler Mahallesi
+1188,1188,Daire,70,1,4,3.Kat,5,Merkezi Doğalgaz,Eşyalı,Bilinmiyor,Hayır,1,16750,0,Yok,1,95, Pamukkale,Fatih Mahallesi
+1189,1189,Daire,170,8,3,3.Kat,7,Kombi Doğalgaz,Boş,Bilinmiyor,Hayır,1,15000,0,Yok,1,0, Merkezefendi,Altıntop Mahallesi
+1190,1190,Daire,60,3,11,Düz Giriş (Zemin),5,Kombi Doğalgaz,Eşyalı,Kat Mülkiyeti,Hayır,1,12000,0,Yok,1,95, Pamukkale,Kınıklı Mahallesi
+1191,1191,Daire,151,6,16,1.Kat,4,Kombi Doğalgaz,Boş,Bilinmiyor,Hayır,2,18000,0,Yok,1,28, Pamukkale,Kervansaray Mahallesi
+1192,1192,Daire,160,6,11,4.Kat,5,Kombi Doğalgaz,Boş,Bilinmiyor,Hayır,1,15000,0,Yok,1,42, Merkezefendi,Adalet Mahallesi
+1193,1193,Daire,45,1,4,2.Kat,3,Yerden Isıtma,Eşyalı,Bilinmiyor,Hayır,1,11000,0,Yok,1,37, Pamukkale,Mehmetçik Mahallesi
+1194,1194,Daire,35,1,0,2.Kat,4,Yerden Isıtma,Eşyalı,Bilinmiyor,Hayır,1,16000,0,Yok,1,37, Pamukkale,Kınıklı Mahallesi
+1195,1195,Daire,45,1,5,2.Kat,4,Kombi Doğalgaz,Boş,Bilinmiyor,Hayır,1,10000,0,Yok,1,24, Pamukkale,Asmalıevler Mahallesi
+1196,1196,Daire,45,1,5,4.Kat,5,Kombi Doğalgaz,Boş,Bilinmiyor,Hayır,1,8500,0,Yok,1,24, Pamukkale,Kınıklı Mahallesi
+1197,1197,Daire,85,3,5,Çatı Katı,4,Kombi Doğalgaz,Boş,Bilinmiyor,Hayır,1,9000,0,Yok,1,24, Pamukkale,İncilipınar Mahallesi
+1198,1198,Daire,110,3,0,2.Kat,2,Kombi Doğalgaz,Boş,Bilinmiyor,Hayır,1,15000,1,Kapalı Balkon,1,35, Pamukkale,Dokuzkavaklar Mahallesi
